@@ -58,6 +58,21 @@ function parseFlights(data: string): Flight[] {
   return flights
 }
 
+const landsNextDay = (flight: Flight) => {
+  const departure = new Date(`${flight.date} ${flight.takeoff}`)
+  const landing = new Date(`${flight.date} ${flight.landing}`)
+  return departure.getTime() > landing.getTime()
+}
+
+
+const getArrivalTime = (flight: Flight): Date => {
+    const arrival = new Date(`${flight.date} ${flight.landing}`)
+    if (landsNextDay(flight)) {
+        arrival.setDate(arrival.getDate() + 1)
+    }
+    return arrival
+}
+
 
 function findConnections(flights: Flight[], from: string, to: string, date: string): Connection[] {
   const connections: Connection[] = []
@@ -76,7 +91,7 @@ function findConnections(flights: Flight[], from: string, to: string, date: stri
     for (const flight of flights) {
       if (flight.from === current && flight.date >= date && !visited.has(flight.to)) {
         const lastFlight = path[path.length - 1]
-        if (!lastFlight || `${flight.date} ${flight.takeoff}` > `${lastFlight.date} ${lastFlight.landing}`) {
+        if (!lastFlight || getArrivalTime(lastFlight).getTime() < new Date(`${flight.date} ${flight.takeoff}`).getTime()) {
           dfs(flight.to, [...path, flight], totalPrice + parseFloat(flight.price), stops + 1, new Set([...visited, flight.to]))
         }
       }
@@ -129,23 +144,8 @@ export async function GET(request: Request) {
   // Sort connections by arrival time, keeping in mind that some flights may arrive the next day
     connections.sort((a, b) => {
 
-
-      const landsNextDay = (flight: Flight) => {
-        const departure = new Date(`${flight.date} ${flight.takeoff}`)
-        const landing = new Date(`${flight.date} ${flight.landing}`)
-        return departure.getTime() > landing.getTime()
-      }
-
-        const aArrival = new Date(`${a.flights[a.flights.length - 1].date} ${a.flights[a.flights.length - 1].landing}`)
-        const bArrival = new Date(`${b.flights[b.flights.length - 1].date} ${b.flights[b.flights.length - 1].landing}`)
-        if (landsNextDay(a.flights[a.flights.length - 1])) {
-          aArrival.setDate(aArrival.getDate() + 1)
-        }
-        if (landsNextDay(b.flights[b.flights.length - 1])) {
-          bArrival.setDate(bArrival.getDate() + 1)
-        }
-
-
+        const aArrival = getArrivalTime(a.flights[a.flights.length - 1])
+        const bArrival = getArrivalTime(b.flights[b.flights.length - 1])
 
         return aArrival.getTime() - bArrival.getTime()
     })
