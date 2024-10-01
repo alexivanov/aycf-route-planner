@@ -61,25 +61,7 @@ export default function FlightSearch() {
 
   return (
     <div className="container mx-auto p-4">
-      <h1 className="text-3xl font-bold mb-6">AYCF Flight Connection Finder</h1>
-      {/*Disclimer*/}
-        <Card className="mb-8 ">
-            <CardHeader>
-            <CardTitle>Disclaimer</CardTitle>
-            <CardDescription className="max-w-2xl">
-              <div>This is very experimental and data is manually updated. Shoutout to Walter for providing the data. </div>
-              <div>95% percent of this was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
-
-              <div className="font-bold">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
-              <div className="mt-3">
-              Known issues:
-                <ul className="list-disc">
-                    <li>Flight durations are inaccurate (Caravelo still haven&apos;t fixed them on the multipass site)</li>
-                </ul>
-              </div>
-            </CardDescription>
-            </CardHeader>
-        </Card>
+      <h1 className="text-3xl font-bold mb-6">Flight Connection Finder</h1>
       <Card>
         <CardHeader>
           <CardTitle>Search for Flights</CardTitle>
@@ -132,7 +114,7 @@ export default function FlightSearch() {
 
       {connections.length > 0 && (
         <div className="mt-8">
-          <h2 className="text-2xl font-semibold mb-4">Available Connections (max 2 stop-overs) ({connections.length})</h2>
+          <h2 className="text-2xl font-semibold mb-4">Available Connections</h2>
           {connections.map((connection, index) => (
             <Card key={index} className="mb-4">
               <CardHeader>
