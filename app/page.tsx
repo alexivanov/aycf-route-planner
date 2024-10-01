@@ -92,7 +92,7 @@ export default function FlightSearch() {
                 <Label htmlFor="from">From</Label>
                 <Input
                   id="from"
-                  placeholder="Departure Airport"
+                  placeholder="Departure Airport (e.g. LTN)"
                   value={from}
                   onChange={(e) => setFrom(e.target.value.toUpperCase())}
                   required
@@ -102,7 +102,7 @@ export default function FlightSearch() {
                 <Label htmlFor="to">To</Label>
                 <Input
                   id="to"
-                  placeholder="Arrival Airport"
+                  placeholder="Arrival Airport (e.g. MLE)"
                   value={to}
                   onChange={(e) => setTo(e.target.value.toUpperCase())}
                   required
