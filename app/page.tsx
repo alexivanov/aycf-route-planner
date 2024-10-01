@@ -68,7 +68,7 @@ export default function FlightSearch() {
             <CardTitle>Disclaimer</CardTitle>
             <CardDescription className="max-w-2xl">
               <div>This is very experimental and data is manually updated. Shoutout to Walter for providing the data. </div>
-              <div>95% percent of this was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
+              <div>95% percent of this website was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
 
               <div className="font-bold">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
               <div className="mt-3">
