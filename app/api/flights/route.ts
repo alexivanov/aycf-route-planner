@@ -150,5 +150,7 @@ export async function GET(request: Request) {
         return aArrival.getTime() - bArrival.getTime()
     })
 
+  console.log(`[route log] Search from ${from} to ${to} on ${date} found ${connections.length} connections`)
+
   return NextResponse.json(connections)
 }
