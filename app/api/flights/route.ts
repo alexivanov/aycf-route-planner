@@ -1,6 +1,6 @@
-import { NextResponse } from 'next/server'
+import {NextResponse} from 'next/server'
 import path from 'path'
-import { promises as fs } from 'fs'
+import {promises as fs} from 'fs'
 
 interface Flight {
   date: string
@@ -65,6 +65,10 @@ const landsNextDay = (flight: Flight) => {
 }
 
 
+const getDepartureTime = (flight: Flight): Date => {
+  return new Date(`${flight.date} ${flight.takeoff}`)
+}
+
 const getArrivalTime = (flight: Flight): Date => {
     const arrival = new Date(`${flight.date} ${flight.landing}`)
     if (landsNextDay(flight)) {
@@ -91,7 +95,7 @@ function findConnections(flights: Flight[], from: string, to: string, date: stri
     for (const flight of flights) {
       if (flight.from === current && flight.date >= date && !visited.has(flight.to)) {
         const lastFlight = path[path.length - 1]
-        if (!lastFlight || getArrivalTime(lastFlight).getTime() < new Date(`${flight.date} ${flight.takeoff}`).getTime()) {
+        if (!lastFlight || getArrivalTime(lastFlight).getTime() < getDepartureTime(flight).getTime()) {
           dfs(flight.to, [...path, flight], totalPrice + parseFloat(flight.price), stops + 1, new Set([...visited, flight.to]))
         }
       }
@@ -117,8 +121,8 @@ function calculateLayovers(flights: Flight[]): { airport: string; duration: numb
     const currentFlight = flights[i]
     const nextFlight = flights[i + 1]
     const layoverAirport = currentFlight.to
-    const layoverStart = new Date(`${currentFlight.date} ${currentFlight.landing}`)
-    const layoverEnd = new Date(`${nextFlight.date} ${nextFlight.takeoff}`)
+    const layoverStart = getArrivalTime(currentFlight)
+    const layoverEnd = getDepartureTime(nextFlight)
     const duration = (layoverEnd.getTime() - layoverStart.getTime()) / (1000 * 60) // Duration in minutes
     layovers.push({ airport: layoverAirport, duration })
   }
