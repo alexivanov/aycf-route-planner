@@ -62,7 +62,6 @@ export default function FlightSearch() {
   return (
     <div className="container mx-auto p-4">
       <h1 className="text-3xl font-bold mb-6">AYCF Flight Connection Finder</h1>
-      {/*Disclimer*/}
         <Card className="mb-8 ">
             <CardHeader>
             <CardTitle>Disclaimer</CardTitle>
@@ -72,7 +71,7 @@ export default function FlightSearch() {
 
               <div className="font-bold">Last availability data update: 01/07/2024 ~7:00 CET</div>
 
-              <div className="font-bold">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
+              <div className="font-bold mt-3">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
               <div className="mt-3">
               Known issues:
                 <ul className="list-disc">
@@ -98,6 +97,8 @@ export default function FlightSearch() {
                   value={from}
                   onChange={(e) => setFrom(e.target.value.toUpperCase())}
                   required
+                  minLength={3}
+                  maxLength={3}
                 />
               </div>
               <div className="space-y-2">
@@ -108,6 +109,8 @@ export default function FlightSearch() {
                   value={to}
                   onChange={(e) => setTo(e.target.value.toUpperCase())}
                   required
+                  minLength={3}
+                  maxLength={3}
                 />
               </div>
               <div className="space-y-2">
