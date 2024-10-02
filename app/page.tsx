@@ -66,7 +66,7 @@ export default function FlightSearch() {
             <CardHeader>
             <CardTitle>Disclaimer</CardTitle>
             <CardDescription className="max-w-2xl">
-              <div>This is very experimental and data is manually updated. Shoutout to Walter for providing the data. </div>
+              <div>This is very experimental and data is manually updated from external sources. </div>
               <div>95% percent of this website was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
 
               <div className="font-bold">Last availability data update: 01/07/2024 ~7:00 CET</div>
