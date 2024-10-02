@@ -70,6 +70,8 @@ export default function FlightSearch() {
               <div>This is very experimental and data is manually updated. Shoutout to Walter for providing the data. </div>
               <div>95% percent of this website was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
 
+              <div className="font-bold">Last availability data update: 01/07/2024 ~7:00 CET</div>
+
               <div className="font-bold">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
               <div className="mt-3">
               Known issues:
@@ -116,6 +118,9 @@ export default function FlightSearch() {
                   value={date}
                   onChange={(e) => setDate(e.target.value)}
                   required
+                  min={new Date().toISOString().split('T')[0]}
+                  // Max in 3 days
+                  max={new Date(Date.now() + 3 * 24 * 60 * 60 * 1000).toISOString().split('T')[0]}
                 />
               </div>
             </div>
