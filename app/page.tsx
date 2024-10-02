@@ -161,7 +161,7 @@ export default function FlightSearch() {
                     <p>Duration: {flight.duration}</p>
                     <p>Price: {flight.price}</p>
                     {connection.layovers[flightIndex] && (
-                      <p className="mt-2 text-sm text-gray-600">
+                      <p className={`mt-2 text-sm ${connection.layovers[flightIndex].duration <= 30 ? "text-red-700 font-bold" : "text-gray-600"}`}>
                         Layover in {connection.layovers[flightIndex].airport}:
                         {formatDuration(connection.layovers[flightIndex].duration)}
                       </p>
