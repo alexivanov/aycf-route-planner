@@ -8,7 +8,9 @@ interface Flight {
   landing: string
   duration: string
   from: string
+  fromFullName: string
   to: string
+  toFullName: string
   price: string
 }
 
@@ -47,9 +49,11 @@ function parseFlights(data: string): Flight[] {
         const landing = lines[i + 2].split(': ')[1]
         const duration = lines[i + 3].split(': ')[1]
         const from = lines[i + 4].split(': ')[1].split(' ')[0]
+        const fromFullName = lines[i + 4].split(': ')[1]
         const to = lines[i + 5].split(': ')[1].split(' ')[0]
+        const toFullName = lines[i + 5].split(': ')[1]
         const price = lines[i + 6].split(': ')[1]
-        flights.push({ date, takeoff, landing, duration, from, to, price })
+        flights.push({ date, takeoff, landing, duration, from, fromFullName, to, toFullName, price })
       } else {
         console.error('Invalid flight data format')
       }

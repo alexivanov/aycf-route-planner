@@ -12,7 +12,9 @@ interface Flight {
   landing: string
   duration: string
   from: string
+  fromFullName: string
   to: string
+  toFullName: string
   price: string
 }
 
@@ -154,7 +156,7 @@ export default function FlightSearch() {
                   <div key={flightIndex} className="mb-4 p-4 bg-gray-50 rounded-md">
                     <p className="font-semibold">Flight {flightIndex + 1}:</p>
                     <p>Date: {flight.date}</p>
-                    <p>From: {flight.from} to {flight.to}</p>
+                    <p>From: {flight.fromFullName} to {flight.toFullName}</p>
                     <p>Takeoff: {flight.takeoff} | Landing: {flight.landing}</p>
                     <p>Duration: {flight.duration}</p>
                     <p>Price: {flight.price}</p>
