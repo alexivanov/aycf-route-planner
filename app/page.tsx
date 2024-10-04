@@ -71,7 +71,7 @@ export default function FlightSearch() {
               <div>This is very experimental and data is manually updated from external sources. </div>
               <div>95% percent of this website was AI generated. It should be accurate but double check with the Multipass site. 🤷‍♂️</div>
 
-              <div className="font-bold">Last availability data update: 03/07/2024 ~11:30 CET</div>
+              <div className="font-bold">Last availability data update: 04/07/2024 ~10:00 CET</div>
 
               <div className="font-bold mt-3">Also don&apos;t book flights with &lt;3 hour layover. You will miss your flight.</div>
               <div className="mt-3">
