@@ -82,7 +82,8 @@ export const ReturnJourneyFinder: FunctionComponent<{
         <CardHeader>
           <CardTitle>Search for Return Journeys</CardTitle>
           <CardDescription>
-            Select one or more departure airports.
+            Select one or more departure airports. This will be all airports you
+            are happy to depart from or return to.
           </CardDescription>
         </CardHeader>
         <CardContent>
