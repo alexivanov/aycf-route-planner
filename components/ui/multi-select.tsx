@@ -16,6 +16,7 @@ import {
   PopoverTrigger,
 } from "@/components/ui/popover";
 import { getFullAirportName } from "@/lib/get-full-airport-name";
+import { Airport } from "@/lib/types";
 
 interface MultiSelectProps {
   options: Airport[];
