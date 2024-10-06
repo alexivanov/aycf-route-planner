@@ -33,3 +33,12 @@ export interface Connection {
 export interface ConnectionApiResult extends Omit<Connection, "flights"> {
   flights: FlightApiResult[];
 }
+
+export interface Destination {
+  airport: Airport;
+  connections: Connection[];
+}
+
+export interface DestinationApiResult extends Omit<Destination, "connections"> {
+  connections: ConnectionApiResult[];
+}

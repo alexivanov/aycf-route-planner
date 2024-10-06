@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import localFont from "next/font/local";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
+import Link from "next/link";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -29,7 +30,29 @@ export default function RootLayout({
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <nav className="bg-primary text-primary-foreground">
+          <div className="container mx-auto px-4">
+            <div className="flex items-center justify-between h-16">
+              <div className="flex items-center">
+                <Link href="/" className="text-xl font-bold">
+                  AYCF Flight Search
+                </Link>
+              </div>
+              <div className="flex space-x-4">
+                <Link href="/" className="hover:text-gray-300">
+                  Flight Search
+                </Link>
+                <Link
+                  href="/return-journey-finder"
+                  className="hover:text-gray-300"
+                >
+                  Return Journey Finder
+                </Link>
+              </div>
+            </div>
+          </div>
+        </nav>
+        <main className="container mx-auto px-4 py-8">{children}</main>
         <Analytics />
       </body>
     </html>

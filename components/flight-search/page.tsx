@@ -27,8 +27,8 @@ import {
 import { Check, ChevronsUpDown } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Airport, Connection, ConnectionApiResult } from "@/lib/types";
-import { getFullAirportName } from "@/lib/get-full-airport-name";
-import { formatDuration, formatFlightTime } from "@/lib/format-times";
+import { ConnectionCard } from "@/components/ui/connection";
+import { parseApiConnectionData } from "@/lib/parse-api-connection-data";
 
 const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
   airports,
@@ -59,16 +59,7 @@ const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const data = (await response.json()) as ConnectionApiResult[];
-      setConnections(
-        data.map((connection: ConnectionApiResult) => ({
-          ...connection,
-          flights: connection.flights.map((flight) => ({
-            ...flight,
-            departure: new Date(flight.departure),
-            arrival: new Date(flight.arrival),
-          })),
-        })),
-      );
+      setConnections(data.map(parseApiConnectionData));
       if (data.length === 0) {
         setError("No flights found for the given route and date.");
       }
@@ -258,51 +249,11 @@ const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
             Available Connections (max 2 stop-overs) ({connections.length})
           </h2>
           {connections.map((connection, index) => (
-            <Card key={index} className="mb-4">
-              <CardHeader>
-                <CardTitle>Connection {index + 1}</CardTitle>
-                <CardDescription>
-                  Total Duration: {formatDuration(connection.totalDuration)}
-                </CardDescription>
-              </CardHeader>
-              <CardContent>
-                {connection.flights.map((flight, flightIndex) => (
-                  <div
-                    key={flightIndex}
-                    className="mb-4 rounded-md bg-gray-50 p-4"
-                  >
-                    <p className="font-semibold">Flight {flightIndex + 1}:</p>
-                    <p>Date: {flight.departure.toDateString()}</p>
-                    <p>
-                      From: {getFullAirportName(flight.from)} to{" "}
-                      {getFullAirportName(flight.to)}
-                    </p>
-                    <p>
-                      Takeoff: {formatFlightTime(flight.departure)} | Landing:{" "}
-                      {formatFlightTime(flight.arrival)}
-                    </p>
-                    <p>Duration: {formatDuration(flight.durationMinutes)}</p>
-                    <p>
-                      Price: {flight.price.amount} {flight.price.currency}
-                    </p>
-                    {connection.layovers[flightIndex] && (
-                      <p
-                        className={`mt-2 text-sm ${connection.layovers[flightIndex].duration <= 30 ? "font-bold text-red-700" : "text-gray-600"}`}
-                      >
-                        Layover in{" "}
-                        {getFullAirportName(
-                          connection.layovers[flightIndex].airport,
-                        )}
-                        :{" "}
-                        {formatDuration(
-                          connection.layovers[flightIndex].duration,
-                        )}
-                      </p>
-                    )}
-                  </div>
-                ))}
-              </CardContent>
-            </Card>
+            <ConnectionCard
+              key={index}
+              id={(index + 1).toString()}
+              connection={connection}
+            />
           ))}
         </div>
       )}
