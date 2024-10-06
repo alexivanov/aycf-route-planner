@@ -1,164 +1,113 @@
-import {NextResponse} from 'next/server'
-import path from 'path'
-import {promises as fs} from 'fs'
+import { loadFlightData } from "@/lib/load-flight-data";
+import { Airport, Connection, Flight } from "@/lib/types";
+import { NextResponse } from "next/server";
 
-interface Flight {
-  date: string
-  takeoff: string
-  landing: string
-  duration: string
-  from: string
-  fromFullName: string
-  to: string
-  toFullName: string
-  price: string
-}
+function findConnections(
+  flights: Flight[],
+  from: string,
+  to: string,
+  date: string,
+): Connection[] {
+  const connections: Connection[] = [];
+  const maxStops = 3; // Limit to 2 stops (3 flights max)
 
-interface Connection {
-  flights: Flight[]
-  totalPrice: number
-  totalDuration: number
-  layovers: { airport: string; duration: number }[]
-}
+  const parsedDate = new Date(date);
 
-async function loadFlightData(): Promise<string> {
-  const filePath = path.join(process.cwd(), 'data/flight-data.txt')
-  try {
-    const data = await fs.readFile(filePath, 'utf8')
-    return data
-  } catch (error) {
-    console.error('Error reading flight data file:', error)
-    throw new Error('Failed to load flight data')
-  }
-}
+  function dfs(
+    currentCode: string,
+    path: Flight[],
+    stops: number,
+    visited = new Set<string>(),
+  ) {
+    if (stops > maxStops) return;
 
-function parseFlights(data: string): Flight[] {
-  const flights: Flight[] = []
-    const alLines = data.split('\n').map((line) => line.trim())
-
-  // Find the first line of flight data, it will start with 'Date:'
-
-  const firstFlightIndex = alLines.findIndex((line) => line.startsWith('Date:'))
-    const lines = alLines.slice(firstFlightIndex)
-
-
-    for (let i = 0; i < lines.length; i += 8) {
-      if (lines[i].startsWith('Date:')) {
-        const date = lines[i].split(': ')[1]
-        const takeoff = lines[i + 1].split(': ')[1]
-        const landing = lines[i + 2].split(': ')[1]
-        const duration = lines[i + 3].split(': ')[1]
-        const from = lines[i + 4].split(': ')[1].split(' ')[0]
-        const fromFullName = lines[i + 4].split(': ')[1]
-        const to = lines[i + 5].split(': ')[1].split(' ')[0]
-        const toFullName = lines[i + 5].split(': ')[1]
-        const price = lines[i + 6].split(': ')[1]
-        flights.push({ date, takeoff, landing, duration, from, fromFullName, to, toFullName, price })
-      } else {
-        console.error('Invalid flight data format')
-      }
-    }
-
-  return flights
-}
-
-const landsNextDay = (flight: Flight) => {
-  const departure = new Date(`${flight.date} ${flight.takeoff}`)
-  const landing = new Date(`${flight.date} ${flight.landing}`)
-  return departure.getTime() > landing.getTime()
-}
-
-
-const getDepartureTime = (flight: Flight): Date => {
-  return new Date(`${flight.date} ${flight.takeoff}`)
-}
-
-const getArrivalTime = (flight: Flight): Date => {
-    const arrival = new Date(`${flight.date} ${flight.landing}`)
-    if (landsNextDay(flight)) {
-        arrival.setDate(arrival.getDate() + 1)
-    }
-    return arrival
-}
-
-
-function findConnections(flights: Flight[], from: string, to: string, date: string): Connection[] {
-  const connections: Connection[] = []
-  const maxStops = 3 // Limit to 2 stops (3 flights max)
-
-  function dfs(current: string, path: Flight[], totalPrice: number, stops: number, visited = new Set<string>()) {
-    if (stops > maxStops) return
-
-    if (current === to) {
-      const layovers = calculateLayovers(path)
-      const totalDuration = calculateTotalDuration(path) + layovers.reduce((acc, layover) => acc + layover.duration, 0)
-      connections.push({ flights: [...path], totalPrice, totalDuration, layovers })
-      return
+    if (currentCode === to) {
+      const layovers = calculateLayovers(path);
+      const totalDuration =
+        calculateTotalDuration(path) +
+        layovers.reduce((acc, layover) => acc + layover.duration, 0);
+      connections.push({
+        flights: [...path],
+        totalDuration,
+        layovers,
+      });
+      return;
     }
 
     for (const flight of flights) {
-      if (flight.from === current && flight.date >= date && !visited.has(flight.to)) {
-        const lastFlight = path[path.length - 1]
-        if (!lastFlight || getArrivalTime(lastFlight).getTime() < getDepartureTime(flight).getTime()) {
-          dfs(flight.to, [...path, flight], totalPrice + parseFloat(flight.price), stops + 1, new Set([...visited, flight.to]))
+      if (
+        flight.from.code === currentCode &&
+        flight.departure >= parsedDate &&
+        !visited.has(flight.to.code)
+      ) {
+        const lastFlight = path[path.length - 1];
+        if (
+          !lastFlight ||
+          lastFlight.arrival.getTime() < flight.departure.getTime()
+        ) {
+          dfs(
+            flight.to.code,
+            [...path, flight],
+            stops + 1,
+            new Set([...visited, flight.to.code]),
+          );
         }
       }
     }
   }
 
-  dfs(from, [], 0, 0, new Set([from]))
-  return connections
+  dfs(from, [], 0, new Set([from]));
+  return connections;
 }
 
 function calculateTotalDuration(flights: Flight[]): number {
-  let totalMinutes = 0
-  for (const flight of flights) {
-    const [hours, minutes] = flight.duration.split(':').map(Number)
-    totalMinutes += hours * 60 + minutes
-  }
-  return totalMinutes
+  return flights.reduce((acc, flight) => acc + flight.durationMinutes, 0);
 }
 
-function calculateLayovers(flights: Flight[]): { airport: string; duration: number }[] {
-  const layovers = []
+function calculateLayovers(
+  flights: Flight[],
+): { airport: Airport; duration: number }[] {
+  const layovers = [];
   for (let i = 0; i < flights.length - 1; i++) {
-    const currentFlight = flights[i]
-    const nextFlight = flights[i + 1]
-    const layoverAirport = currentFlight.to
-    const layoverStart = getArrivalTime(currentFlight)
-    const layoverEnd = getDepartureTime(nextFlight)
-    const duration = (layoverEnd.getTime() - layoverStart.getTime()) / (1000 * 60) // Duration in minutes
-    layovers.push({ airport: layoverAirport, duration })
+    const currentFlight = flights[i];
+    const nextFlight = flights[i + 1];
+    const layoverAirport = currentFlight.to;
+    const duration =
+      (nextFlight.departure.getTime() - currentFlight.arrival.getTime()) /
+      (1000 * 60); // Duration in minutes
+    layovers.push({ airport: layoverAirport, duration });
   }
-  return layovers
+  return layovers;
 }
 
 export async function GET(request: Request) {
-  const { searchParams } = new URL(request.url)
-  const from = searchParams.get('from')
-  const to = searchParams.get('to')
-  const date = searchParams.get('date')
+  const { searchParams } = new URL(request.url);
+  const from = searchParams.get("from");
+  const to = searchParams.get("to");
+  const date = searchParams.get("date");
 
   if (!from || !to || !date) {
-    return NextResponse.json({ error: 'Missing required parameters' }, { status: 400 })
+    return NextResponse.json(
+      { error: "Missing required parameters" },
+      { status: 400 },
+    );
   }
 
-  const flightData = await loadFlightData()
-  const flights = parseFlights(flightData)
+  const flights = await loadFlightData();
 
-  const connections = findConnections(flights, from, to, date)
-
+  const connections = findConnections(flights, from, to, date);
 
   // Sort connections by arrival time, keeping in mind that some flights may arrive the next day
-    connections.sort((a, b) => {
+  connections.sort((a, b) => {
+    return (
+      a.flights[a.flights.length - 1].arrival.getTime() -
+      b.flights[b.flights.length - 1].arrival.getTime()
+    );
+  });
 
-        const aArrival = getArrivalTime(a.flights[a.flights.length - 1])
-        const bArrival = getArrivalTime(b.flights[b.flights.length - 1])
+  console.log(
+    `[route log] Search from ${from} to ${to} on ${date} found ${connections.length} connections`,
+  );
 
-        return aArrival.getTime() - bArrival.getTime()
-    })
-
-  console.log(`[route log] Search from ${from} to ${to} on ${date} found ${connections.length} connections`)
-
-  return NextResponse.json(connections)
+  return NextResponse.json(connections);
 }
