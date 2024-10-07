@@ -27,6 +27,9 @@ export async function GET(request: Request) {
   const startDateObj = new Date(startDate);
   const endDateObj = new Date(endDate);
 
+  // Make endDate end of day
+  endDateObj.setHours(23, 59, 59, 999);
+
   const fromAirports = new Set(origins.split(","));
 
   const flights = await loadFlightData();
@@ -97,6 +100,8 @@ export async function GET(request: Request) {
     return acc;
   }, new Map());
 
+  console.log(allDestinationResults);
+
   // Build all possible connections
   const destinations: Destination[] = [];
   for (const [
@@ -110,7 +115,7 @@ export async function GET(request: Request) {
         const timeBetweenFlights =
           arrivalFlight.departure.getTime() - departureFlight.arrival.getTime();
         if (
-          timeBetweenFlights > MINIMUM_DURATION_BETWEEN_FLIGHTS // arrival is after departure and at lest 3 hous
+          timeBetweenFlights > MINIMUM_DURATION_BETWEEN_FLIGHTS // arrival is after departure and at lest 3 houurs
         ) {
           connections.push({
             flights: [departureFlight, arrivalFlight],
