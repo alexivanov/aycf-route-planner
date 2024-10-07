@@ -100,8 +100,6 @@ export async function GET(request: Request) {
     return acc;
   }, new Map());
 
-  console.log(allDestinationResults);
-
   // Build all possible connections
   const destinations: Destination[] = [];
   for (const [
