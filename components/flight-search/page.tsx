@@ -88,7 +88,7 @@ const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
             </div>
 
             <div className="font-bold">
-              Last availability data update: 07/07/2024 ~08:00 CET
+              Last availability data update: 08/07/2024 ~08:00 CET
             </div>
 
             <div className="mt-3 font-bold">
