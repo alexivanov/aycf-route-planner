@@ -1,4542 +1,6 @@
 ------------------------------------------------------
 Flights found: XXX
 ------------------------------------------------------
-Date: 2024-10-08
-Takeoff: 14:35
-Landing: 20:05
-Duration: 05:30
-From: AUH (Abu Dhabi)
-To: ALA (Almaty)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 08:30
-Duration: 02:20
-From: AUH (Abu Dhabi)
-To: AMM (Amman)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 14:35
-Landing: 20:15
-Duration: 05:40
-From: AUH (Abu Dhabi)
-To: NQZ (Astana)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 06:05
-Landing: 09:15
-Duration: 03:10
-From: AUH (Abu Dhabi)
-To: GYD (Baku)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 21:15
-Landing: 00:25
-Duration: 03:10
-From: AUH (Abu Dhabi)
-To: GYD (Baku)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 08:15
-Landing: 14:15
-Duration: 06:00
-From: AUH (Abu Dhabi)
-To: FRU (Bishkek)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 15:50
-Landing: 18:45
-Duration: 02:55
-From: AUH (Abu Dhabi)
-To: SPX (Cairo (Sphinx))
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 10:15
-Landing: 10:45
-Duration: 00:30
-From: AUH (Abu Dhabi)
-To: DMM (Dammam)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 16:20
-Landing: 20:30
-Duration: 04:10
-From: AUH (Abu Dhabi)
-To: KTW (Katowice)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 18:30
-Landing: 22:20
-Duration: 03:50
-From: AUH (Abu Dhabi)
-To: KUT (Kutaisi)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 18:05
-Landing: 21:20
-Duration: 03:15
-From: AUH (Abu Dhabi)
-To: LCA (Larnaca)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 08:10
-Duration: 01:50
-From: AUH (Abu Dhabi)
-To: MED (Madinah)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 14:10
-Landing: 16:00
-Duration: 01:50
-From: AUH (Abu Dhabi)
-To: MED (Madinah)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 11:45
-Landing: 18:10
-Duration: 06:25
-From: AUH (Abu Dhabi)
-To: MLE (Malé (Maldives))
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 13:45
-Landing: 18:30
-Duration: 04:45
-From: AUH (Abu Dhabi)
-To: FCO (Rome Fiumicino)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 10:15
-Duration: 04:15
-From: AUH (Abu Dhabi)
-To: SKD (Samarkand)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 06:35
-Landing: 11:05
-Duration: 04:30
-From: AUH (Abu Dhabi)
-To: TAS (Tashkent)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 13:20
-Duration: 05:00
-From: AUH (Abu Dhabi)
-To: HSA (Turkistan)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 17:15
-Landing: 20:45
-Duration: 03:30
-From: AUH (Abu Dhabi)
-To: EVN (Yerevan)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 09:20
-Landing: 11:15
-Duration: 01:55
-From: AES (Alesund)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 15:10
-Landing: 18:45
-Duration: 03:35
-From: AHO (Alghero (Sardinia))
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:45
-Landing: 12:45
-Duration: 03:00
-From: ALC (Alicante)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:35
-Landing: 02:40
-Duration: 04:05
-From: ALC (Alicante)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:55
-Landing: 00:45
-Duration: 03:50
-From: ALA (Almaty)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 09:05
-Landing: 13:15
-Duration: 04:10
-From: AMM (Amman)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 00:30
-Duration: 02:50
-From: AYT (Antalya)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:15
-Landing: 01:10
-Duration: 03:55
-From: NQZ (Astana)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 23:00
-Landing: 00:45
-Duration: 01:45
-From: ATH (Athens)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:55
-Landing: 19:35
-Duration: 03:40
-From: ATH (Athens)
-To: KUT (Kutaisi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 23:35
-Duration: 01:55
-From: ATH (Athens)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:55
-Landing: 16:20
-Duration: 00:25
-From: ATH (Athens)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:25
-Landing: 22:55
-Duration: 01:30
-From: BCM (Bacau)
-To: LTN (London Luton)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 01:10
-Landing: 04:15
-Duration: 03:05
-From: GYD (Baku)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 10:00
-Landing: 13:05
-Duration: 03:05
-From: GYD (Baku)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 10:40
-Landing: 14:55
-Duration: 04:15
-From: BCN (Barcelona El Prat)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:00
-Landing: 00:15
-Duration: 04:15
-From: BCN (Barcelona El Prat)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:30
-Landing: 12:10
-Duration: 02:40
-From: BCN (Barcelona El Prat)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:15
-Landing: 22:55
-Duration: 02:40
-From: BCN (Barcelona El Prat)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:45
-Landing: 12:45
-Duration: 04:00
-From: BCN (Barcelona El Prat)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:05
-Landing: 12:00
-Duration: 02:55
-From: BCN (Barcelona El Prat)
-To: KRK (Kraków)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:45
-Landing: 10:30
-Duration: 01:45
-From: BCN (Barcelona El Prat)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:40
-Landing: 11:35
-Duration: 01:55
-From: BCN (Barcelona El Prat)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:35
-Landing: 18:30
-Duration: 01:55
-From: BCN (Barcelona El Prat)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:45
-Landing: 12:40
-Duration: 03:55
-From: BCN (Barcelona El Prat)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:40
-Landing: 18:15
-Duration: 02:35
-From: BCN (Barcelona El Prat)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:25
-Landing: 01:00
-Duration: 02:35
-From: BCN (Barcelona El Prat)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:25
-Landing: 01:55
-Duration: 02:30
-From: BCN (Barcelona El Prat)
-To: VIE (Vienna)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:20
-Landing: 13:45
-Duration: 04:25
-From: BCN (Barcelona El Prat)
-To: VNO (Vilnius)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:40
-Landing: 22:45
-Duration: 03:05
-From: BCN (Barcelona El Prat)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:20
-Landing: 18:05
-Duration: 02:45
-From: BRI (Bari)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:15
-Landing: 22:50
-Duration: 01:35
-From: BRI (Bari)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 23:10
-Duration: 02:20
-From: BRI (Bari)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:30
-Landing: 09:25
-Duration: 00:55
-From: BRI (Bari)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:50
-Landing: 13:45
-Duration: 00:55
-From: BRI (Bari)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:20
-Landing: 00:15
-Duration: 00:55
-From: BRI (Bari)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 10:50
-Duration: 01:40
-From: BSL (Basel-Mulhouse-Freiburg)
-To: BUD (Budapest)
-Price: 9.99CHF
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 22:30
-Duration: 01:40
-From: BSL (Basel-Mulhouse-Freiburg)
-To: BUD (Budapest)
-Price: 9.99CHF
-
-Date: 2024-10-08
-Takeoff: 08:55
-Landing: 12:00
-Duration: 03:05
-From: BSL (Basel-Mulhouse-Freiburg)
-To: CLJ (Cluj-Napoca)
-Price: 9.99CHF
-
-Date: 2024-10-08
-Takeoff: 21:00
-Landing: 22:50
-Duration: 01:50
-From: MLH (Basel-Mulhouse-Freiburg)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:20
-Landing: 17:25
-Duration: 02:05
-From: MLH (Basel-Mulhouse-Freiburg)
-To: INI (Niš)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:05
-Landing: 16:10
-Duration: 02:05
-From: MLH (Basel-Mulhouse-Freiburg)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:35
-Landing: 00:50
-Duration: 07:15
-From: BEG (Belgrad)
-To: AUH (Abu Dhabi)
-Price: 1,199.00RSD
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 08:05
-Duration: 01:55
-From: BEG (Belgrad)
-To: BER (Berlin Brandenburg)
-Price: 1,199.00RSD
-
-Date: 2024-10-08
-Takeoff: 17:10
-Landing: 20:15
-Duration: 03:05
-From: BEG (Belgrad)
-To: LIS (Lisbon)
-Price: 1,199.00RSD
-
-Date: 2024-10-08
-Takeoff: 20:40
-Landing: 22:40
-Duration: 02:00
-From: BEG (Belgrad)
-To: LTN (London Luton)
-Price: 1,199.00RSD
-
-Date: 2024-10-08
-Takeoff: 11:15
-Landing: 13:30
-Duration: 02:15
-From: BEG (Belgrad)
-To: MMX (Malmo)
-Price: 1,199.00RSD
-
-Date: 2024-10-08
-Takeoff: 08:40
-Landing: 10:30
-Duration: 01:50
-From: BER (Berlin Brandenburg)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:45
-Landing: 00:45
-Duration: 03:00
-From: BER (Berlin Brandenburg)
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:05
-Landing: 19:20
-Duration: 02:15
-From: BER (Berlin Brandenburg)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:50
-Landing: 21:05
-Duration: 02:15
-From: BER (Berlin Brandenburg)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 01:00
-Duration: 03:20
-From: BER (Berlin Brandenburg)
-To: VAR (Varna (Black Sea))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:55
-Landing: 13:00
-Duration: 03:05
-From: BIO (Bilbao)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:20
-Landing: 13:00
-Duration: 03:40
-From: BLL (Billund)
-To: OTP (Bucharest)
-Price: 79.00DKK
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 14:30
-Duration: 05:20
-From: BHX (Birmingham)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:15
-Landing: 17:45
-Duration: 02:30
-From: FRU (Bishkek)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 17:05
-Landing: 20:05
-Duration: 03:00
-From: BLQ (Bologna)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:25
-Landing: 11:20
-Duration: 02:55
-From: BLQ (Bologna)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:05
-Landing: 17:50
-Duration: 01:45
-From: BLQ (Bologna)
-To: SKP (Skopje)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:15
-Landing: 10:50
-Duration: 01:35
-From: BLQ (Bologna)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:10
-Landing: 00:45
-Duration: 01:35
-From: BLQ (Bologna)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 07:55
-Landing: 08:15
-Duration: 00:20
-From: GHV (Brasov)
-To: BUD (Budapest)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 09:45
-Landing: 11:15
-Duration: 01:30
-From: BTS (Bratislava)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:55
-Landing: 12:25
-Duration: 02:30
-From: BRE (Bremen)
-To: SKP (Skopje)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:10
-Landing: 23:15
-Duration: 02:05
-From: BRU (Brussels)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 12:35
-Duration: 03:45
-From: CRL (Brussels Charleroi)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:45
-Landing: 20:30
-Duration: 03:45
-From: CRL (Brussels Charleroi)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:35
-Landing: 18:35
-Duration: 02:00
-From: CRL (Brussels Charleroi)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:35
-Landing: 12:05
-Duration: 02:30
-From: CRL (Brussels Charleroi)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:20
-Landing: 00:15
-Duration: 03:55
-From: CRL (Brussels Charleroi)
-To: VAR (Varna (Black Sea))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:15
-Landing: 11:10
-Duration: 01:55
-From: CRL (Brussels Charleroi)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:55
-Landing: 14:35
-Duration: 01:40
-From: OTP (Bucharest)
-To: AHO (Alghero (Sardinia))
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 20:40
-Landing: 22:25
-Duration: 01:45
-From: OTP (Bucharest)
-To: ATH (Athens)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 17:00
-Landing: 19:20
-Duration: 02:20
-From: OTP (Bucharest)
-To: BCN (Barcelona El Prat)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 13:40
-Landing: 14:30
-Duration: 00:50
-From: OTP (Bucharest)
-To: BRI (Bari)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 15:15
-Landing: 16:30
-Duration: 01:15
-From: OTP (Bucharest)
-To: BLQ (Bologna)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:15
-Landing: 08:15
-Duration: 02:00
-From: OTP (Bucharest)
-To: CRL (Brussels Charleroi)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 14:10
-Landing: 16:10
-Duration: 02:00
-From: OTP (Bucharest)
-To: CRL (Brussels Charleroi)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 11:55
-Landing: 12:40
-Duration: 00:45
-From: OTP (Bucharest)
-To: BUD (Budapest)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 15:45
-Landing: 17:05
-Duration: 01:20
-From: OTP (Bucharest)
-To: CTA (Catania (Sicily))
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 08:55
-Duration: 02:55
-From: OTP (Bucharest)
-To: MAD (Madrid)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 16:15
-Landing: 19:25
-Duration: 03:10
-From: OTP (Bucharest)
-To: MAD (Madrid)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 09:30
-Duration: 03:20
-From: OTP (Bucharest)
-To: AGP (Malaga)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 16:05
-Landing: 17:25
-Duration: 01:20
-From: OTP (Bucharest)
-To: FMM (Memmingen/Munich West)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 20:35
-Landing: 22:00
-Duration: 01:25
-From: OTP (Bucharest)
-To: BGY (Milan Bergamo)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:05
-Landing: 07:10
-Duration: 01:05
-From: OTP (Bucharest)
-To: NAP (Naples)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 12:55
-Landing: 14:15
-Duration: 01:20
-From: OTP (Bucharest)
-To: PSA (Pisa (Tuscany))
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 08:30
-Duration: 01:20
-From: OTP (Bucharest)
-To: FCO (Rome Fiumicino)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 19:55
-Landing: 21:15
-Duration: 01:20
-From: OTP (Bucharest)
-To: FCO (Rome Fiumicino)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 20:45
-Landing: 22:05
-Duration: 01:20
-From: OTP (Bucharest)
-To: SKG (Thessaloniki)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 07:40
-Landing: 08:50
-Duration: 01:10
-From: OTP (Bucharest)
-To: TSF (Venice Treviso)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 12:50
-Landing: 14:00
-Duration: 01:10
-From: OTP (Bucharest)
-To: TSF (Venice Treviso)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 05:50
-Landing: 09:05
-Duration: 03:15
-From: BUD (Budapest)
-To: ALC (Alicante)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 11:25
-Landing: 14:30
-Duration: 03:05
-From: BUD (Budapest)
-To: ATH (Athens)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 08:35
-Duration: 02:35
-From: BUD (Budapest)
-To: BCN (Barcelona El Prat)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 20:40
-Duration: 01:35
-From: BUD (Budapest)
-To: BRI (Bari)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:50
-Landing: 08:35
-Duration: 01:45
-From: BUD (Budapest)
-To: BSL (Basel-Mulhouse-Freiburg)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 18:30
-Landing: 20:15
-Duration: 01:45
-From: BUD (Budapest)
-To: BSL (Basel-Mulhouse-Freiburg)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 05:05
-Landing: 07:20
-Duration: 02:15
-From: BUD (Budapest)
-To: GHV (Brasov)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 18:30
-Landing: 20:35
-Duration: 02:05
-From: BUD (Budapest)
-To: BRU (Brussels)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 13:50
-Landing: 16:00
-Duration: 02:10
-From: BUD (Budapest)
-To: CRL (Brussels Charleroi)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 11:10
-Duration: 02:20
-From: BUD (Budapest)
-To: OTP (Bucharest)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 19:35
-Landing: 22:10
-Duration: 02:35
-From: BUD (Budapest)
-To: RMO (Chisinau)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 17:10
-Duration: 04:10
-From: BUD (Budapest)
-To: FNC (Funchal (Madeira))
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:15
-Landing: 08:25
-Duration: 02:10
-From: BUD (Budapest)
-To: GLA (Glasgow)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 10:15
-Duration: 03:20
-From: BUD (Budapest)
-To: IST (Istanbul)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 19:40
-Landing: 23:00
-Duration: 03:20
-From: BUD (Budapest)
-To: IST (Istanbul)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 22:50
-Landing: 03:55
-Duration: 05:05
-From: BUD (Budapest)
-To: KUT (Kutaisi)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 09:45
-Landing: 11:40
-Duration: 01:55
-From: BUD (Budapest)
-To: LPL (Liverpool)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:05
-Landing: 07:50
-Duration: 01:45
-From: BUD (Budapest)
-To: LTN (London Luton)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 13:05
-Landing: 14:50
-Duration: 01:45
-From: BUD (Budapest)
-To: LTN (London Luton)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 17:25
-Landing: 19:10
-Duration: 01:45
-From: BUD (Budapest)
-To: LTN (London Luton)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 05:30
-Landing: 09:10
-Duration: 03:40
-From: BUD (Budapest)
-To: AGP (Malaga)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 09:10
-Duration: 02:15
-From: BUD (Budapest)
-To: MLA (Malta)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 07:25
-Landing: 09:10
-Duration: 01:45
-From: BUD (Budapest)
-To: MXP (Milan Malpensa)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 14:30
-Landing: 16:15
-Duration: 01:45
-From: BUD (Budapest)
-To: MXP (Milan Malpensa)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 20:55
-Duration: 01:45
-From: BUD (Budapest)
-To: MXP (Milan Malpensa)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 13:45
-Landing: 15:35
-Duration: 01:50
-From: BUD (Budapest)
-To: NAP (Naples)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:15
-Landing: 07:30
-Duration: 01:15
-From: BUD (Budapest)
-To: TGD (Podgorica)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 11:40
-Landing: 13:30
-Duration: 01:50
-From: BUD (Budapest)
-To: FCO (Rome Fiumicino)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 18:30
-Landing: 20:20
-Duration: 01:50
-From: BUD (Budapest)
-To: FCO (Rome Fiumicino)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 15:30
-Landing: 17:00
-Duration: 01:30
-From: BUD (Budapest)
-To: TIA (Tirana)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 19:20
-Landing: 00:05
-Duration: 04:45
-From: SPX (Cairo (Sphinx))
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 04:10
-Landing: 06:40
-Duration: 02:30
-From: SPX (Cairo (Sphinx))
-To: BUD (Budapest)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 21:50
-Landing: 00:55
-Duration: 03:05
-From: SPX (Cairo (Sphinx))
-To: MXP (Milan Malpensa)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 17:40
-Landing: 20:50
-Duration: 03:10
-From: CTA (Catania (Sicily))
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:00
-Landing: 22:15
-Duration: 03:15
-From: CTA (Catania (Sicily))
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:30
-Landing: 03:05
-Duration: 03:35
-From: CTA (Catania (Sicily))
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 08:40
-Duration: 02:30
-From: CTA (Catania (Sicily))
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:45
-Landing: 15:00
-Duration: 01:15
-From: CTA (Catania (Sicily))
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:30
-Landing: 13:20
-Duration: 02:50
-From: CTA (Catania (Sicily))
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:55
-Landing: 23:30
-Duration: 02:35
-From: CLJ (Cluj-Napoca)
-To: ALC (Alicante)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 08:05
-Duration: 02:05
-From: CLJ (Cluj-Napoca)
-To: BCN (Barcelona El Prat)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 08:20
-Duration: 01:10
-From: CLJ (Cluj-Napoca)
-To: BSL (Basel-Mulhouse-Freiburg)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 07:50
-Duration: 00:55
-From: CLJ (Cluj-Napoca)
-To: BLQ (Bologna)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 17:10
-Landing: 18:25
-Duration: 01:15
-From: CLJ (Cluj-Napoca)
-To: CTA (Catania (Sicily))
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 18:15
-Landing: 19:35
-Duration: 01:20
-From: CLJ (Cluj-Napoca)
-To: HHN (Frankfurt Hahn)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 05:40
-Landing: 08:35
-Duration: 02:55
-From: CLJ (Cluj-Napoca)
-To: MAD (Madrid)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 11:55
-Landing: 13:00
-Duration: 01:05
-From: CLJ (Cluj-Napoca)
-To: BGY (Milan Bergamo)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 12:35
-Landing: 12:55
-Duration: 00:20
-From: CLJ (Cluj-Napoca)
-To: VIE (Vienna)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 17:45
-Landing: 20:05
-Duration: 02:20
-From: CLJ (Cluj-Napoca)
-To: ZAZ (Zaragoza)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 21:50
-Landing: 00:15
-Duration: 02:25
-From: CGN (Cologne)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 14:05
-Duration: 01:05
-From: CPH (Copenhagen)
-To: GDN (Gdansk)
-Price: 79.00DKK
-
-Date: 2024-10-08
-Takeoff: 07:55
-Landing: 11:20
-Duration: 03:25
-From: CPH (Copenhagen)
-To: IAS (Iasi)
-Price: 79.00DKK
-
-Date: 2024-10-08
-Takeoff: 14:50
-Landing: 16:10
-Duration: 01:20
-From: CPH (Copenhagen)
-To: WAW (Warsaw Chopin)
-Price: 79.00DKK
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 20:35
-Duration: 01:25
-From: CRA (Craiova)
-To: BHX (Birmingham)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 14:00
-Landing: 15:00
-Duration: 01:00
-From: CRA (Craiova)
-To: BLQ (Bologna)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 16:55
-Landing: 19:20
-Duration: 02:25
-From: DLM (Dalaman)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 11:20
-Landing: 13:40
-Duration: 02:20
-From: DMM (Dammam)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 19:55
-Landing: 00:50
-Duration: 04:55
-From: DMM (Dammam)
-To: FCO (Rome Fiumicino)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 20:55
-Duration: 01:45
-From: DEB (Debrecen)
-To: LTN (London Luton)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 08:45
-Duration: 01:50
-From: DEB (Debrecen)
-To: FCO (Rome Fiumicino)
-Price: 4,090.00HUF
-
-Date: 2024-10-08
-Takeoff: 08:25
-Landing: 12:00
-Duration: 03:35
-From: DTM (Dortmund)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:55
-Landing: 18:45
-Duration: 01:50
-From: DTM (Dortmund)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:30
-Landing: 23:40
-Duration: 03:10
-From: DTM (Dortmund)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:45
-Landing: 18:15
-Duration: 01:30
-From: DTM (Dortmund)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:00
-Landing: 20:30
-Duration: 01:30
-From: DTM (Dortmund)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:40
-Landing: 19:15
-Duration: 03:35
-From: DTM (Dortmund)
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:40
-Landing: 10:15
-Duration: 01:35
-From: DTM (Dortmund)
-To: KTW (Katowice)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:25
-Landing: 19:00
-Duration: 01:35
-From: DTM (Dortmund)
-To: KTW (Katowice)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:25
-Landing: 12:55
-Duration: 02:30
-From: DTM (Dortmund)
-To: OHD (Ohrid)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:50
-Landing: 17:55
-Duration: 02:05
-From: DTM (Dortmund)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:40
-Landing: 12:10
-Duration: 02:30
-From: DTM (Dortmund)
-To: SKP (Skopje)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:30
-Landing: 23:55
-Duration: 03:25
-From: DTM (Dortmund)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:55
-Landing: 14:15
-Duration: 03:20
-From: DTM (Dortmund)
-To: SCV (Suceava)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:20
-Landing: 11:40
-Duration: 02:20
-From: DTM (Dortmund)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:15
-Landing: 20:35
-Duration: 02:20
-From: DTM (Dortmund)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:20
-Landing: 18:20
-Duration: 03:00
-From: DTM (Dortmund)
-To: VNO (Vilnius)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:35
-Landing: 23:00
-Duration: 06:25
-From: DTM (Dortmund)
-To: EVN (Yerevan)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:20
-Landing: 01:35
-Duration: 04:15
-From: DXB (Dubai)
-To: OTP (Bucharest)
-Price: 42.00AED
-
-Date: 2024-10-08
-Takeoff: 09:25
-Landing: 13:05
-Duration: 03:40
-From: EIN (Eindhoven)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:00
-Landing: 19:20
-Duration: 03:20
-From: EIN (Eindhoven)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:55
-Landing: 10:40
-Duration: 01:45
-From: EIN (Eindhoven)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:20
-Landing: 12:50
-Duration: 02:30
-From: EIN (Eindhoven)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 11:40
-Landing: 14:30
-Duration: 02:50
-From: FAO (Faro)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:20
-Landing: 22:10
-Duration: 02:50
-From: FAO (Faro)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:05
-Landing: 23:10
-Duration: 03:05
-From: HHN (Frankfurt Hahn)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:50
-Landing: 23:35
-Duration: 05:45
-From: FNC (Funchal (Madeira))
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:50
-Landing: 16:20
-Duration: 05:30
-From: FNC (Funchal (Madeira))
-To: VIE (Vienna)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:35
-Landing: 22:50
-Duration: 06:15
-From: FNC (Funchal (Madeira))
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 11:45
-Landing: 13:40
-Duration: 01:55
-From: GDN (Gdansk)
-To: BGO (Bergen)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:15
-Landing: 12:30
-Duration: 01:15
-From: GDN (Gdansk)
-To: CPH (Copenhagen)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 08:10
-Landing: 09:50
-Duration: 01:40
-From: GDN (Gdansk)
-To: DTM (Dortmund)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 10:25
-Landing: 12:05
-Duration: 01:40
-From: GDN (Gdansk)
-To: DTM (Dortmund)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 10:00
-Landing: 11:15
-Duration: 01:15
-From: GDN (Gdansk)
-To: GOT (Gothenburg Landvetter)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 15:10
-Landing: 16:30
-Duration: 01:20
-From: GDN (Gdansk)
-To: HAM (Hamburg)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 07:40
-Duration: 01:20
-From: GDN (Gdansk)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 20:40
-Duration: 01:30
-From: GDN (Gdansk)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 20:35
-Landing: 22:45
-Duration: 02:10
-From: GDN (Gdansk)
-To: MXP (Milan Malpensa)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 16:05
-Landing: 17:40
-Duration: 01:35
-From: GDN (Gdansk)
-To: OSL (Oslo Gardermoen)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 07:45
-Duration: 01:35
-From: GDN (Gdansk)
-To: TRF (Oslo Sandefjord Airport)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 08:55
-Duration: 01:45
-From: GDN (Gdansk)
-To: SVG (Stavanger)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 20:55
-Duration: 01:45
-From: GDN (Gdansk)
-To: SVG (Stavanger)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:15
-Duration: 01:15
-From: GDN (Gdansk)
-To: ARN (Stockholm Arlanda)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 12:50
-Landing: 17:50
-Duration: 05:00
-From: GDN (Gdansk)
-To: TFS (Tenerife (Canary Islands))
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:00
-Landing: 21:50
-Duration: 02:50
-From: GDN (Gdansk)
-To: TOS (Tromso)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:50
-Landing: 14:20
-Duration: 02:30
-From: GDN (Gdansk)
-To: TKU (Turku)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 11:45
-Duration: 03:25
-From: GVA (Geneva)
-To: SOF (Sofia)
-Price: 9.99CHF
-
-Date: 2024-10-08
-Takeoff: 23:45
-Landing: 01:30
-Duration: 01:45
-From: GOA (Genoa)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:00
-Landing: 13:00
-Duration: 04:00
-From: GLA (Glasgow)
-To: BUD (Budapest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 11:50
-Landing: 13:00
-Duration: 01:10
-From: GOT (Gothenburg Landvetter)
-To: GDN (Gdansk)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 10:30
-Duration: 02:10
-From: HAM (Hamburg)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:05
-Landing: 18:25
-Duration: 01:20
-From: HAM (Hamburg)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:30
-Landing: 01:05
-Duration: 03:35
-From: HAM (Hamburg)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:55
-Landing: 14:35
-Duration: 01:40
-From: HAU (Haugesund)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 11:45
-Landing: 15:00
-Duration: 03:15
-From: HRG (Hurghada)
-To: VIE (Vienna)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 15:25
-Landing: 16:45
-Duration: 01:20
-From: IAS (Iasi)
-To: BLQ (Bologna)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 21:20
-Landing: 22:55
-Duration: 01:35
-From: IAS (Iasi)
-To: CTA (Catania (Sicily))
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 20:00
-Landing: 21:50
-Duration: 01:50
-From: IAS (Iasi)
-To: IST (Istanbul)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 19:00
-Landing: 20:30
-Duration: 01:30
-From: IAS (Iasi)
-To: BGY (Milan Bergamo)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 15:10
-Duration: 02:10
-From: IST (Istanbul)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 23:20
-Duration: 04:10
-From: JED (Jeddah)
-To: BUD (Budapest)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 19:50
-Landing: 00:30
-Duration: 04:40
-From: JED (Jeddah)
-To: MXP (Milan Malpensa)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 18:40
-Landing: 20:45
-Duration: 02:05
-From: FKB (Karlsruhe/Baden-Baden)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:10
-Landing: 15:45
-Duration: 07:35
-From: KTW (Katowice)
-To: AUH (Abu Dhabi)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:30
-Landing: 23:05
-Duration: 03:35
-From: KTW (Katowice)
-To: ATH (Athens)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 12:30
-Landing: 15:20
-Duration: 02:50
-From: KTW (Katowice)
-To: BCN (Barcelona El Prat)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 08:05
-Duration: 01:45
-From: KTW (Katowice)
-To: DTM (Dortmund)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 10:50
-Landing: 12:40
-Duration: 01:50
-From: KTW (Katowice)
-To: EIN (Eindhoven)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 15:45
-Landing: 21:05
-Duration: 05:20
-From: KTW (Katowice)
-To: KUT (Kutaisi)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:40
-Landing: 21:15
-Duration: 01:35
-From: KTW (Katowice)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 02:15
-Landing: 03:10
-Duration: 00:55
-From: KUN (Kaunas)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:50
-Landing: 14:50
-Duration: 02:00
-From: KRK (Kraków)
-To: EIN (Eindhoven)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 18:00
-Landing: 19:35
-Duration: 01:35
-From: KRK (Kraków)
-To: LGW (London Gatwick)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:30
-Duration: 01:30
-From: KRK (Kraków)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 17:50
-Landing: 19:45
-Duration: 01:55
-From: KRK (Kraków)
-To: MXP (Milan Malpensa)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 12:25
-Landing: 14:30
-Duration: 02:05
-From: KRK (Kraków)
-To: FCO (Rome Fiumicino)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 08:40
-Duration: 02:20
-From: KRK (Kraków)
-To: SVG (Stavanger)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 21:10
-Landing: 23:05
-Duration: 01:55
-From: KRK (Kraków)
-To: TIA (Tirana)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 22:55
-Landing: 02:25
-Duration: 03:30
-From: KUT (Kutaisi)
-To: AUH (Abu Dhabi)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 13:25
-Landing: 15:20
-Duration: 01:55
-From: KUT (Kutaisi)
-To: ATH (Athens)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 06:40
-Landing: 09:30
-Duration: 02:50
-From: KUT (Kutaisi)
-To: CRL (Brussels Charleroi)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 08:30
-Duration: 01:35
-From: KUT (Kutaisi)
-To: LCA (Larnaca)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 14:25
-Landing: 17:30
-Duration: 03:05
-From: KUT (Kutaisi)
-To: BVA (Paris Beauvais)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:35
-Duration: 01:35
-From: KUT (Kutaisi)
-To: VIE (Vienna)
-Price: 31.90GEL
-
-Date: 2024-10-08
-Takeoff: 21:55
-Landing: 02:55
-Duration: 05:00
-From: LCA (Larnaca)
-To: AUH (Abu Dhabi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:45
-Landing: 08:45
-Duration: 02:00
-From: LCA (Larnaca)
-To: ATH (Athens)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 11:25
-Landing: 13:50
-Duration: 02:25
-From: LCA (Larnaca)
-To: KTW (Katowice)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:05
-Landing: 12:30
-Duration: 03:25
-From: LCA (Larnaca)
-To: KUT (Kutaisi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:45
-Landing: 21:20
-Duration: 02:35
-From: LCA (Larnaca)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 05:00
-Landing: 08:15
-Duration: 03:15
-From: LCA (Larnaca)
-To: EVN (Yerevan)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:20
-Landing: 21:45
-Duration: 03:25
-From: LCA (Larnaca)
-To: EVN (Yerevan)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:15
-Landing: 13:35
-Duration: 05:20
-From: LBA (Leeds)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:25
-Landing: 13:25
-Duration: 05:00
-From: LBA (Leeds)
-To: CLJ (Cluj-Napoca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 20:55
-Landing: 01:35
-Duration: 04:40
-From: LIS (Lisbon)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 01:15
-Landing: 06:05
-Duration: 04:50
-From: LIS (Lisbon)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:25
-Landing: 02:50
-Duration: 05:25
-From: LPL (Liverpool)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 12:15
-Landing: 15:55
-Duration: 03:40
-From: LPL (Liverpool)
-To: BUD (Budapest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:10
-Landing: 20:55
-Duration: 05:45
-From: LGW (London Gatwick)
-To: ATH (Athens)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 14:20
-Landing: 19:30
-Duration: 05:10
-From: LGW (London Gatwick)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 10:10
-Landing: 16:10
-Duration: 06:00
-From: LGW (London Gatwick)
-To: DLM (Dalaman)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:00
-Landing: 11:00
-Duration: 03:00
-From: LGW (London Gatwick)
-To: FAO (Faro)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:40
-Landing: 18:40
-Duration: 03:00
-From: LGW (London Gatwick)
-To: FAO (Faro)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 20:15
-Landing: 23:45
-Duration: 03:30
-From: LGW (London Gatwick)
-To: KRK (Kraków)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 14:35
-Landing: 21:15
-Duration: 06:40
-From: LGW (London Gatwick)
-To: LCA (Larnaca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 18:35
-Landing: 01:15
-Duration: 06:40
-From: LGW (London Gatwick)
-To: LCA (Larnaca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 07:15
-Landing: 11:20
-Duration: 04:05
-From: LGW (London Gatwick)
-To: AGP (Malaga)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 05:35
-Landing: 09:25
-Duration: 03:50
-From: LGW (London Gatwick)
-To: RAK (Marrakesh)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 11:50
-Duration: 03:00
-From: LGW (London Gatwick)
-To: MXP (Milan Malpensa)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 22:45
-Duration: 03:40
-From: LGW (London Gatwick)
-To: NAP (Naples)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 07:35
-Landing: 10:25
-Duration: 02:50
-From: LGW (London Gatwick)
-To: PRG (Prague)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 11:05
-Landing: 14:40
-Duration: 03:35
-From: LGW (London Gatwick)
-To: FCO (Rome Fiumicino)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:10
-Landing: 00:45
-Duration: 03:35
-From: LGW (London Gatwick)
-To: FCO (Rome Fiumicino)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 14:50
-Landing: 20:15
-Duration: 05:25
-From: LGW (London Gatwick)
-To: VAR (Varna (Black Sea))
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 10:40
-Landing: 13:55
-Duration: 03:15
-From: LGW (London Gatwick)
-To: VIE (Vienna)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 19:25
-Landing: 22:35
-Duration: 03:10
-From: LGW (London Gatwick)
-To: VIE (Vienna)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 14:25
-Landing: 21:00
-Duration: 06:35
-From: LTN (London Luton)
-To: AYT (Antalya)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:35
-Landing: 20:50
-Duration: 05:15
-From: LTN (London Luton)
-To: BCM (Bacau)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 16:10
-Landing: 20:05
-Duration: 03:55
-From: LTN (London Luton)
-To: BEG (Belgrad)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 05:55
-Landing: 09:10
-Duration: 03:15
-From: LTN (London Luton)
-To: BTS (Bratislava)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 14:30
-Duration: 05:20
-From: LTN (London Luton)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 17:50
-Landing: 23:10
-Duration: 05:20
-From: LTN (London Luton)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:45
-Landing: 03:05
-Duration: 05:20
-From: LTN (London Luton)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:30
-Landing: 12:00
-Duration: 03:30
-From: LTN (London Luton)
-To: BUD (Budapest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:30
-Landing: 19:00
-Duration: 03:30
-From: LTN (London Luton)
-To: BUD (Budapest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 19:50
-Landing: 23:20
-Duration: 03:30
-From: LTN (London Luton)
-To: BUD (Budapest)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 12:25
-Duration: 05:15
-From: LTN (London Luton)
-To: RMO (Chisinau)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:10
-Landing: 13:05
-Duration: 04:55
-From: LTN (London Luton)
-To: CLJ (Cluj-Napoca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:50
-Landing: 02:45
-Duration: 04:55
-From: LTN (London Luton)
-To: CLJ (Cluj-Napoca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 07:50
-Landing: 13:20
-Duration: 05:30
-From: LTN (London Luton)
-To: CND (Constanta)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:10
-Landing: 13:15
-Duration: 05:05
-From: LTN (London Luton)
-To: CRA (Craiova)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 01:20
-Duration: 03:40
-From: LTN (London Luton)
-To: DEB (Debrecen)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:35
-Landing: 11:50
-Duration: 03:15
-From: LTN (London Luton)
-To: GDN (Gdansk)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:20
-Landing: 00:35
-Duration: 03:15
-From: LTN (London Luton)
-To: GDN (Gdansk)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 14:25
-Duration: 05:15
-From: LTN (London Luton)
-To: IAS (Iasi)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:35
-Landing: 02:50
-Duration: 05:15
-From: LTN (London Luton)
-To: IAS (Iasi)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 12:20
-Duration: 06:10
-From: LTN (London Luton)
-To: IST (Istanbul)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 11:40
-Duration: 03:20
-From: LTN (London Luton)
-To: KTW (Katowice)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:55
-Landing: 01:15
-Duration: 03:20
-From: LTN (London Luton)
-To: KTW (Katowice)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:00
-Landing: 01:40
-Duration: 04:40
-From: LTN (London Luton)
-To: KUN (Kaunas)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 11:25
-Landing: 15:00
-Duration: 03:35
-From: LTN (London Luton)
-To: KSC (Kosice)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:15
-Landing: 11:40
-Duration: 03:25
-From: LTN (London Luton)
-To: KRK (Kraków)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 10:30
-Landing: 17:10
-Duration: 06:40
-From: LTN (London Luton)
-To: LCA (Larnaca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 16:55
-Landing: 23:35
-Duration: 06:40
-From: LTN (London Luton)
-To: LCA (Larnaca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 18:20
-Landing: 21:15
-Duration: 02:55
-From: LTN (London Luton)
-To: LIS (Lisbon)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 05:25
-Landing: 09:00
-Duration: 03:35
-From: LTN (London Luton)
-To: LUZ (Lublin)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 12:15
-Landing: 15:45
-Duration: 03:30
-From: LTN (London Luton)
-To: PMI (Palma de Mallorca)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 06:45
-Landing: 12:10
-Duration: 05:25
-From: LTN (London Luton)
-To: PDV (Plovdiv)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 12:20
-Landing: 15:25
-Duration: 03:05
-From: LTN (London Luton)
-To: POZ (Poznan)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 18:25
-Landing: 21:30
-Duration: 03:05
-From: LTN (London Luton)
-To: POZ (Poznan)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 05:55
-Landing: 09:35
-Duration: 03:40
-From: LTN (London Luton)
-To: SJJ (Sarajevo)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 20:25
-Landing: 01:20
-Duration: 04:55
-From: LTN (London Luton)
-To: SBZ (Sibiu)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 16:25
-Landing: 20:40
-Duration: 04:15
-From: LTN (London Luton)
-To: SKP (Skopje)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:35
-Landing: 13:45
-Duration: 05:10
-From: LTN (London Luton)
-To: SOF (Sofia)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:50
-Landing: 02:55
-Duration: 05:05
-From: LTN (London Luton)
-To: SOF (Sofia)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 17:10
-Landing: 20:45
-Duration: 03:35
-From: LTN (London Luton)
-To: SPU (Split)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 11:15
-Duration: 05:05
-From: LTN (London Luton)
-To: SCV (Suceava)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 20:00
-Landing: 01:05
-Duration: 05:05
-From: LTN (London Luton)
-To: SCV (Suceava)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:05
-Landing: 12:45
-Duration: 04:40
-From: LTN (London Luton)
-To: TSR (Timisoara)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 07:45
-Landing: 11:50
-Duration: 04:05
-From: LTN (London Luton)
-To: TIA (Tirana)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 15:50
-Landing: 19:55
-Duration: 04:05
-From: LTN (London Luton)
-To: TIA (Tirana)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 19:10
-Landing: 23:15
-Duration: 04:05
-From: LTN (London Luton)
-To: TIA (Tirana)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:00
-Landing: 12:45
-Duration: 04:45
-From: LTN (London Luton)
-To: VNO (Vilnius)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 08:25
-Landing: 11:50
-Duration: 03:25
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 09:30
-Landing: 12:35
-Duration: 03:05
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 14:20
-Landing: 17:45
-Duration: 03:25
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 19:45
-Landing: 23:10
-Duration: 03:25
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 21:35
-Landing: 00:40
-Duration: 03:05
-From: LTN (London Luton)
-To: WRO (Wroclaw)
-Price: 8.99GBP
-
-Date: 2024-10-08
-Takeoff: 09:35
-Landing: 11:25
-Duration: 01:50
-From: LUZ (Lublin)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 16:00
-Landing: 19:40
-Duration: 03:40
-From: LYS (Lyon)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:35
-Landing: 19:15
-Duration: 01:40
-From: LYS (Lyon)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 12:30
-Duration: 03:40
-From: MED (Madinah)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 16:40
-Landing: 20:20
-Duration: 03:40
-From: MED (Madinah)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 10:05
-Landing: 15:00
-Duration: 04:55
-From: MAD (Madrid)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:15
-Landing: 12:30
-Duration: 03:15
-From: MAD (Madrid)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:45
-Landing: 01:00
-Duration: 02:15
-From: MAD (Madrid)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:30
-Landing: 12:00
-Duration: 02:30
-From: MAD (Madrid)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:10
-Landing: 23:40
-Duration: 02:30
-From: MAD (Madrid)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 00:50
-Duration: 03:10
-From: MAD (Madrid)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:20
-Landing: 14:00
-Duration: 03:40
-From: MAD (Madrid)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:30
-Landing: 15:30
-Duration: 05:00
-From: AGP (Malaga)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:00
-Landing: 13:20
-Duration: 03:20
-From: AGP (Malaga)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:20
-Landing: 23:00
-Duration: 03:40
-From: AGP (Malaga)
-To: KRK (Kraków)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:05
-Landing: 13:55
-Duration: 01:50
-From: AGP (Malaga)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:30
-Landing: 12:05
-Duration: 02:35
-From: AGP (Malaga)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:45
-Landing: 22:25
-Duration: 02:40
-From: AGP (Malaga)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:20
-Landing: 22:40
-Duration: 03:20
-From: AGP (Malaga)
-To: VIE (Vienna)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:05
-Landing: 16:15
-Duration: 02:10
-From: MMX (Malmo)
-To: BEG (Belgrad)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 22:00
-Landing: 00:35
-Duration: 02:35
-From: MMX (Malmo)
-To: SKP (Skopje)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 23:25
-Landing: 01:15
-Duration: 01:50
-From: MLA (Malta)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:10
-Landing: 23:30
-Duration: 03:20
-From: MLA (Malta)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:45
-Landing: 12:05
-Duration: 02:20
-From: MLA (Malta)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 23:20
-Duration: 04:15
-From: MLE (Malé (Maldives))
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 10:05
-Landing: 13:45
-Duration: 03:40
-From: RAK (Marrakesh)
-To: LGW (London Gatwick)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 18:00
-Landing: 21:15
-Duration: 03:15
-From: FMM (Memmingen/Munich West)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:00
-Landing: 21:10
-Duration: 02:10
-From: FMM (Memmingen/Munich West)
-To: CTA (Catania (Sicily))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:30
-Landing: 12:15
-Duration: 01:45
-From: FMM (Memmingen/Munich West)
-To: TGD (Podgorica)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:35
-Landing: 17:40
-Duration: 03:05
-From: FMM (Memmingen/Munich West)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:40
-Landing: 17:35
-Duration: 01:55
-From: FMM (Memmingen/Munich West)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:00
-Landing: 10:35
-Duration: 01:35
-From: FMM (Memmingen/Munich West)
-To: TZL (Tuzla)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:20
-Landing: 16:40
-Duration: 03:20
-From: FMM (Memmingen/Munich West)
-To: VAR (Varna (Black Sea))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 11:35
-Duration: 03:15
-From: BGY (Milan Bergamo)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:35
-Landing: 01:50
-Duration: 03:15
-From: BGY (Milan Bergamo)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:35
-Landing: 16:30
-Duration: 02:55
-From: BGY (Milan Bergamo)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:30
-Landing: 11:30
-Duration: 03:00
-From: BGY (Milan Bergamo)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:00
-Landing: 10:45
-Duration: 01:45
-From: BGY (Milan Bergamo)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:00
-Landing: 19:45
-Duration: 01:45
-From: BGY (Milan Bergamo)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:50
-Landing: 01:35
-Duration: 01:45
-From: BGY (Milan Bergamo)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:30
-Landing: 08:05
-Duration: 01:35
-From: MXP (Milan Malpensa)
-To: BCN (Barcelona El Prat)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:45
-Landing: 11:25
-Duration: 01:40
-From: MXP (Milan Malpensa)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:50
-Landing: 18:30
-Duration: 01:40
-From: MXP (Milan Malpensa)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:30
-Landing: 23:10
-Duration: 01:40
-From: MXP (Milan Malpensa)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:15
-Landing: 21:10
-Duration: 04:55
-From: MXP (Milan Malpensa)
-To: SPX (Cairo (Sphinx))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:20
-Landing: 01:25
-Duration: 02:05
-From: MXP (Milan Malpensa)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:20
-Landing: 22:15
-Duration: 01:55
-From: MXP (Milan Malpensa)
-To: KRK (Kraków)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 08:10
-Duration: 01:00
-From: MXP (Milan Malpensa)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 08:40
-Duration: 02:40
-From: MXP (Milan Malpensa)
-To: AGP (Malaga)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 11:05
-Landing: 12:45
-Duration: 01:40
-From: MXP (Milan Malpensa)
-To: BVA (Paris Beauvais)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:30
-Landing: 19:15
-Duration: 01:45
-From: MXP (Milan Malpensa)
-To: TGD (Podgorica)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:30
-Duration: 01:30
-From: MXP (Milan Malpensa)
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:05
-Landing: 16:10
-Duration: 02:05
-From: MXP (Milan Malpensa)
-To: RZE (Rzeszów)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:40
-Landing: 10:35
-Duration: 01:55
-From: MXP (Milan Malpensa)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:00
-Landing: 00:55
-Duration: 01:55
-From: MXP (Milan Malpensa)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:25
-Landing: 01:00
-Duration: 03:35
-From: MXP (Milan Malpensa)
-To: VNO (Vilnius)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 07:45
-Landing: 10:50
-Duration: 03:05
-From: NAP (Naples)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:10
-Landing: 17:55
-Duration: 01:45
-From: NAP (Naples)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 08:00
-Duration: 02:00
-From: NAP (Naples)
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 19:10
-Duration: 02:40
-From: NAP (Naples)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:15
-Landing: 17:35
-Duration: 02:20
-From: NAP (Naples)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:55
-Landing: 15:15
-Duration: 01:20
-From: NCE (Nice)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:30
-Landing: 18:40
-Duration: 03:10
-From: NCE (Nice)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:35
-Landing: 10:20
-Duration: 01:45
-From: NCE (Nice)
-To: VIE (Vienna)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:10
-Landing: 19:20
-Duration: 03:10
-From: NUE (Nuremberg)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:50
-Landing: 17:40
-Duration: 02:50
-From: NUE (Nuremberg)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:15
-Landing: 19:50
-Duration: 01:35
-From: OSL (Oslo Gardermoen)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 21:30
-Landing: 01:30
-Duration: 04:00
-From: TRF (Oslo Sandefjord Airport)
-To: OTP (Bucharest)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 08:20
-Landing: 09:55
-Duration: 01:35
-From: TRF (Oslo Sandefjord Airport)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 15:25
-Landing: 17:20
-Duration: 01:55
-From: TRF (Oslo Sandefjord Airport)
-To: WAW (Warsaw Chopin)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 18:05
-Duration: 01:35
-From: PMI (Palma de Mallorca)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:15
-Landing: 22:25
-Duration: 03:10
-From: PMI (Palma de Mallorca)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:45
-Landing: 23:10
-Duration: 02:25
-From: BVA (Paris Beauvais)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:15
-Landing: 13:10
-Duration: 03:55
-From: BVA (Paris Beauvais)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:05
-Landing: 00:40
-Duration: 06:35
-From: BVA (Paris Beauvais)
-To: KUT (Kutaisi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:20
-Landing: 15:10
-Duration: 01:50
-From: BVA (Paris Beauvais)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 19:05
-Duration: 02:35
-From: BVA (Paris Beauvais)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:50
-Landing: 18:05
-Duration: 03:15
-From: PSA (Pisa (Tuscany))
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:40
-Landing: 10:20
-Duration: 01:40
-From: PSA (Pisa (Tuscany))
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:50
-Landing: 14:10
-Duration: 01:20
-From: TGD (Podgorica)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:50
-Landing: 21:45
-Duration: 01:55
-From: TGD (Podgorica)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 14:30
-Duration: 05:40
-From: POZ (Poznan)
-To: KUT (Kutaisi)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 16:00
-Landing: 17:15
-Duration: 01:15
-From: POZ (Poznan)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 22:05
-Landing: 23:20
-Duration: 01:15
-From: POZ (Poznan)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:45
-Landing: 12:40
-Duration: 00:55
-From: PRG (Prague)
-To: LGW (London Gatwick)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 09:35
-Landing: 10:40
-Duration: 01:05
-From: PRG (Prague)
-To: LTN (London Luton)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 17:35
-Duration: 01:05
-From: PRG (Prague)
-To: LTN (London Luton)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 22:05
-Landing: 22:50
-Duration: 00:45
-From: PRG (Prague)
-To: LTN (London Luton)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 08:40
-Landing: 10:15
-Duration: 01:35
-From: PRG (Prague)
-To: MXP (Milan Malpensa)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 08:45
-Landing: 10:50
-Duration: 02:05
-From: PRG (Prague)
-To: NAP (Naples)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 09:25
-Landing: 11:20
-Duration: 01:55
-From: PRG (Prague)
-To: FCO (Rome Fiumicino)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 22:05
-Landing: 23:55
-Duration: 01:50
-From: PRG (Prague)
-To: FCO (Rome Fiumicino)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 08:15
-Landing: 09:45
-Duration: 01:30
-From: PRG (Prague)
-To: VCE (Venice Marco Polo)
-Price: 259.00CZK
-
-Date: 2024-10-08
-Takeoff: 20:45
-Landing: 02:20
-Duration: 05:35
-From: KEF (Reykjavik)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:00
-Landing: 18:50
-Duration: 06:50
-From: KEF (Reykjavik)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:45
-Landing: 05:45
-Duration: 06:00
-From: KEF (Reykjavik)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:15
-Landing: 22:10
-Duration: 04:55
-From: RUH (Riyadh)
-To: VIE (Vienna)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 15:50
-Landing: 19:15
-Duration: 03:25
-From: CIA (Rome Ciampino)
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:15
-Landing: 03:20
-Duration: 08:05
-From: FCO (Rome Fiumicino)
-To: AUH (Abu Dhabi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 07:10
-Landing: 09:00
-Duration: 01:50
-From: FCO (Rome Fiumicino)
-To: BCN (Barcelona El Prat)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:05
-Landing: 15:55
-Duration: 01:50
-From: FCO (Rome Fiumicino)
-To: BCN (Barcelona El Prat)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:05
-Landing: 12:20
-Duration: 03:15
-From: FCO (Rome Fiumicino)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:00
-Landing: 01:15
-Duration: 03:15
-From: FCO (Rome Fiumicino)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:55
-Landing: 22:40
-Duration: 01:45
-From: FCO (Rome Fiumicino)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 07:25
-Landing: 10:55
-Duration: 03:30
-From: FCO (Rome Fiumicino)
-To: RMO (Chisinau)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:30
-Landing: 19:05
-Duration: 06:35
-From: FCO (Rome Fiumicino)
-To: DMM (Dammam)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:05
-Landing: 15:50
-Duration: 01:45
-From: FCO (Rome Fiumicino)
-To: DEB (Debrecen)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 15:15
-Duration: 02:15
-From: FCO (Rome Fiumicino)
-To: DTM (Dortmund)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:05
-Landing: 17:15
-Duration: 02:10
-From: FCO (Rome Fiumicino)
-To: KRK (Kraków)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:20
-Landing: 17:00
-Duration: 01:40
-From: FCO (Rome Fiumicino)
-To: LYS (Lyon)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 08:45
-Duration: 02:35
-From: FCO (Rome Fiumicino)
-To: MAD (Madrid)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:05
-Landing: 18:55
-Duration: 02:50
-From: FCO (Rome Fiumicino)
-To: AGP (Malaga)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:00
-Landing: 13:20
-Duration: 01:20
-From: FCO (Rome Fiumicino)
-To: NCE (Nice)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:30
-Landing: 08:45
-Duration: 02:15
-From: FCO (Rome Fiumicino)
-To: ORY (Paris Orly)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:45
-Landing: 08:40
-Duration: 01:55
-From: FCO (Rome Fiumicino)
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:35
-Landing: 21:30
-Duration: 01:55
-From: FCO (Rome Fiumicino)
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:30
-Landing: 15:20
-Duration: 02:50
-From: FCO (Rome Fiumicino)
-To: SVQ (Seville)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 21:55
-Duration: 02:50
-From: FCO (Rome Fiumicino)
-To: SVQ (Seville)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:25
-Landing: 19:05
-Duration: 03:40
-From: FCO (Rome Fiumicino)
-To: TFS (Tenerife (Canary Islands))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:20
-Landing: 17:55
-Duration: 01:35
-From: FCO (Rome Fiumicino)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:30
-Landing: 22:05
-Duration: 01:35
-From: FCO (Rome Fiumicino)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:25
-Landing: 08:30
-Duration: 02:05
-From: FCO (Rome Fiumicino)
-To: VLC (Valencia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:50
-Landing: 21:55
-Duration: 02:05
-From: FCO (Rome Fiumicino)
-To: VLC (Valencia)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:30
-Landing: 08:15
-Duration: 01:45
-From: FCO (Rome Fiumicino)
-To: VIE (Vienna)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 11:35
-Duration: 02:25
-From: FCO (Rome Fiumicino)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 23:15
-Duration: 02:25
-From: FCO (Rome Fiumicino)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:45
-Landing: 18:55
-Duration: 02:10
-From: RZE (Rzeszów)
-To: MXP (Milan Malpensa)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 10:10
-Landing: 12:10
-Duration: 02:00
-From: SJJ (Sarajevo)
-To: LTN (London Luton)
-Price: 20.00BAM
-
-Date: 2024-10-08
-Takeoff: 16:00
-Landing: 18:40
-Duration: 02:40
-From: SVQ (Seville)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:40
-Landing: 01:20
-Duration: 02:40
-From: SVQ (Seville)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 22:55
-Duration: 03:50
-From: SVQ (Seville)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:50
-Landing: 02:25
-Duration: 03:35
-From: SSH (Sharm El Sheikh)
-To: MXP (Milan Malpensa)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 11:35
-Landing: 14:40
-Duration: 03:05
-From: SSH (Sharm El Sheikh)
-To: FCO (Rome Fiumicino)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 12:55
-Landing: 13:50
-Duration: 00:55
-From: SBZ (Sibiu)
-To: NUE (Nuremberg)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 16:05
-Duration: 03:05
-From: SKP (Skopje)
-To: BVA (Paris Beauvais)
-Price: 630.00MKD
-
-Date: 2024-10-08
-Takeoff: 19:25
-Landing: 21:55
-Duration: 02:30
-From: SOF (Sofia)
-To: ALC (Alicante)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 19:45
-Landing: 20:15
-Duration: 00:30
-From: SOF (Sofia)
-To: BRI (Bari)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 14:15
-Landing: 15:55
-Duration: 01:40
-From: SOF (Sofia)
-To: DTM (Dortmund)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 07:45
-Duration: 01:35
-From: SOF (Sofia)
-To: GVA (Geneva)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 15:10
-Landing: 15:55
-Duration: 00:45
-From: SOF (Sofia)
-To: NAP (Naples)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 13:25
-Landing: 14:55
-Duration: 01:30
-From: SOF (Sofia)
-To: NCE (Nice)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 12:45
-Landing: 16:25
-Duration: 03:40
-From: SOF (Sofia)
-To: EVN (Yerevan)
-Price: 20.00BGN
-
-Date: 2024-10-08
-Takeoff: 21:25
-Landing: 23:10
-Duration: 01:45
-From: SPU (Split)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 22:40
-Duration: 01:50
-From: SPU (Split)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 21:30
-Landing: 23:10
-Duration: 01:40
-From: SVG (Stavanger)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 15:00
-Landing: 17:25
-Duration: 02:25
-From: ARN (Stockholm Arlanda)
-To: BUD (Budapest)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 07:55
-Landing: 09:25
-Duration: 01:30
-From: ARN (Stockholm Arlanda)
-To: GDN (Gdansk)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 15:10
-Landing: 16:45
-Duration: 01:35
-From: NYO (Stockholm Skavsta)
-To: WAW (Warsaw Chopin)
-Price: 119.00SEK
-
-Date: 2024-10-08
-Takeoff: 16:20
-Landing: 17:55
-Duration: 01:35
-From: STR (Stuttgart)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:30
-Landing: 01:10
-Duration: 06:40
-From: TFS (Tenerife (Canary Islands))
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:20
-Landing: 23:30
-Duration: 05:10
-From: TFS (Tenerife (Canary Islands))
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 10:35
-Landing: 15:55
-Duration: 05:20
-From: TFS (Tenerife (Canary Islands))
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:45
-Landing: 01:05
-Duration: 05:20
-From: TFS (Tenerife (Canary Islands))
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:55
-Landing: 01:25
-Duration: 05:30
-From: TFS (Tenerife (Canary Islands))
-To: VCE (Venice Marco Polo)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:40
-Landing: 23:55
-Duration: 01:15
-From: SKG (Thessaloniki)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:55
-Landing: 21:45
-Duration: 00:50
-From: TSR (Timisoara)
-To: BGY (Milan Bergamo)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 23:00
-Duration: 02:10
-From: TSR (Timisoara)
-To: VLC (Valencia)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:40
-Landing: 07:15
-Duration: 00:35
-From: TSR (Timisoara)
-To: TSF (Venice Treviso)
-Price: 51.99RON
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 09:20
-Duration: 02:25
-From: TIA (Tirana)
-To: ATH (Athens)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 12:25
-Landing: 15:05
-Duration: 02:40
-From: TIA (Tirana)
-To: BCN (Barcelona El Prat)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 21:45
-Duration: 02:40
-From: TIA (Tirana)
-To: BCN (Barcelona El Prat)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 07:40
-Duration: 00:45
-From: TIA (Tirana)
-To: BRI (Bari)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 11:10
-Landing: 11:55
-Duration: 00:45
-From: TIA (Tirana)
-To: BRI (Bari)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 21:40
-Landing: 22:45
-Duration: 01:05
-From: TIA (Tirana)
-To: BRI (Bari)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 20:50
-Landing: 22:35
-Duration: 01:45
-From: TIA (Tirana)
-To: BLQ (Bologna)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 17:35
-Landing: 19:05
-Duration: 01:30
-From: TIA (Tirana)
-To: BUD (Budapest)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 11:35
-Landing: 13:10
-Duration: 01:35
-From: TIA (Tirana)
-To: CTA (Catania (Sicily))
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 18:45
-Landing: 20:40
-Duration: 01:55
-From: TIA (Tirana)
-To: KRK (Kraków)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 08:15
-Duration: 01:55
-From: TIA (Tirana)
-To: BGY (Milan Bergamo)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 15:30
-Landing: 17:25
-Duration: 01:55
-From: TIA (Tirana)
-To: BGY (Milan Bergamo)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 21:20
-Landing: 23:15
-Duration: 01:55
-From: TIA (Tirana)
-To: BGY (Milan Bergamo)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 13:00
-Landing: 15:55
-Duration: 02:55
-From: TIA (Tirana)
-To: BVA (Paris Beauvais)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 13:55
-Landing: 15:35
-Duration: 01:40
-From: TIA (Tirana)
-To: FCO (Rome Fiumicino)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 18:10
-Landing: 19:50
-Duration: 01:40
-From: TIA (Tirana)
-To: FCO (Rome Fiumicino)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 06:20
-Landing: 08:35
-Duration: 02:15
-From: TIA (Tirana)
-To: TRN (Turin)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 20:10
-Landing: 23:05
-Duration: 02:55
-From: TIA (Tirana)
-To: VLC (Valencia)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 11:20
-Landing: 13:00
-Duration: 01:40
-From: TIA (Tirana)
-To: TSF (Venice Treviso)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 18:10
-Duration: 01:40
-From: TIA (Tirana)
-To: TSF (Venice Treviso)
-Price: 1,010.00ALL
-
-Date: 2024-10-08
-Takeoff: 22:25
-Landing: 01:10
-Duration: 02:45
-From: TOS (Tromso)
-To: GDN (Gdansk)
-Price: 125.00NOK
-
-Date: 2024-10-08
-Takeoff: 09:10
-Landing: 11:05
-Duration: 01:55
-From: TRN (Turin)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:55
-Landing: 17:15
-Duration: 03:20
-From: HSA (Turkistan)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 14:55
-Landing: 15:25
-Duration: 00:30
-From: TKU (Turku)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 22:35
-Landing: 00:45
-Duration: 02:10
-From: VLC (Valencia)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 23:45
-Landing: 02:30
-Duration: 02:45
-From: VLC (Valencia)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 07:35
-Duration: 01:25
-From: VCE (Venice Marco Polo)
-To: PRG (Prague)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:45
-Landing: 10:35
-Duration: 01:50
-From: VCE (Venice Marco Polo)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:25
-Landing: 12:20
-Duration: 02:55
-From: TSF (Venice Treviso)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 14:35
-Landing: 17:30
-Duration: 02:55
-From: TSF (Venice Treviso)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:45
-Landing: 15:15
-Duration: 01:30
-From: TSF (Venice Treviso)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 18:45
-Landing: 20:15
-Duration: 01:30
-From: TSF (Venice Treviso)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 20:15
-Landing: 22:40
-Duration: 02:25
-From: VIE (Vienna)
-To: BCN (Barcelona El Prat)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 13:30
-Landing: 15:50
-Duration: 02:20
-From: VIE (Vienna)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 10:05
-Duration: 03:55
-From: VIE (Vienna)
-To: FNC (Funchal (Madeira))
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 11:05
-Duration: 05:05
-From: VIE (Vienna)
-To: HRG (Hurghada)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 08:10
-Landing: 13:25
-Duration: 05:15
-From: VIE (Vienna)
-To: KUT (Kutaisi)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:00
-Landing: 10:25
-Duration: 01:25
-From: VIE (Vienna)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 17:10
-Landing: 18:45
-Duration: 01:35
-From: VIE (Vienna)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 16:30
-Landing: 18:10
-Duration: 01:40
-From: VIE (Vienna)
-To: NAP (Naples)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:05
-Landing: 08:00
-Duration: 01:55
-From: VIE (Vienna)
-To: NCE (Nice)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 09:50
-Landing: 16:20
-Duration: 06:30
-From: VIE (Vienna)
-To: RUH (Riyadh)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:40
-Duration: 01:40
-From: VIE (Vienna)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 12:30
-Landing: 14:05
-Duration: 01:35
-From: VIE (Vienna)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 06:15
-Landing: 07:15
-Duration: 01:00
-From: VNO (Vilnius)
-To: LTN (London Luton)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 19:05
-Landing: 20:45
-Duration: 01:40
-From: VNO (Vilnius)
-To: MXP (Milan Malpensa)
-Price: 9.99EUR
-
-Date: 2024-10-08
-Takeoff: 15:50
-Landing: 18:55
-Duration: 03:05
-From: WAW (Warsaw Chopin)
-To: BCN (Barcelona El Prat)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 05:45
-Landing: 09:05
-Duration: 03:20
-From: WAW (Warsaw Chopin)
-To: BIO (Bilbao)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:25
-Landing: 08:35
-Duration: 02:10
-From: WAW (Warsaw Chopin)
-To: CRL (Brussels Charleroi)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:55
-Landing: 09:45
-Duration: 02:50
-From: WAW (Warsaw Chopin)
-To: CTA (Catania (Sicily))
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 12:45
-Landing: 14:20
-Duration: 01:35
-From: WAW (Warsaw Chopin)
-To: CPH (Copenhagen)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:55
-Landing: 14:10
-Duration: 02:15
-From: WAW (Warsaw Chopin)
-To: EIN (Eindhoven)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:25
-Landing: 15:55
-Duration: 04:30
-From: WAW (Warsaw Chopin)
-To: FNC (Funchal (Madeira))
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 20:05
-Landing: 01:35
-Duration: 05:30
-From: WAW (Warsaw Chopin)
-To: KUT (Kutaisi)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:00
-Landing: 07:40
-Duration: 01:40
-From: WAW (Warsaw Chopin)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 07:05
-Landing: 08:50
-Duration: 01:45
-From: WAW (Warsaw Chopin)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 11:55
-Landing: 13:40
-Duration: 01:45
-From: WAW (Warsaw Chopin)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 17:20
-Landing: 19:05
-Duration: 01:45
-From: WAW (Warsaw Chopin)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 05:45
-Landing: 09:35
-Duration: 03:50
-From: WAW (Warsaw Chopin)
-To: MAD (Madrid)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:30
-Landing: 08:35
-Duration: 02:05
-From: WAW (Warsaw Chopin)
-To: BGY (Milan Bergamo)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 17:55
-Landing: 20:00
-Duration: 02:05
-From: WAW (Warsaw Chopin)
-To: BGY (Milan Bergamo)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 12:15
-Landing: 14:40
-Duration: 02:25
-From: WAW (Warsaw Chopin)
-To: NAP (Naples)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 21:00
-Landing: 23:05
-Duration: 02:05
-From: WAW (Warsaw Chopin)
-To: KEF (Reykjavik)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 17:55
-Landing: 20:15
-Duration: 02:20
-From: WAW (Warsaw Chopin)
-To: FCO (Rome Fiumicino)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 18:15
-Landing: 20:10
-Duration: 01:55
-From: WAW (Warsaw Chopin)
-To: SPU (Split)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 06:10
-Landing: 08:10
-Duration: 02:00
-From: WAW (Warsaw Chopin)
-To: VCE (Venice Marco Polo)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 19:35
-Landing: 20:55
-Duration: 01:20
-From: WRO (Wroclaw)
-To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-08
-Takeoff: 21:20
-Landing: 00:35
-Duration: 03:15
-From: EVN (Yerevan)
-To: AUH (Abu Dhabi)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 08:50
-Landing: 10:20
-Duration: 01:30
-From: EVN (Yerevan)
-To: LCA (Larnaca)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 22:20
-Landing: 23:55
-Duration: 01:35
-From: EVN (Yerevan)
-To: LCA (Larnaca)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 02:45
-Landing: 05:00
-Duration: 02:15
-From: EVN (Yerevan)
-To: FCO (Rome Fiumicino)
-Price: 11.49USD
-
-Date: 2024-10-08
-Takeoff: 20:45
-Landing: 00:50
-Duration: 04:05
-From: ZAZ (Zaragoza)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
 Date: 2024-10-09
 Takeoff: 14:40
 Landing: 17:50
@@ -8938,14 +4402,6 @@ To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 21:40
-Landing: 00:50
-Duration: 03:10
-From: ABZ (Aberdeen)
-To: GDN (Gdansk)
-Price: 8.99GBP
-
-Date: 2024-10-10
 Takeoff: 14:35
 Landing: 20:05
 Duration: 05:30
@@ -8999,6 +4455,14 @@ Landing: 20:30
 Duration: 04:10
 From: AUH (Abu Dhabi)
 To: KTW (Katowice)
+Price: 42.00AED
+
+Date: 2024-10-10
+Takeoff: 17:50
+Landing: 21:40
+Duration: 03:50
+From: AUH (Abu Dhabi)
+To: KUT (Kutaisi)
 Price: 42.00AED
 
 Date: 2024-10-10
@@ -9066,19 +4530,27 @@ To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 23:55
-Landing: 04:25
-Duration: 04:30
-From: ALC (Alicante)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 09:45
 Landing: 14:05
 Duration: 04:20
 From: ALC (Alicante)
 To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 22:35
+Landing: 02:40
+Duration: 04:05
+From: ALC (Alicante)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 11:00
+Landing: 14:25
+Duration: 03:25
+From: ALC (Alicante)
+To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -9130,27 +4602,11 @@ To: AUH (Abu Dhabi)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 23:05
-Landing: 00:50
-Duration: 01:45
-From: ATH (Athens)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 23:50
 Landing: 01:35
 Duration: 01:45
 From: ATH (Athens)
 To: LCA (Larnaca)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 21:40
-Landing: 23:35
-Duration: 01:55
-From: ATH (Athens)
-To: LGW (London Gatwick)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -9170,11 +4626,19 @@ To: AUH (Abu Dhabi)
 Price: 11.49USD
 
 Date: 2024-10-10
-Takeoff: 22:35
-Landing: 01:10
-Duration: 02:35
+Takeoff: 12:25
+Landing: 14:20
+Duration: 01:55
+From: BNX (Banja Luka)
+To: DTM (Dortmund)
+Price: 20.00BAM
+
+Date: 2024-10-10
+Takeoff: 19:55
+Landing: 00:10
+Duration: 04:15
 From: BCN (Barcelona El Prat)
-To: BEG (Belgrad)
+To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -9223,6 +4687,14 @@ Landing: 12:30
 Duration: 02:55
 From: BCN (Barcelona El Prat)
 To: KTW (Katowice)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 09:45
+Landing: 12:40
+Duration: 02:55
+From: BCN (Barcelona El Prat)
+To: KRK (Kraków)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -9322,19 +4794,11 @@ To: TIA (Tirana)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 15:05
-Landing: 16:55
-Duration: 01:50
-From: MLH (Basel-Mulhouse-Freiburg)
-To: BEG (Belgrad)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 15:50
-Landing: 17:55
-Duration: 02:05
-From: MLH (Basel-Mulhouse-Freiburg)
-To: INI (Niš)
+Takeoff: 09:00
+Landing: 11:10
+Duration: 02:10
+From: BRI (Bari)
+To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -9354,19 +4818,19 @@ To: BUD (Budapest)
 Price: 9.99CHF
 
 Date: 2024-10-10
+Takeoff: 14:45
+Landing: 16:40
+Duration: 01:55
+From: BSL (Basel-Mulhouse-Freiburg)
+To: WAW (Warsaw Chopin)
+Price: 9.99CHF
+
+Date: 2024-10-10
 Takeoff: 19:15
 Landing: 21:55
 Duration: 02:40
 From: BEG (Belgrad)
 To: BCN (Barcelona El Prat)
-Price: 1,199.00RSD
-
-Date: 2024-10-10
-Takeoff: 12:25
-Landing: 14:30
-Duration: 02:05
-From: BEG (Belgrad)
-To: MLH (Basel-Mulhouse-Freiburg)
 Price: 1,199.00RSD
 
 Date: 2024-10-10
@@ -9383,6 +4847,14 @@ Landing: 09:25
 Duration: 02:15
 From: BEG (Belgrad)
 To: DTM (Dortmund)
+Price: 1,199.00RSD
+
+Date: 2024-10-10
+Takeoff: 06:05
+Landing: 08:30
+Duration: 02:25
+From: BEG (Belgrad)
+To: EIN (Eindhoven)
 Price: 1,199.00RSD
 
 Date: 2024-10-10
@@ -9418,22 +4890,6 @@ To: BEG (Belgrad)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 17:10
-Landing: 19:25
-Duration: 02:15
-From: BER (Berlin Brandenburg)
-To: FCO (Rome Fiumicino)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 21:20
-Landing: 23:35
-Duration: 02:15
-From: BER (Berlin Brandenburg)
-To: SKP (Skopje)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 15:45
 Landing: 18:00
 Duration: 02:15
@@ -9458,14 +4914,6 @@ To: IAS (Iasi)
 Price: 79.00DKK
 
 Date: 2024-10-10
-Takeoff: 09:10
-Landing: 14:30
-Duration: 05:20
-From: BHX (Birmingham)
-To: OTP (Bucharest)
-Price: 8.99GBP
-
-Date: 2024-10-10
 Takeoff: 14:40
 Landing: 17:45
 Duration: 03:05
@@ -9480,6 +4928,14 @@ Duration: 03:15
 From: BLQ (Bologna)
 To: IAS (Iasi)
 Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 07:55
+Landing: 08:15
+Duration: 00:20
+From: GHV (Brasov)
+To: BUD (Budapest)
+Price: 51.99RON
 
 Date: 2024-10-10
 Takeoff: 14:25
@@ -9530,11 +4986,27 @@ To: SKP (Skopje)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 09:30
+Landing: 12:00
+Duration: 02:30
+From: CRL (Brussels Charleroi)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 06:00
 Landing: 07:40
 Duration: 01:40
 From: OTP (Bucharest)
 To: AHO (Alghero (Sardinia))
+Price: 51.99RON
+
+Date: 2024-10-10
+Takeoff: 16:55
+Landing: 19:15
+Duration: 02:20
+From: OTP (Bucharest)
+To: BCN (Barcelona El Prat)
 Price: 51.99RON
 
 Date: 2024-10-10
@@ -9575,6 +5047,14 @@ Landing: 20:45
 Duration: 01:55
 From: OTP (Bucharest)
 To: LYS (Lyon)
+Price: 51.99RON
+
+Date: 2024-10-10
+Takeoff: 16:10
+Landing: 19:20
+Duration: 03:10
+From: OTP (Bucharest)
+To: MAD (Madrid)
 Price: 51.99RON
 
 Date: 2024-10-10
@@ -9623,14 +5103,6 @@ Landing: 15:20
 Duration: 01:20
 From: OTP (Bucharest)
 To: PSA (Pisa (Tuscany))
-Price: 51.99RON
-
-Date: 2024-10-10
-Takeoff: 07:40
-Landing: 09:00
-Duration: 01:20
-From: OTP (Bucharest)
-To: FCO (Rome Fiumicino)
 Price: 51.99RON
 
 Date: 2024-10-10
@@ -9898,14 +5370,6 @@ To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 22:25
-Landing: 01:35
-Duration: 03:10
-From: CTA (Catania (Sicily))
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 16:05
 Landing: 19:20
 Duration: 03:15
@@ -9954,14 +5418,6 @@ To: LTN (London Luton)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 09:55
-Landing: 11:25
-Duration: 01:30
-From: RMO (Chisinau)
-To: VCE (Venice Marco Polo)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 06:30
 Landing: 09:05
 Duration: 02:35
@@ -10002,11 +5458,11 @@ To: CTA (Catania (Sicily))
 Price: 51.99RON
 
 Date: 2024-10-10
-Takeoff: 15:00
-Landing: 16:20
-Duration: 01:20
+Takeoff: 13:25
+Landing: 15:00
+Duration: 01:35
 From: CLJ (Cluj-Napoca)
-To: HHN (Frankfurt Hahn)
+To: EIN (Eindhoven)
 Price: 51.99RON
 
 Date: 2024-10-10
@@ -10050,11 +5506,11 @@ To: ZTH (Zakynthos)
 Price: 51.99RON
 
 Date: 2024-10-10
-Takeoff: 15:40
-Landing: 17:30
-Duration: 01:50
+Takeoff: 14:10
+Landing: 15:15
+Duration: 01:05
 From: CPH (Copenhagen)
-To: BUD (Budapest)
+To: GDN (Gdansk)
 Price: 79.00DKK
 
 Date: 2024-10-10
@@ -10082,22 +5538,6 @@ To: AYT (Antalya)
 Price: 4,090.00HUF
 
 Date: 2024-10-10
-Takeoff: 13:20
-Landing: 15:35
-Duration: 02:15
-From: DEB (Debrecen)
-To: EIN (Eindhoven)
-Price: 4,090.00HUF
-
-Date: 2024-10-10
-Takeoff: 10:00
-Landing: 11:50
-Duration: 01:50
-From: DTM (Dortmund)
-To: BNX (Banja Luka)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 10:25
 Landing: 13:50
 Duration: 03:25
@@ -10106,11 +5546,11 @@ To: GHV (Brasov)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 08:30
-Landing: 12:05
+Takeoff: 14:55
+Landing: 18:30
 Duration: 03:35
 From: DTM (Dortmund)
-To: OTP (Bucharest)
+To: IAS (Iasi)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -10138,11 +5578,11 @@ To: CLJ (Cluj-Napoca)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 15:50
-Landing: 18:25
-Duration: 02:35
+Takeoff: 14:50
+Landing: 18:30
+Duration: 03:40
 From: EIN (Eindhoven)
-To: SKP (Skopje)
+To: SOF (Sofia)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -10167,14 +5607,6 @@ Landing: 22:10
 Duration: 02:50
 From: FAO (Faro)
 To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 09:45
-Landing: 15:55
-Duration: 06:10
-From: HHN (Frankfurt Hahn)
-To: KUT (Kutaisi)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -10210,11 +5642,11 @@ To: VIE (Vienna)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 07:40
-Landing: 11:15
-Duration: 03:35
+Takeoff: 19:55
+Landing: 21:50
+Duration: 01:55
 From: GDN (Gdansk)
-To: ALC (Alicante)
+To: BGO (Bergen)
 Price: 44.99PLN
 
 Date: 2024-10-10
@@ -10263,14 +5695,6 @@ Landing: 17:20
 Duration: 01:20
 From: GDN (Gdansk)
 To: HAM (Hamburg)
-Price: 44.99PLN
-
-Date: 2024-10-10
-Takeoff: 16:15
-Landing: 21:00
-Duration: 04:45
-From: GDN (Gdansk)
-To: LCA (Larnaca)
 Price: 44.99PLN
 
 Date: 2024-10-10
@@ -10346,6 +5770,14 @@ To: GDN (Gdansk)
 Price: 119.00SEK
 
 Date: 2024-10-10
+Takeoff: 16:35
+Landing: 20:10
+Duration: 03:35
+From: HAM (Hamburg)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 16:15
 Landing: 17:35
 Duration: 01:20
@@ -10367,14 +5799,6 @@ Landing: 12:00
 Duration: 02:30
 From: HAM (Hamburg)
 To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 09:35
-Landing: 13:15
-Duration: 03:40
-From: HAM (Hamburg)
-To: VAR (Varna (Black Sea))
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -10400,14 +5824,6 @@ Duration: 01:35
 From: IAS (Iasi)
 To: CTA (Catania (Sicily))
 Price: 51.99RON
-
-Date: 2024-10-10
-Takeoff: 21:55
-Landing: 23:00
-Duration: 01:05
-From: IST (Istanbul)
-To: BUD (Budapest)
-Price: 9.99EUR
 
 Date: 2024-10-10
 Takeoff: 04:50
@@ -10514,6 +5930,14 @@ To: LTN (London Luton)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 06:10
+Landing: 09:00
+Duration: 02:50
+From: KRK (Kraków)
+To: BCN (Barcelona El Prat)
+Price: 44.99PLN
+
+Date: 2024-10-10
 Takeoff: 12:05
 Landing: 14:00
 Duration: 01:55
@@ -10535,14 +5959,6 @@ Landing: 07:30
 Duration: 01:30
 From: KRK (Kraków)
 To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-10
-Takeoff: 14:55
-Landing: 18:35
-Duration: 03:40
-From: KRK (Kraków)
-To: AGP (Malaga)
 Price: 44.99PLN
 
 Date: 2024-10-10
@@ -10690,27 +6106,11 @@ To: KUT (Kutaisi)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 21:50
-Landing: 00:55
-Duration: 03:05
-From: LCA (Larnaca)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 21:10
 Landing: 23:35
 Duration: 02:25
 From: LCA (Larnaca)
 To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 11:05
-Landing: 13:45
-Duration: 02:40
-From: LCA (Larnaca)
-To: WRO (Wroclaw)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -10922,14 +6322,6 @@ To: AYT (Antalya)
 Price: 8.99GBP
 
 Date: 2024-10-10
-Takeoff: 15:35
-Landing: 20:50
-Duration: 05:15
-From: LTN (London Luton)
-To: BCM (Bacau)
-Price: 8.99GBP
-
-Date: 2024-10-10
 Takeoff: 16:10
 Landing: 20:05
 Duration: 03:55
@@ -10943,6 +6335,14 @@ Landing: 09:10
 Duration: 03:15
 From: LTN (London Luton)
 To: BTS (Bratislava)
+Price: 8.99GBP
+
+Date: 2024-10-10
+Takeoff: 17:50
+Landing: 23:10
+Duration: 05:20
+From: LTN (London Luton)
+To: OTP (Bucharest)
 Price: 8.99GBP
 
 Date: 2024-10-10
@@ -10962,6 +6362,14 @@ To: RMO (Chisinau)
 Price: 8.99GBP
 
 Date: 2024-10-10
+Takeoff: 07:10
+Landing: 12:25
+Duration: 05:15
+From: LTN (London Luton)
+To: RMO (Chisinau)
+Price: 8.99GBP
+
+Date: 2024-10-10
 Takeoff: 08:10
 Landing: 13:05
 Duration: 04:55
@@ -10975,14 +6383,6 @@ Landing: 13:20
 Duration: 05:30
 From: LTN (London Luton)
 To: CND (Constanta)
-Price: 8.99GBP
-
-Date: 2024-10-10
-Takeoff: 08:10
-Landing: 13:15
-Duration: 05:05
-From: LTN (London Luton)
-To: CRA (Craiova)
 Price: 8.99GBP
 
 Date: 2024-10-10
@@ -11018,22 +6418,6 @@ To: KUN (Kaunas)
 Price: 8.99GBP
 
 Date: 2024-10-10
-Takeoff: 12:05
-Landing: 15:40
-Duration: 03:35
-From: LTN (London Luton)
-To: KSC (Kosice)
-Price: 8.99GBP
-
-Date: 2024-10-10
-Takeoff: 18:20
-Landing: 21:15
-Duration: 02:55
-From: LTN (London Luton)
-To: LIS (Lisbon)
-Price: 8.99GBP
-
-Date: 2024-10-10
 Takeoff: 05:10
 Landing: 08:45
 Duration: 03:35
@@ -11066,19 +6450,19 @@ To: SKP (Skopje)
 Price: 8.99GBP
 
 Date: 2024-10-10
-Takeoff: 08:35
-Landing: 13:45
-Duration: 05:10
-From: LTN (London Luton)
-To: SOF (Sofia)
-Price: 8.99GBP
-
-Date: 2024-10-10
 Takeoff: 17:10
 Landing: 20:45
 Duration: 03:35
 From: LTN (London Luton)
 To: SPU (Split)
+Price: 8.99GBP
+
+Date: 2024-10-10
+Takeoff: 06:10
+Landing: 11:15
+Duration: 05:05
+From: LTN (London Luton)
+To: SCV (Suceava)
 Price: 8.99GBP
 
 Date: 2024-10-10
@@ -11100,14 +6484,6 @@ Price: 8.99GBP
 Date: 2024-10-10
 Takeoff: 08:25
 Landing: 11:50
-Duration: 03:25
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-10
-Takeoff: 19:45
-Landing: 23:10
 Duration: 03:25
 From: LTN (London Luton)
 To: WAW (Warsaw Chopin)
@@ -11154,14 +6530,6 @@ To: AUH (Abu Dhabi)
 Price: 11.49USD
 
 Date: 2024-10-10
-Takeoff: 09:40
-Landing: 14:35
-Duration: 04:55
-From: MAD (Madrid)
-To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 20:40
 Landing: 01:05
 Duration: 04:25
@@ -11202,11 +6570,11 @@ To: VIE (Vienna)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 22:50
-Landing: 01:25
+Takeoff: 23:30
+Landing: 02:05
 Duration: 02:35
 From: MMX (Malmo)
-To: SKP (Skopje)
+To: TIA (Tirana)
 Price: 119.00SEK
 
 Date: 2024-10-10
@@ -11215,14 +6583,6 @@ Landing: 01:25
 Duration: 03:20
 From: MLA (Malta)
 To: OTP (Bucharest)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 17:30
-Landing: 19:50
-Duration: 02:20
-From: MLA (Malta)
-To: BUD (Budapest)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11263,14 +6623,6 @@ Landing: 11:25
 Duration: 01:55
 From: FMM (Memmingen/Munich West)
 To: INI (Niš)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 10:10
-Landing: 12:10
-Duration: 02:00
-From: FMM (Memmingen/Munich West)
-To: PRN (Prishtina)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11498,11 +6850,27 @@ To: VIE (Vienna)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 21:40
+Landing: 00:50
+Duration: 03:10
+From: NUE (Nuremberg)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 22:00
 Landing: 00:50
 Duration: 02:50
 From: NUE (Nuremberg)
 To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 14:00
+Landing: 16:50
+Duration: 02:50
+From: NUE (Nuremberg)
+To: SBZ (Sibiu)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11554,6 +6922,14 @@ To: IAS (Iasi)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 18:20
+Landing: 00:55
+Duration: 06:35
+From: BVA (Paris Beauvais)
+To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 13:25
 Landing: 15:15
 Duration: 01:50
@@ -11583,14 +6959,6 @@ Landing: 12:10
 Duration: 02:20
 From: ORY (Paris Orly)
 To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 14:10
-Landing: 15:25
-Duration: 01:15
-From: PSR (Pescara)
-To: TIA (Tirana)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11632,14 +7000,6 @@ Duration: 01:40
 From: TAT (Poprad-Tatry)
 To: LTN (London Luton)
 Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 09:25
-Landing: 15:05
-Duration: 05:40
-From: POZ (Poznan)
-To: KUT (Kutaisi)
-Price: 44.99PLN
 
 Date: 2024-10-10
 Takeoff: 15:35
@@ -11714,19 +7074,27 @@ To: BUD (Budapest)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 19:00
+Landing: 23:35
+Duration: 04:35
+From: RUH (Riyadh)
+To: BUD (Budapest)
+Price: 11.49USD
+
+Date: 2024-10-10
+Takeoff: 15:55
+Landing: 19:20
+Duration: 03:25
+From: CIA (Rome Ciampino)
+To: IAS (Iasi)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 19:15
 Landing: 03:20
 Duration: 08:05
 From: FCO (Rome Fiumicino)
 To: AUH (Abu Dhabi)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 15:30
-Landing: 22:05
-Duration: 06:35
-From: FCO (Rome Fiumicino)
-To: GYD (Baku)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11791,6 +7159,14 @@ Landing: 19:00
 Duration: 02:10
 From: FCO (Rome Fiumicino)
 To: KRK (Kraków)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 08:15
+Landing: 10:00
+Duration: 01:45
+From: FCO (Rome Fiumicino)
+To: LGW (London Gatwick)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -11866,14 +7242,6 @@ To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 20:55
-Landing: 23:20
-Duration: 02:25
-From: FCO (Rome Fiumicino)
-To: WAW (Warsaw Chopin)
-Price: 9.99EUR
-
-Date: 2024-10-10
 Takeoff: 15:35
 Landing: 17:50
 Duration: 02:15
@@ -11911,6 +7279,14 @@ Landing: 01:25
 Duration: 03:35
 From: SSH (Sharm El Sheikh)
 To: MXP (Milan Malpensa)
+Price: 11.49USD
+
+Date: 2024-10-10
+Takeoff: 11:25
+Landing: 14:30
+Duration: 03:05
+From: SSH (Sharm El Sheikh)
+To: FCO (Rome Fiumicino)
 Price: 11.49USD
 
 Date: 2024-10-10
@@ -12042,14 +7418,6 @@ To: BCN (Barcelona El Prat)
 Price: 51.99RON
 
 Date: 2024-10-10
-Takeoff: 16:40
-Landing: 19:20
-Duration: 02:40
-From: TSR (Timisoara)
-To: MAD (Madrid)
-Price: 51.99RON
-
-Date: 2024-10-10
 Takeoff: 06:40
 Landing: 07:25
 Duration: 00:45
@@ -12074,16 +7442,16 @@ To: BCN (Barcelona El Prat)
 Price: 1,010.00ALL
 
 Date: 2024-10-10
-Takeoff: 06:45
-Landing: 07:50
-Duration: 01:05
+Takeoff: 19:30
+Landing: 22:10
+Duration: 02:40
 From: TIA (Tirana)
-To: BRI (Bari)
+To: BCN (Barcelona El Prat)
 Price: 1,010.00ALL
 
 Date: 2024-10-10
-Takeoff: 11:10
-Landing: 12:15
+Takeoff: 06:45
+Landing: 07:50
 Duration: 01:05
 From: TIA (Tirana)
 To: BRI (Bari)
@@ -12095,22 +7463,6 @@ Landing: 22:30
 Duration: 01:05
 From: TIA (Tirana)
 To: BRI (Bari)
-Price: 1,010.00ALL
-
-Date: 2024-10-10
-Takeoff: 12:45
-Landing: 15:10
-Duration: 02:25
-From: TIA (Tirana)
-To: BER (Berlin Brandenburg)
-Price: 1,010.00ALL
-
-Date: 2024-10-10
-Takeoff: 06:05
-Landing: 08:55
-Duration: 02:50
-From: TIA (Tirana)
-To: CRL (Brussels Charleroi)
 Price: 1,010.00ALL
 
 Date: 2024-10-10
@@ -12167,22 +7519,6 @@ Landing: 08:35
 Duration: 01:45
 From: TIA (Tirana)
 To: PSA (Pisa (Tuscany))
-Price: 1,010.00ALL
-
-Date: 2024-10-10
-Takeoff: 06:50
-Landing: 08:25
-Duration: 01:35
-From: TIA (Tirana)
-To: RMI (Rimini)
-Price: 1,010.00ALL
-
-Date: 2024-10-10
-Takeoff: 10:30
-Landing: 12:10
-Duration: 01:40
-From: TIA (Tirana)
-To: FCO (Rome Fiumicino)
 Price: 1,010.00ALL
 
 Date: 2024-10-10
@@ -12274,6 +7610,14 @@ To: FCO (Rome Fiumicino)
 Price: 9.99EUR
 
 Date: 2024-10-10
+Takeoff: 23:55
+Landing: 03:55
+Duration: 04:00
+From: VLC (Valencia)
+To: TSR (Timisoara)
+Price: 9.99EUR
+
+Date: 2024-10-10
 Takeoff: 20:45
 Landing: 23:30
 Duration: 02:45
@@ -12282,12 +7626,12 @@ To: TIA (Tirana)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 06:10
-Landing: 09:20
-Duration: 03:10
-From: VCE (Venice Marco Polo)
-To: RMO (Chisinau)
-Price: 9.99EUR
+Takeoff: 06:15
+Landing: 08:10
+Duration: 01:55
+From: VAR (Varna (Black Sea))
+To: DTM (Dortmund)
+Price: 20.00BGN
 
 Date: 2024-10-10
 Takeoff: 20:10
@@ -12311,6 +7655,14 @@ Landing: 18:20
 Duration: 02:45
 From: TSF (Venice Treviso)
 To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-10
+Takeoff: 09:20
+Landing: 11:00
+Duration: 01:40
+From: TSF (Venice Treviso)
+To: SKP (Skopje)
 Price: 9.99EUR
 
 Date: 2024-10-10
@@ -12372,14 +7724,6 @@ Price: 9.99EUR
 Date: 2024-10-10
 Takeoff: 09:00
 Landing: 10:25
-Duration: 01:25
-From: VIE (Vienna)
-To: LGW (London Gatwick)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 17:20
-Landing: 18:45
 Duration: 01:25
 From: VIE (Vienna)
 To: LGW (London Gatwick)
@@ -12450,22 +7794,6 @@ To: AGP (Malaga)
 Price: 9.99EUR
 
 Date: 2024-10-10
-Takeoff: 13:30
-Landing: 15:25
-Duration: 01:55
-From: VNO (Vilnius)
-To: BVA (Paris Beauvais)
-Price: 9.99EUR
-
-Date: 2024-10-10
-Takeoff: 06:30
-Landing: 10:15
-Duration: 03:45
-From: WAW (Warsaw Chopin)
-To: ALC (Alicante)
-Price: 44.99PLN
-
-Date: 2024-10-10
 Takeoff: 07:10
 Landing: 10:15
 Duration: 03:05
@@ -12479,6 +7807,14 @@ Landing: 18:55
 Duration: 03:05
 From: WAW (Warsaw Chopin)
 To: BCN (Barcelona El Prat)
+Price: 44.99PLN
+
+Date: 2024-10-10
+Takeoff: 12:00
+Landing: 14:05
+Duration: 02:05
+From: WAW (Warsaw Chopin)
+To: BSL (Basel-Mulhouse-Freiburg)
 Price: 44.99PLN
 
 Date: 2024-10-10
@@ -12514,14 +7850,6 @@ To: LBA (Leeds)
 Price: 44.99PLN
 
 Date: 2024-10-10
-Takeoff: 13:30
-Landing: 16:50
-Duration: 03:20
-From: WAW (Warsaw Chopin)
-To: LIS (Lisbon)
-Price: 44.99PLN
-
-Date: 2024-10-10
 Takeoff: 06:00
 Landing: 07:40
 Duration: 01:40
@@ -12551,6 +7879,14 @@ Landing: 18:05
 Duration: 03:25
 From: WAW (Warsaw Chopin)
 To: MAD (Madrid)
+Price: 44.99PLN
+
+Date: 2024-10-10
+Takeoff: 17:40
+Landing: 20:15
+Duration: 02:35
+From: WAW (Warsaw Chopin)
+To: NCE (Nice)
 Price: 44.99PLN
 
 Date: 2024-10-10
@@ -12706,6 +8042,22 @@ To: AUH (Abu Dhabi)
 Price: 11.49USD
 
 Date: 2024-10-11
+Takeoff: 14:25
+Landing: 16:30
+Duration: 02:05
+From: ALC (Alicante)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 10:20
+Landing: 13:40
+Duration: 03:20
+From: ALC (Alicante)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 19:35
 Landing: 23:25
 Duration: 03:50
@@ -12727,6 +8079,14 @@ Landing: 00:40
 Duration: 05:45
 From: ATH (Athens)
 To: AUH (Abu Dhabi)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 08:35
+Landing: 10:20
+Duration: 01:45
+From: ATH (Athens)
+To: LCA (Larnaca)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -12786,6 +8146,14 @@ To: BUD (Budapest)
 Price: 9.99EUR
 
 Date: 2024-10-11
+Takeoff: 15:00
+Landing: 19:00
+Duration: 04:00
+From: BCN (Barcelona El Prat)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 18:55
 Landing: 22:55
 Duration: 04:00
@@ -12794,11 +8162,11 @@ To: CLJ (Cluj-Napoca)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 09:50
-Landing: 14:15
-Duration: 04:25
+Takeoff: 21:50
+Landing: 01:05
+Duration: 03:15
 From: BCN (Barcelona El Prat)
-To: IAS (Iasi)
+To: GDN (Gdansk)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -12807,6 +8175,22 @@ Landing: 00:05
 Duration: 06:50
 From: BCN (Barcelona El Prat)
 To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 08:50
+Landing: 10:35
+Duration: 01:45
+From: BCN (Barcelona El Prat)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 23:25
+Landing: 01:20
+Duration: 01:55
+From: BCN (Barcelona El Prat)
+To: FCO (Rome Fiumicino)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -12834,11 +8218,11 @@ To: VIE (Vienna)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 10:10
-Landing: 13:15
-Duration: 03:05
+Takeoff: 09:30
+Landing: 12:15
+Duration: 02:45
 From: BCN (Barcelona El Prat)
-To: WAW (Warsaw Chopin)
+To: WRO (Wroclaw)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -12866,27 +8250,11 @@ To: TIA (Tirana)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 12:55
-Landing: 13:50
-Duration: 00:55
-From: BRI (Bari)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 23:20
 Landing: 00:15
 Duration: 00:55
 From: BRI (Bari)
 To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 16:25
-Landing: 18:05
-Duration: 01:40
-From: MLH (Basel-Mulhouse-Freiburg)
-To: BNX (Banja Luka)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -12896,6 +8264,22 @@ Duration: 03:25
 From: BSL (Basel-Mulhouse-Freiburg)
 To: OTP (Bucharest)
 Price: 9.99CHF
+
+Date: 2024-10-11
+Takeoff: 20:55
+Landing: 23:10
+Duration: 02:15
+From: MLH (Basel-Mulhouse-Freiburg)
+To: SKP (Skopje)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 10:20
+Landing: 12:05
+Duration: 01:45
+From: MLH (Basel-Mulhouse-Freiburg)
+To: TZL (Tuzla)
+Price: 9.99EUR
 
 Date: 2024-10-11
 Takeoff: 18:55
@@ -12911,6 +8295,14 @@ Landing: 08:15
 Duration: 02:05
 From: BEG (Belgrad)
 To: MLH (Basel-Mulhouse-Freiburg)
+Price: 1,199.00RSD
+
+Date: 2024-10-11
+Takeoff: 06:25
+Landing: 08:40
+Duration: 02:15
+From: BEG (Belgrad)
+To: DTM (Dortmund)
 Price: 1,199.00RSD
 
 Date: 2024-10-11
@@ -12954,14 +8346,6 @@ To: GDN (Gdansk)
 Price: 125.00NOK
 
 Date: 2024-10-11
-Takeoff: 09:30
-Landing: 11:00
-Duration: 01:30
-From: BER (Berlin Brandenburg)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 22:00
 Landing: 00:15
 Duration: 02:15
@@ -12986,28 +8370,12 @@ To: AUH (Abu Dhabi)
 Price: 11.49USD
 
 Date: 2024-10-11
-Takeoff: 15:10
-Landing: 18:25
-Duration: 03:15
-From: BLQ (Bologna)
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 12:55
 Landing: 14:40
 Duration: 01:45
 From: BOJ (Bourgas (Black Sea))
 To: LTN (London Luton)
 Price: 20.00BGN
-
-Date: 2024-10-11
-Takeoff: 12:45
-Landing: 14:15
-Duration: 01:30
-From: GHV (Brasov)
-To: LTN (London Luton)
-Price: 51.99RON
 
 Date: 2024-10-11
 Takeoff: 12:45
@@ -13026,20 +8394,12 @@ To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 09:15
-Landing: 12:55
-Duration: 03:40
+Takeoff: 09:35
+Landing: 11:35
+Duration: 02:00
 From: CRL (Brussels Charleroi)
-To: SOF (Sofia)
+To: BUD (Budapest)
 Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 14:25
-Landing: 20:30
-Duration: 06:05
-From: OTP (Bucharest)
-To: AUH (Abu Dhabi)
-Price: 51.99RON
 
 Date: 2024-10-11
 Takeoff: 06:55
@@ -13055,14 +8415,6 @@ Landing: 15:30
 Duration: 01:20
 From: OTP (Bucharest)
 To: CTA (Catania (Sicily))
-Price: 51.99RON
-
-Date: 2024-10-11
-Takeoff: 05:50
-Landing: 07:40
-Duration: 01:50
-From: OTP (Bucharest)
-To: CPH (Copenhagen)
 Price: 51.99RON
 
 Date: 2024-10-11
@@ -13082,6 +8434,14 @@ To: LCA (Larnaca)
 Price: 51.99RON
 
 Date: 2024-10-11
+Takeoff: 17:15
+Landing: 20:00
+Duration: 02:45
+From: OTP (Bucharest)
+To: LIS (Lisbon)
+Price: 51.99RON
+
+Date: 2024-10-11
 Takeoff: 13:25
 Landing: 14:45
 Duration: 01:20
@@ -13090,19 +8450,27 @@ To: FMM (Memmingen/Munich West)
 Price: 51.99RON
 
 Date: 2024-10-11
-Takeoff: 19:50
-Landing: 21:45
-Duration: 01:55
+Takeoff: 12:45
+Landing: 13:45
+Duration: 01:00
 From: OTP (Bucharest)
-To: NYO (Stockholm Skavsta)
+To: SZG (Salzburg)
 Price: 51.99RON
 
 Date: 2024-10-11
-Takeoff: 07:40
-Landing: 10:20
-Duration: 02:40
+Takeoff: 16:10
+Landing: 19:05
+Duration: 02:55
 From: OTP (Bucharest)
-To: ZAZ (Zaragoza)
+To: SDR (Santander)
+Price: 51.99RON
+
+Date: 2024-10-11
+Takeoff: 06:40
+Landing: 10:00
+Duration: 03:20
+From: OTP (Bucharest)
+To: SVQ (Seville)
 Price: 51.99RON
 
 Date: 2024-10-11
@@ -13127,6 +8495,14 @@ Landing: 18:55
 Duration: 01:50
 From: BUD (Budapest)
 To: BHX (Birmingham)
+Price: 4,090.00HUF
+
+Date: 2024-10-11
+Takeoff: 17:35
+Landing: 19:40
+Duration: 02:05
+From: BUD (Budapest)
+To: BRU (Brussels)
 Price: 4,090.00HUF
 
 Date: 2024-10-11
@@ -13159,14 +8535,6 @@ Landing: 08:30
 Duration: 02:10
 From: BUD (Budapest)
 To: EIN (Eindhoven)
-Price: 4,090.00HUF
-
-Date: 2024-10-11
-Takeoff: 06:55
-Landing: 10:15
-Duration: 03:20
-From: BUD (Budapest)
-To: IST (Istanbul)
 Price: 4,090.00HUF
 
 Date: 2024-10-11
@@ -13282,6 +8650,14 @@ To: FCO (Rome Fiumicino)
 Price: 4,090.00HUF
 
 Date: 2024-10-11
+Takeoff: 11:50
+Landing: 16:35
+Duration: 04:45
+From: BUD (Budapest)
+To: TFS (Tenerife (Canary Islands))
+Price: 4,090.00HUF
+
+Date: 2024-10-11
 Takeoff: 13:35
 Landing: 16:15
 Duration: 02:40
@@ -13295,6 +8671,14 @@ Landing: 15:15
 Duration: 01:30
 From: BUD (Budapest)
 To: TIA (Tirana)
+Price: 4,090.00HUF
+
+Date: 2024-10-11
+Takeoff: 20:15
+Landing: 22:15
+Duration: 02:00
+From: BUD (Budapest)
+To: TGM (Tirgu Mures)
 Price: 4,090.00HUF
 
 Date: 2024-10-11
@@ -13346,6 +8730,14 @@ To: FCO (Rome Fiumicino)
 Price: 11.49USD
 
 Date: 2024-10-11
+Takeoff: 14:20
+Landing: 16:30
+Duration: 02:10
+From: CTA (Catania (Sicily))
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 06:20
 Landing: 09:25
 Duration: 03:05
@@ -13386,11 +8778,11 @@ To: BCN (Barcelona El Prat)
 Price: 51.99RON
 
 Date: 2024-10-11
-Takeoff: 13:25
-Landing: 14:45
-Duration: 01:20
+Takeoff: 06:00
+Landing: 08:35
+Duration: 02:35
 From: CLJ (Cluj-Napoca)
-To: DTM (Dortmund)
+To: LCA (Larnaca)
 Price: 51.99RON
 
 Date: 2024-10-11
@@ -13399,14 +8791,6 @@ Landing: 08:45
 Duration: 03:05
 From: CLJ (Cluj-Napoca)
 To: AGP (Malaga)
-Price: 51.99RON
-
-Date: 2024-10-11
-Takeoff: 07:10
-Landing: 08:05
-Duration: 00:55
-From: CLJ (Cluj-Napoca)
-To: FMM (Memmingen/Munich West)
 Price: 51.99RON
 
 Date: 2024-10-11
@@ -13423,6 +8807,14 @@ Landing: 19:35
 Duration: 01:05
 From: CLJ (Cluj-Napoca)
 To: BGY (Milan Bergamo)
+Price: 51.99RON
+
+Date: 2024-10-11
+Takeoff: 14:45
+Landing: 15:45
+Duration: 01:00
+From: CLJ (Cluj-Napoca)
+To: NAP (Naples)
 Price: 51.99RON
 
 Date: 2024-10-11
@@ -13482,8 +8874,24 @@ To: AUH (Abu Dhabi)
 Price: 11.49USD
 
 Date: 2024-10-11
+Takeoff: 12:00
+Landing: 15:40
+Duration: 03:40
+From: DEB (Debrecen)
+To: LCA (Larnaca)
+Price: 4,090.00HUF
+
+Date: 2024-10-11
 Takeoff: 08:20
 Landing: 11:55
+Duration: 03:35
+From: DTM (Dortmund)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 15:10
+Landing: 18:45
 Duration: 03:35
 From: DTM (Dortmund)
 To: OTP (Bucharest)
@@ -13522,8 +8930,8 @@ To: BUD (Budapest)
 Price: 42.00AED
 
 Date: 2024-10-11
-Takeoff: 09:05
-Landing: 11:00
+Takeoff: 17:15
+Landing: 19:10
 Duration: 01:55
 From: EIN (Eindhoven)
 To: BUD (Budapest)
@@ -13535,14 +8943,6 @@ Landing: 15:05
 Duration: 01:45
 From: EIN (Eindhoven)
 To: KTW (Katowice)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 09:35
-Landing: 11:55
-Duration: 02:20
-From: EIN (Eindhoven)
-To: FCO (Rome Fiumicino)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -13594,6 +8994,14 @@ To: HAM (Hamburg)
 Price: 44.99PLN
 
 Date: 2024-10-11
+Takeoff: 17:20
+Landing: 21:35
+Duration: 04:15
+From: GDN (Gdansk)
+To: HER (Heraklion (Crete))
+Price: 44.99PLN
+
+Date: 2024-10-11
 Takeoff: 15:10
 Landing: 16:35
 Duration: 01:25
@@ -13631,6 +9039,14 @@ Landing: 07:55
 Duration: 01:30
 From: GDN (Gdansk)
 To: TRF (Oslo Sandefjord Airport)
+Price: 44.99PLN
+
+Date: 2024-10-11
+Takeoff: 10:00
+Landing: 11:45
+Duration: 01:45
+From: GDN (Gdansk)
+To: SVG (Stavanger)
 Price: 44.99PLN
 
 Date: 2024-10-11
@@ -13674,14 +9090,6 @@ To: SKP (Skopje)
 Price: 119.00SEK
 
 Date: 2024-10-11
-Takeoff: 10:00
-Landing: 13:00
-Duration: 03:00
-From: HAM (Hamburg)
-To: CTA (Catania (Sicily))
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 08:35
 Landing: 09:55
 Duration: 01:20
@@ -13714,20 +9122,20 @@ To: SOF (Sofia)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 15:10
-Landing: 16:55
-Duration: 01:45
+Takeoff: 05:50
+Landing: 07:45
+Duration: 01:55
 From: IAS (Iasi)
-To: LPL (Liverpool)
+To: CRL (Brussels Charleroi)
 Price: 51.99RON
 
 Date: 2024-10-11
-Takeoff: 10:50
-Landing: 11:55
-Duration: 01:05
-From: IST (Istanbul)
-To: BUD (Budapest)
-Price: 9.99EUR
+Takeoff: 12:45
+Landing: 15:15
+Duration: 02:30
+From: IAS (Iasi)
+To: LCA (Larnaca)
+Price: 51.99RON
 
 Date: 2024-10-11
 Takeoff: 04:50
@@ -13802,14 +9210,6 @@ To: KUT (Kutaisi)
 Price: 44.99PLN
 
 Date: 2024-10-11
-Takeoff: 07:10
-Landing: 11:20
-Duration: 04:10
-From: KTW (Katowice)
-To: LCA (Larnaca)
-Price: 44.99PLN
-
-Date: 2024-10-11
 Takeoff: 06:05
 Landing: 07:35
 Duration: 01:30
@@ -13847,22 +9247,6 @@ Landing: 07:30
 Duration: 01:30
 From: KRK (Kraków)
 To: LTN (London Luton)
-Price: 44.99PLN
-
-Date: 2024-10-11
-Takeoff: 13:55
-Landing: 15:50
-Duration: 01:55
-From: KRK (Kraków)
-To: MXP (Milan Malpensa)
-Price: 44.99PLN
-
-Date: 2024-10-11
-Takeoff: 19:05
-Landing: 21:00
-Duration: 01:55
-From: KRK (Kraków)
-To: MXP (Milan Malpensa)
 Price: 44.99PLN
 
 Date: 2024-10-11
@@ -13906,11 +9290,35 @@ To: DTM (Dortmund)
 Price: 31.90GEL
 
 Date: 2024-10-11
+Takeoff: 13:05
+Landing: 14:35
+Duration: 01:30
+From: KUT (Kutaisi)
+To: KTW (Katowice)
+Price: 31.90GEL
+
+Date: 2024-10-11
 Takeoff: 06:55
 Landing: 08:30
 Duration: 01:35
 From: KUT (Kutaisi)
 To: LCA (Larnaca)
+Price: 31.90GEL
+
+Date: 2024-10-11
+Takeoff: 16:00
+Landing: 18:15
+Duration: 02:15
+From: KUT (Kutaisi)
+To: FMM (Memmingen/Munich West)
+Price: 31.90GEL
+
+Date: 2024-10-11
+Takeoff: 06:00
+Landing: 09:20
+Duration: 03:20
+From: KUT (Kutaisi)
+To: RIX (Riga)
 Price: 31.90GEL
 
 Date: 2024-10-11
@@ -13970,11 +9378,11 @@ To: SOF (Sofia)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 12:15
-Landing: 14:30
-Duration: 02:15
+Takeoff: 18:10
+Landing: 22:10
+Duration: 04:00
 From: LCA (Larnaca)
-To: WAW (Warsaw Chopin)
+To: VNO (Vilnius)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14015,14 +9423,6 @@ Landing: 22:55
 Duration: 05:25
 From: LPL (Liverpool)
 To: IAS (Iasi)
-Price: 8.99GBP
-
-Date: 2024-10-11
-Takeoff: 08:45
-Landing: 12:05
-Duration: 03:20
-From: LPL (Liverpool)
-To: WAW (Warsaw Chopin)
 Price: 8.99GBP
 
 Date: 2024-10-11
@@ -14071,22 +9471,6 @@ Landing: 10:05
 Duration: 04:10
 From: LGW (London Gatwick)
 To: AGP (Malaga)
-Price: 8.99GBP
-
-Date: 2024-10-11
-Takeoff: 15:25
-Landing: 19:30
-Duration: 04:05
-From: LGW (London Gatwick)
-To: AGP (Malaga)
-Price: 8.99GBP
-
-Date: 2024-10-11
-Takeoff: 09:10
-Landing: 12:10
-Duration: 03:00
-From: LGW (London Gatwick)
-To: MXP (Milan Malpensa)
 Price: 8.99GBP
 
 Date: 2024-10-11
@@ -14170,6 +9554,14 @@ To: BUD (Budapest)
 Price: 8.99GBP
 
 Date: 2024-10-11
+Takeoff: 16:00
+Landing: 19:30
+Duration: 03:30
+From: LTN (London Luton)
+To: BUD (Budapest)
+Price: 8.99GBP
+
+Date: 2024-10-11
 Takeoff: 14:35
 Landing: 21:40
 Duration: 07:05
@@ -14191,6 +9583,30 @@ Landing: 21:45
 Duration: 06:20
 From: LTN (London Luton)
 To: DLM (Dalaman)
+Price: 8.99GBP
+
+Date: 2024-10-11
+Takeoff: 08:20
+Landing: 11:40
+Duration: 03:20
+From: LTN (London Luton)
+To: KTW (Katowice)
+Price: 8.99GBP
+
+Date: 2024-10-11
+Takeoff: 08:15
+Landing: 11:40
+Duration: 03:25
+From: LTN (London Luton)
+To: KRK (Kraków)
+Price: 8.99GBP
+
+Date: 2024-10-11
+Takeoff: 10:30
+Landing: 17:10
+Duration: 06:40
+From: LTN (London Luton)
+To: LCA (Larnaca)
 Price: 8.99GBP
 
 Date: 2024-10-11
@@ -14298,14 +9714,6 @@ To: WAW (Warsaw Chopin)
 Price: 8.99GBP
 
 Date: 2024-10-11
-Takeoff: 14:20
-Landing: 17:45
-Duration: 03:25
-From: LTN (London Luton)
-To: WAW (Warsaw Chopin)
-Price: 8.99GBP
-
-Date: 2024-10-11
 Takeoff: 09:35
 Landing: 11:25
 Duration: 01:50
@@ -14346,6 +9754,14 @@ To: IAS (Iasi)
 Price: 9.99EUR
 
 Date: 2024-10-11
+Takeoff: 21:05
+Landing: 23:35
+Duration: 02:30
+From: MAD (Madrid)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 09:25
 Landing: 14:15
 Duration: 04:50
@@ -14354,19 +9770,11 @@ To: CLJ (Cluj-Napoca)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 19:55
-Landing: 23:50
+Takeoff: 12:10
+Landing: 16:05
 Duration: 03:55
 From: AGP (Malaga)
-To: GDN (Gdansk)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 10:50
-Landing: 12:40
-Duration: 01:50
-From: AGP (Malaga)
-To: LGW (London Gatwick)
+To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14394,11 +9802,11 @@ To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 18:35
-Landing: 20:15
-Duration: 01:40
+Takeoff: 15:20
+Landing: 18:35
+Duration: 03:15
 From: FMM (Memmingen/Munich West)
-To: BEG (Belgrad)
+To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14418,6 +9826,14 @@ To: SCV (Suceava)
 Price: 9.99EUR
 
 Date: 2024-10-11
+Takeoff: 08:40
+Landing: 10:15
+Duration: 01:35
+From: FMM (Memmingen/Munich West)
+To: TZL (Tuzla)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 08:20
 Landing: 11:15
 Duration: 02:55
@@ -14434,14 +9850,6 @@ To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 15:20
-Landing: 17:00
-Duration: 01:40
-From: MXP (Milan Malpensa)
-To: BUD (Budapest)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 16:25
 Landing: 18:20
 Duration: 01:55
@@ -14455,14 +9863,6 @@ Landing: 10:05
 Duration: 04:40
 From: MXP (Milan Malpensa)
 To: LCA (Larnaca)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 13:55
-Landing: 20:25
-Duration: 06:30
-From: MXP (Milan Malpensa)
-To: RUH (Riyadh)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14495,6 +9895,14 @@ Landing: 18:25
 Duration: 02:00
 From: NAP (Naples)
 To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-11
+Takeoff: 20:50
+Landing: 23:10
+Duration: 02:20
+From: NAP (Naples)
+To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14570,30 +9978,6 @@ To: BEG (Belgrad)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 08:50
-Landing: 12:25
-Duration: 03:35
-From: BVA (Paris Beauvais)
-To: CLJ (Cluj-Napoca)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 08:55
-Landing: 12:50
-Duration: 03:55
-From: BVA (Paris Beauvais)
-To: IAS (Iasi)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 20:20
-Landing: 01:35
-Duration: 05:15
-From: BVA (Paris Beauvais)
-To: LCA (Larnaca)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 13:25
 Landing: 15:15
 Duration: 01:50
@@ -14634,14 +10018,6 @@ To: BUD (Budapest)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 08:35
-Landing: 10:05
-Duration: 01:30
-From: PEG (Perugia)
-To: TIA (Tirana)
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 10:40
 Landing: 12:35
 Duration: 01:55
@@ -14656,14 +10032,6 @@ Duration: 04:40
 From: OPO (Porto)
 To: WAW (Warsaw Chopin)
 Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 16:00
-Landing: 17:15
-Duration: 01:15
-From: POZ (Poznan)
-To: LTN (London Luton)
-Price: 44.99PLN
 
 Date: 2024-10-11
 Takeoff: 21:35
@@ -14842,19 +10210,11 @@ To: NCE (Nice)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 15:15
-Landing: 18:05
-Duration: 02:50
+Takeoff: 06:50
+Landing: 08:45
+Duration: 01:55
 From: FCO (Rome Fiumicino)
-To: SOF (Sofia)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 08:25
-Landing: 10:00
-Duration: 01:35
-From: FCO (Rome Fiumicino)
-To: TIA (Tirana)
+To: PRG (Prague)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14882,11 +10242,11 @@ To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 20:25
-Landing: 02:20
-Duration: 05:55
-From: FCO (Rome Fiumicino)
-To: EVN (Yerevan)
+Takeoff: 14:20
+Landing: 17:15
+Duration: 02:55
+From: SZG (Salzburg)
+To: OTP (Bucharest)
 Price: 9.99EUR
 
 Date: 2024-10-11
@@ -14922,19 +10282,19 @@ To: FMM (Memmingen/Munich West)
 Price: 51.99RON
 
 Date: 2024-10-11
+Takeoff: 18:00
+Landing: 20:20
+Duration: 02:20
+From: SKP (Skopje)
+To: MLH (Basel-Mulhouse-Freiburg)
+Price: 630.00MKD
+
+Date: 2024-10-11
 Takeoff: 20:45
 Landing: 22:30
 Duration: 01:45
 From: SKP (Skopje)
 To: MLA (Malta)
-Price: 630.00MKD
-
-Date: 2024-10-11
-Takeoff: 13:15
-Landing: 15:05
-Duration: 01:50
-From: SKP (Skopje)
-To: SZG (Salzburg)
 Price: 630.00MKD
 
 Date: 2024-10-11
@@ -14978,6 +10338,22 @@ To: LCA (Larnaca)
 Price: 20.00BGN
 
 Date: 2024-10-11
+Takeoff: 06:10
+Landing: 08:55
+Duration: 02:45
+From: SOF (Sofia)
+To: MAD (Madrid)
+Price: 20.00BGN
+
+Date: 2024-10-11
+Takeoff: 19:25
+Landing: 21:50
+Duration: 02:25
+From: SOF (Sofia)
+To: VLC (Valencia)
+Price: 20.00BGN
+
+Date: 2024-10-11
 Takeoff: 15:40
 Landing: 17:45
 Duration: 02:05
@@ -15008,14 +10384,6 @@ Duration: 01:25
 From: ARN (Stockholm Arlanda)
 To: GDN (Gdansk)
 Price: 119.00SEK
-
-Date: 2024-10-11
-Takeoff: 12:45
-Landing: 14:05
-Duration: 01:20
-From: SCV (Suceava)
-To: LTN (London Luton)
-Price: 51.99RON
 
 Date: 2024-10-11
 Takeoff: 10:35
@@ -15074,6 +10442,14 @@ To: WAW (Warsaw Chopin)
 Price: 9.99EUR
 
 Date: 2024-10-11
+Takeoff: 21:35
+Landing: 23:35
+Duration: 02:00
+From: SKG (Thessaloniki)
+To: LCA (Larnaca)
+Price: 9.99EUR
+
+Date: 2024-10-11
 Takeoff: 13:50
 Landing: 14:15
 Duration: 00:25
@@ -15114,19 +10490,27 @@ To: LEJ (Leipzig)
 Price: 1,010.00ALL
 
 Date: 2024-10-11
-Takeoff: 23:50
-Landing: 02:10
-Duration: 02:20
-From: TIA (Tirana)
-To: LTN (London Luton)
-Price: 1,010.00ALL
-
-Date: 2024-10-11
 Takeoff: 17:35
 Landing: 20:55
 Duration: 03:20
 From: TIA (Tirana)
 To: TRF (Oslo Sandefjord Airport)
+Price: 1,010.00ALL
+
+Date: 2024-10-11
+Takeoff: 12:15
+Landing: 14:05
+Duration: 01:50
+From: TIA (Tirana)
+To: PRG (Prague)
+Price: 1,010.00ALL
+
+Date: 2024-10-11
+Takeoff: 06:10
+Landing: 07:50
+Duration: 01:40
+From: TIA (Tirana)
+To: FCO (Rome Fiumicino)
 Price: 1,010.00ALL
 
 Date: 2024-10-11
@@ -15162,14 +10546,6 @@ To: TSF (Venice Treviso)
 Price: 1,010.00ALL
 
 Date: 2024-10-11
-Takeoff: 16:30
-Landing: 18:15
-Duration: 01:45
-From: TIA (Tirana)
-To: VRN (Verona)
-Price: 1,010.00ALL
-
-Date: 2024-10-11
 Takeoff: 21:25
 Landing: 23:10
 Duration: 01:45
@@ -15202,20 +10578,20 @@ To: GDN (Gdansk)
 Price: 125.00NOK
 
 Date: 2024-10-11
-Takeoff: 23:45
-Landing: 04:15
-Duration: 04:30
-From: VLC (Valencia)
-To: OTP (Bucharest)
+Takeoff: 09:45
+Landing: 11:40
+Duration: 01:55
+From: TRN (Turin)
+To: TIA (Tirana)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 09:10
-Landing: 12:00
-Duration: 02:50
-From: VLC (Valencia)
-To: BUD (Budapest)
-Price: 9.99EUR
+Takeoff: 10:50
+Landing: 12:25
+Duration: 01:35
+From: TZL (Tuzla)
+To: FMM (Memmingen/Munich West)
+Price: 20.00BAM
 
 Date: 2024-10-11
 Takeoff: 10:55
@@ -15298,14 +10674,6 @@ To: FCO (Rome Fiumicino)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 21:50
-Landing: 00:40
-Duration: 02:50
-From: VIE (Vienna)
-To: VAR (Varna (Black Sea))
-Price: 9.99EUR
-
-Date: 2024-10-11
 Takeoff: 22:10
 Landing: 03:40
 Duration: 05:30
@@ -15314,27 +10682,35 @@ To: EVN (Yerevan)
 Price: 9.99EUR
 
 Date: 2024-10-11
-Takeoff: 13:05
-Landing: 14:30
-Duration: 01:25
-From: VNO (Vilnius)
-To: EIN (Eindhoven)
-Price: 9.99EUR
-
-Date: 2024-10-11
-Takeoff: 06:10
-Landing: 08:15
-Duration: 02:05
+Takeoff: 05:50
+Landing: 09:25
+Duration: 03:35
 From: WAW (Warsaw Chopin)
-To: BLQ (Bologna)
+To: ALC (Alicante)
 Price: 44.99PLN
 
 Date: 2024-10-11
-Takeoff: 07:10
-Landing: 11:35
-Duration: 04:25
+Takeoff: 07:00
+Landing: 09:05
+Duration: 02:05
 From: WAW (Warsaw Chopin)
-To: LCA (Larnaca)
+To: BSL (Basel-Mulhouse-Freiburg)
+Price: 44.99PLN
+
+Date: 2024-10-11
+Takeoff: 12:00
+Landing: 14:45
+Duration: 02:45
+From: WAW (Warsaw Chopin)
+To: RMO (Chisinau)
+Price: 44.99PLN
+
+Date: 2024-10-11
+Takeoff: 12:45
+Landing: 14:20
+Duration: 01:35
+From: WAW (Warsaw Chopin)
+To: CPH (Copenhagen)
 Price: 44.99PLN
 
 Date: 2024-10-11
@@ -15354,11 +10730,19 @@ To: LPL (Liverpool)
 Price: 44.99PLN
 
 Date: 2024-10-11
-Takeoff: 11:55
-Landing: 13:40
-Duration: 01:45
+Takeoff: 14:20
+Landing: 18:10
+Duration: 03:50
 From: WAW (Warsaw Chopin)
-To: LTN (London Luton)
+To: MAD (Madrid)
+Price: 44.99PLN
+
+Date: 2024-10-11
+Takeoff: 07:05
+Landing: 11:15
+Duration: 04:10
+From: WAW (Warsaw Chopin)
+To: AGP (Malaga)
 Price: 44.99PLN
 
 Date: 2024-10-11
@@ -15386,6 +10770,14 @@ To: TFS (Tenerife (Canary Islands))
 Price: 44.99PLN
 
 Date: 2024-10-11
+Takeoff: 06:10
+Landing: 08:50
+Duration: 02:40
+From: WRO (Wroclaw)
+To: BCN (Barcelona El Prat)
+Price: 44.99PLN
+
+Date: 2024-10-11
 Takeoff: 10:10
 Landing: 13:25
 Duration: 03:15
@@ -15399,5 +10791,3061 @@ Landing: 02:25
 Duration: 03:15
 From: EVN (Yerevan)
 To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-11
+Takeoff: 22:20
+Landing: 23:55
+Duration: 01:35
+From: EVN (Yerevan)
+To: LCA (Larnaca)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 16:40
+Landing: 22:10
+Duration: 05:30
+From: AUH (Abu Dhabi)
+To: ALA (Almaty)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 14:35
+Landing: 20:15
+Duration: 05:40
+From: AUH (Abu Dhabi)
+To: NQZ (Astana)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 20:55
+Landing: 00:55
+Duration: 04:00
+From: AUH (Abu Dhabi)
+To: BUD (Budapest)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 13:15
+Landing: 18:00
+Duration: 04:45
+From: AUH (Abu Dhabi)
+To: CLJ (Cluj-Napoca)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 10:15
+Landing: 10:45
+Duration: 00:30
+From: AUH (Abu Dhabi)
+To: DMM (Dammam)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 16:20
+Landing: 20:30
+Duration: 04:10
+From: AUH (Abu Dhabi)
+To: KTW (Katowice)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 10:15
+Duration: 04:15
+From: AUH (Abu Dhabi)
+To: SKD (Samarkand)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 06:35
+Landing: 09:20
+Duration: 02:45
+From: AUH (Abu Dhabi)
+To: HMB (Sohag)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 08:20
+Landing: 13:20
+Duration: 05:00
+From: AUH (Abu Dhabi)
+To: HSA (Turkistan)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 07:10
+Landing: 10:40
+Duration: 03:30
+From: AUH (Abu Dhabi)
+To: EVN (Yerevan)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 17:15
+Landing: 20:45
+Duration: 03:30
+From: AUH (Abu Dhabi)
+To: EVN (Yerevan)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 13:10
+Landing: 15:05
+Duration: 01:55
+From: AES (Alesund)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 15:00
+Landing: 18:35
+Duration: 03:35
+From: AHO (Alghero (Sardinia))
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:00
+Landing: 23:30
+Duration: 03:30
+From: ALC (Alicante)
+To: GDN (Gdansk)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:00
+Landing: 02:50
+Duration: 03:50
+From: ALA (Almaty)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 13:25
+Landing: 14:45
+Duration: 01:20
+From: AOI (Ancona)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:55
+Landing: 16:55
+Duration: 03:00
+From: AYT (Antalya)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:15
+Landing: 01:10
+Duration: 03:55
+From: NQZ (Astana)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 18:00
+Landing: 19:45
+Duration: 01:45
+From: ATH (Athens)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:00
+Landing: 21:35
+Duration: 01:35
+From: ATH (Athens)
+To: KTW (Katowice)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:25
+Landing: 13:05
+Duration: 03:40
+From: ATH (Athens)
+To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:00
+Landing: 16:45
+Duration: 01:45
+From: ATH (Athens)
+To: LCA (Larnaca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:40
+Landing: 23:25
+Duration: 01:45
+From: BCM (Bacau)
+To: LTN (London Luton)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 01:10
+Landing: 04:15
+Duration: 03:05
+From: GYD (Baku)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 10:00
+Landing: 13:05
+Duration: 03:05
+From: GYD (Baku)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 09:20
+Landing: 12:00
+Duration: 02:40
+From: BCN (Barcelona El Prat)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:30
+Landing: 23:10
+Duration: 02:40
+From: BCN (Barcelona El Prat)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:45
+Landing: 12:45
+Duration: 04:00
+From: BCN (Barcelona El Prat)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:00
+Landing: 18:55
+Duration: 02:55
+From: BCN (Barcelona El Prat)
+To: KTW (Katowice)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:50
+Landing: 12:45
+Duration: 02:55
+From: BCN (Barcelona El Prat)
+To: KRK (Kraków)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:50
+Landing: 10:35
+Duration: 01:45
+From: BCN (Barcelona El Prat)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 18:55
+Landing: 20:40
+Duration: 01:45
+From: BCN (Barcelona El Prat)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:10
+Landing: 23:05
+Duration: 01:55
+From: BCN (Barcelona El Prat)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:15
+Landing: 13:10
+Duration: 03:55
+From: BCN (Barcelona El Prat)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:25
+Landing: 01:00
+Duration: 02:35
+From: BCN (Barcelona El Prat)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:15
+Landing: 16:45
+Duration: 02:30
+From: BCN (Barcelona El Prat)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:05
+Landing: 21:35
+Duration: 02:30
+From: BCN (Barcelona El Prat)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:50
+Landing: 23:10
+Duration: 02:20
+From: BRI (Bari)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:15
+Landing: 14:10
+Duration: 00:55
+From: BRI (Bari)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:10
+Landing: 17:20
+Duration: 02:10
+From: BRI (Bari)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:50
+Landing: 22:30
+Duration: 01:40
+From: BSL (Basel-Mulhouse-Freiburg)
+To: BUD (Budapest)
+Price: 9.99CHF
+
+Date: 2024-10-12
+Takeoff: 08:55
+Landing: 12:00
+Duration: 03:05
+From: BSL (Basel-Mulhouse-Freiburg)
+To: CLJ (Cluj-Napoca)
+Price: 9.99CHF
+
+Date: 2024-10-12
+Takeoff: 09:05
+Landing: 11:00
+Duration: 01:55
+From: BSL (Basel-Mulhouse-Freiburg)
+To: WAW (Warsaw Chopin)
+Price: 9.99CHF
+
+Date: 2024-10-12
+Takeoff: 21:00
+Landing: 22:50
+Duration: 01:50
+From: MLH (Basel-Mulhouse-Freiburg)
+To: BEG (Belgrad)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:20
+Landing: 17:25
+Duration: 02:05
+From: MLH (Basel-Mulhouse-Freiburg)
+To: INI (Niš)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:05
+Landing: 20:10
+Duration: 03:05
+From: BEG (Belgrad)
+To: LIS (Lisbon)
+Price: 1,199.00RSD
+
+Date: 2024-10-12
+Takeoff: 20:40
+Landing: 22:40
+Duration: 02:00
+From: BEG (Belgrad)
+To: LTN (London Luton)
+Price: 1,199.00RSD
+
+Date: 2024-10-12
+Takeoff: 11:15
+Landing: 13:30
+Duration: 02:15
+From: BEG (Belgrad)
+To: MMX (Malmo)
+Price: 1,199.00RSD
+
+Date: 2024-10-12
+Takeoff: 12:20
+Landing: 14:25
+Duration: 02:05
+From: BEG (Belgrad)
+To: NCE (Nice)
+Price: 1,199.00RSD
+
+Date: 2024-10-12
+Takeoff: 16:50
+Landing: 18:35
+Duration: 01:45
+From: BGO (Bergen)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 08:40
+Landing: 10:30
+Duration: 01:50
+From: BER (Berlin Brandenburg)
+To: BEG (Belgrad)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:00
+Landing: 10:30
+Duration: 01:30
+From: BER (Berlin Brandenburg)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:05
+Landing: 18:35
+Duration: 01:30
+From: BER (Berlin Brandenburg)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:10
+Landing: 14:30
+Duration: 05:20
+From: BHX (Birmingham)
+To: OTP (Bucharest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:05
+Landing: 02:15
+Duration: 05:10
+From: BHX (Birmingham)
+To: CRA (Craiova)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 22:10
+Landing: 01:10
+Duration: 03:00
+From: BLQ (Bologna)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:40
+Landing: 16:35
+Duration: 02:55
+From: BLQ (Bologna)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 07:55
+Landing: 08:15
+Duration: 00:20
+From: GHV (Brasov)
+To: BUD (Budapest)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 09:45
+Landing: 11:15
+Duration: 01:30
+From: BTS (Bratislava)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:55
+Landing: 14:55
+Duration: 02:00
+From: CRL (Brussels Charleroi)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:20
+Landing: 12:00
+Duration: 03:40
+From: CRL (Brussels Charleroi)
+To: IAS (Iasi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 10:05
+Landing: 16:30
+Duration: 06:25
+From: CRL (Brussels Charleroi)
+To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:25
+Landing: 22:55
+Duration: 02:30
+From: CRL (Brussels Charleroi)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:20
+Landing: 00:15
+Duration: 03:55
+From: CRL (Brussels Charleroi)
+To: VAR (Varna (Black Sea))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:45
+Landing: 14:25
+Duration: 01:40
+From: OTP (Bucharest)
+To: AHO (Alghero (Sardinia))
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 15:40
+Landing: 17:25
+Duration: 01:45
+From: OTP (Bucharest)
+To: ATH (Athens)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 20:20
+Landing: 21:35
+Duration: 01:15
+From: OTP (Bucharest)
+To: BLQ (Bologna)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 20:35
+Landing: 21:55
+Duration: 01:20
+From: OTP (Bucharest)
+To: CTA (Catania (Sicily))
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 12:05
+Landing: 14:05
+Duration: 02:00
+From: OTP (Bucharest)
+To: HER (Heraklion (Crete))
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 17:55
+Landing: 19:20
+Duration: 01:25
+From: OTP (Bucharest)
+To: MLA (Malta)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 14:00
+Landing: 15:20
+Duration: 01:20
+From: OTP (Bucharest)
+To: PSA (Pisa (Tuscany))
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 19:45
+Landing: 21:05
+Duration: 01:20
+From: OTP (Bucharest)
+To: FCO (Rome Fiumicino)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 21:25
+Landing: 22:45
+Duration: 01:20
+From: OTP (Bucharest)
+To: SKG (Thessaloniki)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 06:10
+Landing: 09:20
+Duration: 03:10
+From: BUD (Budapest)
+To: ALC (Alicante)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 13:30
+Landing: 16:35
+Duration: 03:05
+From: BUD (Budapest)
+To: ATH (Athens)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 20:45
+Landing: 02:30
+Duration: 05:45
+From: BUD (Budapest)
+To: GYD (Baku)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:40
+Duration: 02:40
+From: BUD (Budapest)
+To: BCN (Barcelona El Prat)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 17:10
+Landing: 19:50
+Duration: 02:40
+From: BUD (Budapest)
+To: BCN (Barcelona El Prat)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 06:55
+Landing: 08:25
+Duration: 01:30
+From: BUD (Budapest)
+To: BER (Berlin Brandenburg)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 05:05
+Landing: 07:20
+Duration: 02:15
+From: BUD (Budapest)
+To: GHV (Brasov)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 08:50
+Landing: 11:10
+Duration: 02:20
+From: BUD (Budapest)
+To: OTP (Bucharest)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 17:55
+Landing: 20:05
+Duration: 02:10
+From: BUD (Budapest)
+To: CTA (Catania (Sicily))
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 15:20
+Landing: 17:55
+Duration: 02:35
+From: BUD (Budapest)
+To: RMO (Chisinau)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 08:25
+Landing: 10:20
+Duration: 01:55
+From: BUD (Budapest)
+To: DTM (Dortmund)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 14:30
+Landing: 16:40
+Duration: 02:10
+From: BUD (Budapest)
+To: EIN (Eindhoven)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 13:00
+Landing: 17:10
+Duration: 04:10
+From: BUD (Budapest)
+To: FNC (Funchal (Madeira))
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 06:15
+Landing: 08:25
+Duration: 02:10
+From: BUD (Budapest)
+To: GLA (Glasgow)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 12:25
+Landing: 14:20
+Duration: 01:55
+From: BUD (Budapest)
+To: LPL (Liverpool)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 06:05
+Landing: 07:50
+Duration: 01:45
+From: BUD (Budapest)
+To: LTN (London Luton)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 17:25
+Landing: 19:10
+Duration: 01:45
+From: BUD (Budapest)
+To: LTN (London Luton)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 05:00
+Landing: 08:30
+Duration: 03:30
+From: BUD (Budapest)
+To: MAD (Madrid)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 13:30
+Landing: 17:10
+Duration: 03:40
+From: BUD (Budapest)
+To: AGP (Malaga)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 07:25
+Landing: 09:10
+Duration: 01:45
+From: BUD (Budapest)
+To: MXP (Milan Malpensa)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 18:55
+Landing: 20:40
+Duration: 01:45
+From: BUD (Budapest)
+To: MXP (Milan Malpensa)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 13:45
+Landing: 15:35
+Duration: 01:50
+From: BUD (Budapest)
+To: NAP (Naples)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 11:05
+Landing: 13:15
+Duration: 02:10
+From: BUD (Budapest)
+To: NCE (Nice)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 06:15
+Landing: 07:30
+Duration: 01:15
+From: BUD (Budapest)
+To: TGD (Podgorica)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 19:10
+Landing: 21:00
+Duration: 01:50
+From: BUD (Budapest)
+To: FCO (Rome Fiumicino)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 19:10
+Landing: 21:35
+Duration: 02:25
+From: BUD (Budapest)
+To: ARN (Stockholm Arlanda)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 19:30
+Landing: 21:00
+Duration: 01:30
+From: BUD (Budapest)
+To: TIA (Tirana)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 05:40
+Landing: 08:40
+Duration: 03:00
+From: BUD (Budapest)
+To: VLC (Valencia)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 04:10
+Landing: 06:40
+Duration: 02:30
+From: SPX (Cairo (Sphinx))
+To: BUD (Budapest)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 11:45
+Landing: 14:50
+Duration: 03:05
+From: SPX (Cairo (Sphinx))
+To: MXP (Milan Malpensa)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 09:15
+Landing: 13:35
+Duration: 04:20
+From: CDT (Castellon (Valencia))
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:30
+Landing: 01:35
+Duration: 03:05
+From: CTA (Catania (Sicily))
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:40
+Landing: 22:50
+Duration: 02:10
+From: CTA (Catania (Sicily))
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 10:30
+Landing: 12:50
+Duration: 02:20
+From: CTA (Catania (Sicily))
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:50
+Landing: 23:15
+Duration: 01:25
+From: CTA (Catania (Sicily))
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:30
+Landing: 00:10
+Duration: 01:40
+From: RMO (Chisinau)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 18:35
+Landing: 00:50
+Duration: 06:15
+From: CLJ (Cluj-Napoca)
+To: AUH (Abu Dhabi)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 20:55
+Landing: 23:30
+Duration: 02:35
+From: CLJ (Cluj-Napoca)
+To: ALC (Alicante)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:05
+Duration: 02:05
+From: CLJ (Cluj-Napoca)
+To: BCN (Barcelona El Prat)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 12:10
+Landing: 13:05
+Duration: 00:55
+From: CLJ (Cluj-Napoca)
+To: BLQ (Bologna)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 18:15
+Landing: 19:35
+Duration: 01:20
+From: CLJ (Cluj-Napoca)
+To: HHN (Frankfurt Hahn)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 20:20
+Landing: 21:30
+Duration: 01:10
+From: CLJ (Cluj-Napoca)
+To: MMX (Malmo)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 06:55
+Landing: 08:00
+Duration: 01:05
+From: CLJ (Cluj-Napoca)
+To: BGY (Milan Bergamo)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 13:10
+Landing: 14:05
+Duration: 00:55
+From: CLJ (Cluj-Napoca)
+To: NUE (Nuremberg)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 08:05
+Duration: 01:45
+From: CLJ (Cluj-Napoca)
+To: BVA (Paris Beauvais)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 07:55
+Landing: 11:20
+Duration: 03:25
+From: CPH (Copenhagen)
+To: IAS (Iasi)
+Price: 79.00DKK
+
+Date: 2024-10-12
+Takeoff: 16:45
+Landing: 19:10
+Duration: 02:25
+From: DLM (Dalaman)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:20
+Landing: 13:40
+Duration: 02:20
+From: DMM (Dammam)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 20:15
+Landing: 01:10
+Duration: 04:55
+From: DMM (Dammam)
+To: FCO (Rome Fiumicino)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 06:55
+Landing: 08:45
+Duration: 01:50
+From: DEB (Debrecen)
+To: FCO (Rome Fiumicino)
+Price: 4,090.00HUF
+
+Date: 2024-10-12
+Takeoff: 08:10
+Landing: 11:55
+Duration: 03:45
+From: DTM (Dortmund)
+To: VAR (Varna (Black Sea))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:20
+Landing: 18:15
+Duration: 02:55
+From: DTM (Dortmund)
+To: VNO (Vilnius)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:20
+Landing: 01:35
+Duration: 04:15
+From: DXB (Dubai)
+To: OTP (Bucharest)
+Price: 42.00AED
+
+Date: 2024-10-12
+Takeoff: 16:00
+Landing: 19:20
+Duration: 03:20
+From: EIN (Eindhoven)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:50
+Landing: 18:30
+Duration: 03:40
+From: EIN (Eindhoven)
+To: IAS (Iasi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:50
+Landing: 18:30
+Duration: 03:40
+From: EIN (Eindhoven)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:25
+Landing: 17:15
+Duration: 01:50
+From: EIN (Eindhoven)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:55
+Landing: 14:30
+Duration: 02:35
+From: FAO (Faro)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:20
+Landing: 22:10
+Duration: 02:50
+From: FAO (Faro)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:05
+Landing: 23:10
+Duration: 03:05
+From: HHN (Frankfurt Hahn)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:50
+Landing: 23:35
+Duration: 05:45
+From: FNC (Funchal (Madeira))
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:30
+Landing: 00:35
+Duration: 05:05
+From: FNC (Funchal (Madeira))
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:05
+Landing: 16:35
+Duration: 05:30
+From: FNC (Funchal (Madeira))
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:45
+Landing: 22:50
+Duration: 06:05
+From: FNC (Funchal (Madeira))
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:45
+Landing: 19:20
+Duration: 03:35
+From: GDN (Gdansk)
+To: ALC (Alicante)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 15:30
+Landing: 16:45
+Duration: 01:15
+From: GDN (Gdansk)
+To: CPH (Copenhagen)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 08:10
+Landing: 09:50
+Duration: 01:40
+From: GDN (Gdansk)
+To: DTM (Dortmund)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 10:00
+Landing: 11:15
+Duration: 01:15
+From: GDN (Gdansk)
+To: GOT (Gothenburg Landvetter)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 20:25
+Landing: 22:35
+Duration: 02:10
+From: GDN (Gdansk)
+To: MXP (Milan Malpensa)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:10
+Landing: 07:45
+Duration: 01:35
+From: GDN (Gdansk)
+To: TRF (Oslo Sandefjord Airport)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 17:50
+Landing: 19:45
+Duration: 01:55
+From: GDN (Gdansk)
+To: KEF (Reykjavik)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 07:10
+Landing: 08:55
+Duration: 01:45
+From: GDN (Gdansk)
+To: SVG (Stavanger)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 07:25
+Duration: 01:25
+From: GDN (Gdansk)
+To: ARN (Stockholm Arlanda)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 19:00
+Landing: 21:50
+Duration: 02:50
+From: GDN (Gdansk)
+To: TOS (Tromso)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:45
+Landing: 13:40
+Duration: 01:55
+From: GDN (Gdansk)
+To: TRD (Trondheim)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:20
+Landing: 13:50
+Duration: 02:30
+From: GDN (Gdansk)
+To: TKU (Turku)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:50
+Landing: 13:00
+Duration: 01:10
+From: GOT (Gothenburg Landvetter)
+To: GDN (Gdansk)
+Price: 119.00SEK
+
+Date: 2024-10-12
+Takeoff: 15:05
+Landing: 18:45
+Duration: 03:40
+From: HAM (Hamburg)
+To: VAR (Varna (Black Sea))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:05
+Landing: 10:45
+Duration: 01:40
+From: HAU (Haugesund)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 14:40
+Landing: 16:35
+Duration: 01:55
+From: HER (Heraklion (Crete))
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:35
+Landing: 08:15
+Duration: 01:40
+From: IAS (Iasi)
+To: BSL (Basel-Mulhouse-Freiburg)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 13:25
+Landing: 15:05
+Duration: 01:40
+From: IAS (Iasi)
+To: DTM (Dortmund)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 12:20
+Landing: 14:15
+Duration: 01:55
+From: IAS (Iasi)
+To: EIN (Eindhoven)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 20:00
+Landing: 21:50
+Duration: 01:50
+From: IAS (Iasi)
+To: IST (Istanbul)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 22:25
+Landing: 00:05
+Duration: 01:40
+From: IST (Istanbul)
+To: IAS (Iasi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:55
+Landing: 00:15
+Duration: 04:20
+From: JED (Jeddah)
+To: BUD (Budapest)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 20:35
+Landing: 01:15
+Duration: 04:40
+From: JED (Jeddah)
+To: MXP (Milan Malpensa)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 09:15
+Landing: 12:20
+Duration: 03:05
+From: FKB (Karlsruhe/Baden-Baden)
+To: SBZ (Sibiu)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:30
+Landing: 20:20
+Duration: 02:50
+From: FKB (Karlsruhe/Baden-Baden)
+To: TSR (Timisoara)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:55
+Landing: 19:30
+Duration: 03:35
+From: KTW (Katowice)
+To: ATH (Athens)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 08:05
+Duration: 01:45
+From: KTW (Katowice)
+To: DTM (Dortmund)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 15:50
+Landing: 21:10
+Duration: 05:20
+From: KTW (Katowice)
+To: KUT (Kutaisi)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:30
+Landing: 10:40
+Duration: 04:10
+From: KTW (Katowice)
+To: LCA (Larnaca)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 19:40
+Landing: 21:15
+Duration: 01:35
+From: KTW (Katowice)
+To: LTN (London Luton)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 22:35
+Landing: 01:15
+Duration: 02:40
+From: KTW (Katowice)
+To: MLA (Malta)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 16:15
+Landing: 18:00
+Duration: 01:45
+From: KSC (Kosice)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 05:30
+Landing: 09:40
+Duration: 04:10
+From: KRK (Kraków)
+To: LCA (Larnaca)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 07:30
+Duration: 01:30
+From: KRK (Kraków)
+To: LTN (London Luton)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 13:25
+Landing: 15:40
+Duration: 02:15
+From: KRK (Kraków)
+To: LYS (Lyon)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 15:25
+Landing: 19:20
+Duration: 03:55
+From: KRK (Kraków)
+To: AGP (Malaga)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 19:05
+Landing: 21:00
+Duration: 01:55
+From: KRK (Kraków)
+To: MXP (Milan Malpensa)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 17:50
+Landing: 20:05
+Duration: 02:15
+From: KRK (Kraków)
+To: OSL (Oslo Gardermoen)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 18:40
+Landing: 20:35
+Duration: 01:55
+From: KRK (Kraków)
+To: TIA (Tirana)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 22:15
+Landing: 01:45
+Duration: 03:30
+From: KUT (Kutaisi)
+To: AUH (Abu Dhabi)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 06:55
+Landing: 08:50
+Duration: 01:55
+From: KUT (Kutaisi)
+To: ATH (Athens)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 06:40
+Landing: 09:30
+Duration: 02:50
+From: KUT (Kutaisi)
+To: CRL (Brussels Charleroi)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 08:15
+Duration: 01:55
+From: KUT (Kutaisi)
+To: POZ (Poznan)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 07:35
+Duration: 01:35
+From: KUT (Kutaisi)
+To: VIE (Vienna)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 17:50
+Landing: 19:30
+Duration: 01:40
+From: KUT (Kutaisi)
+To: WAW (Warsaw Chopin)
+Price: 31.90GEL
+
+Date: 2024-10-12
+Takeoff: 21:55
+Landing: 02:55
+Duration: 05:00
+From: LCA (Larnaca)
+To: AUH (Abu Dhabi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:15
+Landing: 16:25
+Duration: 02:10
+From: LCA (Larnaca)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:15
+Landing: 18:10
+Duration: 02:55
+From: LCA (Larnaca)
+To: GDN (Gdansk)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:25
+Landing: 13:50
+Duration: 02:25
+From: LCA (Larnaca)
+To: KTW (Katowice)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 09:05
+Duration: 02:45
+From: LCA (Larnaca)
+To: PRG (Prague)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:20
+Duration: 02:20
+From: LCA (Larnaca)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 05:00
+Landing: 08:15
+Duration: 03:15
+From: LCA (Larnaca)
+To: EVN (Yerevan)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:25
+Landing: 13:25
+Duration: 05:00
+From: LBA (Leeds)
+To: CLJ (Cluj-Napoca)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 20:55
+Landing: 01:35
+Duration: 04:40
+From: LIS (Lisbon)
+To: BEG (Belgrad)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:30
+Landing: 03:55
+Duration: 05:25
+From: LPL (Liverpool)
+To: OTP (Bucharest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 14:55
+Landing: 18:35
+Duration: 03:40
+From: LPL (Liverpool)
+To: BUD (Budapest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 13:55
+Landing: 19:40
+Duration: 05:45
+From: LGW (London Gatwick)
+To: ATH (Athens)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 05:30
+Landing: 09:25
+Duration: 03:55
+From: LGW (London Gatwick)
+To: CTA (Catania (Sicily))
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 10:00
+Landing: 16:00
+Duration: 06:00
+From: LGW (London Gatwick)
+To: DLM (Dalaman)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 08:00
+Landing: 11:15
+Duration: 03:15
+From: LGW (London Gatwick)
+To: FAO (Faro)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 15:35
+Landing: 18:35
+Duration: 03:00
+From: LGW (London Gatwick)
+To: FAO (Faro)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 20:15
+Landing: 23:45
+Duration: 03:30
+From: LGW (London Gatwick)
+To: KRK (Kraków)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 05:55
+Landing: 10:00
+Duration: 04:05
+From: LGW (London Gatwick)
+To: AGP (Malaga)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 08:50
+Landing: 11:50
+Duration: 03:00
+From: LGW (London Gatwick)
+To: MXP (Milan Malpensa)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 19:00
+Landing: 22:40
+Duration: 03:40
+From: LGW (London Gatwick)
+To: NAP (Naples)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 07:15
+Landing: 10:05
+Duration: 02:50
+From: LGW (London Gatwick)
+To: PRG (Prague)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:10
+Landing: 00:45
+Duration: 03:35
+From: LGW (London Gatwick)
+To: FCO (Rome Fiumicino)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 15:15
+Landing: 20:40
+Duration: 05:25
+From: LGW (London Gatwick)
+To: VAR (Varna (Black Sea))
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 17:05
+Landing: 20:20
+Duration: 03:15
+From: LGW (London Gatwick)
+To: VIE (Vienna)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 19:25
+Landing: 22:40
+Duration: 03:15
+From: LGW (London Gatwick)
+To: VIE (Vienna)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 06:45
+Landing: 13:20
+Duration: 06:35
+From: LTN (London Luton)
+To: AYT (Antalya)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 05:55
+Landing: 09:10
+Duration: 03:15
+From: LTN (London Luton)
+To: BTS (Bratislava)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 09:10
+Landing: 14:30
+Duration: 05:20
+From: LTN (London Luton)
+To: OTP (Bucharest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 08:30
+Landing: 12:00
+Duration: 03:30
+From: LTN (London Luton)
+To: BUD (Budapest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 19:50
+Landing: 23:20
+Duration: 03:30
+From: LTN (London Luton)
+To: BUD (Budapest)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 07:10
+Landing: 12:25
+Duration: 05:15
+From: LTN (London Luton)
+To: RMO (Chisinau)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 15:25
+Landing: 20:40
+Duration: 05:15
+From: LTN (London Luton)
+To: RMO (Chisinau)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:50
+Landing: 02:45
+Duration: 04:55
+From: LTN (London Luton)
+To: CLJ (Cluj-Napoca)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 08:10
+Landing: 13:15
+Duration: 05:05
+From: LTN (London Luton)
+To: CRA (Craiova)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:40
+Landing: 01:20
+Duration: 03:40
+From: LTN (London Luton)
+To: DEB (Debrecen)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:55
+Landing: 01:15
+Duration: 03:20
+From: LTN (London Luton)
+To: KTW (Katowice)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:00
+Landing: 01:40
+Duration: 04:40
+From: LTN (London Luton)
+To: KUN (Kaunas)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 12:05
+Landing: 15:40
+Duration: 03:35
+From: LTN (London Luton)
+To: KSC (Kosice)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 10:30
+Landing: 17:10
+Duration: 06:40
+From: LTN (London Luton)
+To: LCA (Larnaca)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 18:20
+Landing: 21:15
+Duration: 02:55
+From: LTN (London Luton)
+To: LIS (Lisbon)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 11:30
+Landing: 15:05
+Duration: 03:35
+From: LTN (London Luton)
+To: PMI (Palma de Mallorca)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 06:50
+Landing: 12:15
+Duration: 05:25
+From: LTN (London Luton)
+To: PDV (Plovdiv)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 12:20
+Landing: 15:25
+Duration: 03:05
+From: LTN (London Luton)
+To: POZ (Poznan)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 17:40
+Landing: 20:45
+Duration: 03:05
+From: LTN (London Luton)
+To: POZ (Poznan)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 05:55
+Landing: 09:35
+Duration: 03:40
+From: LTN (London Luton)
+To: SJJ (Sarajevo)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 21:50
+Landing: 02:55
+Duration: 05:05
+From: LTN (London Luton)
+To: SOF (Sofia)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 17:10
+Landing: 20:45
+Duration: 03:35
+From: LTN (London Luton)
+To: SPU (Split)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 19:10
+Landing: 23:15
+Duration: 04:05
+From: LTN (London Luton)
+To: TIA (Tirana)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 14:30
+Landing: 17:55
+Duration: 03:25
+From: LTN (London Luton)
+To: WAW (Warsaw Chopin)
+Price: 8.99GBP
+
+Date: 2024-10-12
+Takeoff: 09:35
+Landing: 11:25
+Duration: 01:50
+From: LUZ (Lublin)
+To: LTN (London Luton)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 08:50
+Landing: 12:30
+Duration: 03:40
+From: MED (Madinah)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 16:40
+Landing: 20:20
+Duration: 03:40
+From: MED (Madinah)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 20:20
+Landing: 01:15
+Duration: 04:55
+From: MAD (Madrid)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:15
+Landing: 12:30
+Duration: 03:15
+From: MAD (Madrid)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:45
+Landing: 01:00
+Duration: 02:15
+From: MAD (Madrid)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:50
+Landing: 23:20
+Duration: 02:30
+From: MAD (Madrid)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:30
+Landing: 00:40
+Duration: 03:10
+From: MAD (Madrid)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:35
+Landing: 23:10
+Duration: 03:35
+From: MAD (Madrid)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 10:10
+Landing: 15:10
+Duration: 05:00
+From: AGP (Malaga)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:55
+Landing: 21:20
+Duration: 03:25
+From: AGP (Malaga)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 20:10
+Landing: 23:55
+Duration: 03:45
+From: AGP (Malaga)
+To: KRK (Kraków)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:30
+Landing: 12:05
+Duration: 02:35
+From: AGP (Malaga)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:55
+Landing: 01:15
+Duration: 03:20
+From: AGP (Malaga)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:35
+Landing: 13:15
+Duration: 03:40
+From: AGP (Malaga)
+To: WRO (Wroclaw)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:05
+Landing: 16:15
+Duration: 02:10
+From: MMX (Malmo)
+To: BEG (Belgrad)
+Price: 119.00SEK
+
+Date: 2024-10-12
+Takeoff: 22:05
+Landing: 01:05
+Duration: 03:00
+From: MMX (Malmo)
+To: CLJ (Cluj-Napoca)
+Price: 119.00SEK
+
+Date: 2024-10-12
+Takeoff: 09:45
+Landing: 12:05
+Duration: 02:20
+From: MLA (Malta)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:05
+Landing: 23:20
+Duration: 04:15
+From: MLE (Malé (Maldives))
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 18:20
+Landing: 21:35
+Duration: 03:15
+From: FMM (Memmingen/Munich West)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:05
+Landing: 21:15
+Duration: 02:10
+From: FMM (Memmingen/Munich West)
+To: CTA (Catania (Sicily))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:20
+Landing: 23:10
+Duration: 05:50
+From: FMM (Memmingen/Munich West)
+To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 10:10
+Landing: 12:10
+Duration: 02:00
+From: FMM (Memmingen/Munich West)
+To: PRN (Prishtina)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:35
+Landing: 17:40
+Duration: 03:05
+From: FMM (Memmingen/Munich West)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:00
+Landing: 10:35
+Duration: 01:35
+From: FMM (Memmingen/Munich West)
+To: TZL (Tuzla)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:35
+Landing: 11:30
+Duration: 02:55
+From: BGY (Milan Bergamo)
+To: CLJ (Cluj-Napoca)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:30
+Landing: 11:30
+Duration: 03:00
+From: BGY (Milan Bergamo)
+To: SOF (Sofia)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:30
+Landing: 01:10
+Duration: 02:40
+From: BGY (Milan Bergamo)
+To: TSR (Timisoara)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:25
+Landing: 01:10
+Duration: 01:45
+From: BGY (Milan Bergamo)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:45
+Landing: 11:25
+Duration: 01:40
+From: MXP (Milan Malpensa)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:40
+Duration: 02:40
+From: MXP (Milan Malpensa)
+To: AGP (Malaga)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:10
+Landing: 12:50
+Duration: 01:40
+From: MXP (Milan Malpensa)
+To: BVA (Paris Beauvais)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:00
+Landing: 13:40
+Duration: 01:40
+From: MXP (Milan Malpensa)
+To: BVA (Paris Beauvais)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:20
+Landing: 21:05
+Duration: 01:45
+From: MXP (Milan Malpensa)
+To: TGD (Podgorica)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:05
+Landing: 16:10
+Duration: 02:05
+From: MXP (Milan Malpensa)
+To: RZE (Rzeszów)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:10
+Landing: 12:15
+Duration: 03:05
+From: NAP (Naples)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:10
+Landing: 17:55
+Duration: 01:45
+From: NAP (Naples)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:00
+Duration: 02:00
+From: NAP (Naples)
+To: PRG (Prague)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:45
+Landing: 10:30
+Duration: 01:45
+From: NAP (Naples)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:50
+Landing: 15:45
+Duration: 01:55
+From: NCE (Nice)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:25
+Landing: 00:45
+Duration: 01:20
+From: NCE (Nice)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:35
+Landing: 10:20
+Duration: 01:45
+From: NCE (Nice)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:45
+Landing: 17:35
+Duration: 02:50
+From: NUE (Nuremberg)
+To: SBZ (Sibiu)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 18:15
+Landing: 19:50
+Duration: 01:35
+From: OSL (Oslo Gardermoen)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 20:40
+Landing: 22:50
+Duration: 02:10
+From: OSL (Oslo Gardermoen)
+To: KRK (Kraków)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 21:10
+Landing: 01:10
+Duration: 04:00
+From: TRF (Oslo Sandefjord Airport)
+To: OTP (Bucharest)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 08:20
+Landing: 09:55
+Duration: 01:35
+From: TRF (Oslo Sandefjord Airport)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 15:45
+Landing: 17:20
+Duration: 01:35
+From: PMI (Palma de Mallorca)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 18:05
+Landing: 00:40
+Duration: 06:35
+From: BVA (Paris Beauvais)
+To: KUT (Kutaisi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:25
+Landing: 15:15
+Duration: 01:50
+From: BVA (Paris Beauvais)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:15
+Landing: 16:05
+Duration: 01:50
+From: BVA (Paris Beauvais)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:40
+Landing: 21:15
+Duration: 03:35
+From: BVA (Paris Beauvais)
+To: VNO (Vilnius)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:10
+Landing: 15:25
+Duration: 01:15
+From: PSR (Pescara)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:55
+Landing: 19:10
+Duration: 03:15
+From: PSA (Pisa (Tuscany))
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:55
+Landing: 14:30
+Duration: 01:35
+From: PDV (Plovdiv)
+To: LTN (London Luton)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 12:50
+Landing: 14:10
+Duration: 01:20
+From: TGD (Podgorica)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:40
+Landing: 23:35
+Duration: 01:55
+From: TGD (Podgorica)
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:35
+Landing: 14:15
+Duration: 04:40
+From: OPO (Porto)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:00
+Landing: 17:15
+Duration: 01:15
+From: POZ (Poznan)
+To: LTN (London Luton)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 21:20
+Landing: 22:35
+Duration: 01:15
+From: POZ (Poznan)
+To: LTN (London Luton)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 10:20
+Landing: 12:35
+Duration: 02:15
+From: POZ (Poznan)
+To: FCO (Rome Fiumicino)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:15
+Landing: 12:10
+Duration: 00:55
+From: PRG (Prague)
+To: LGW (London Gatwick)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 09:35
+Landing: 10:40
+Duration: 01:05
+From: PRG (Prague)
+To: LTN (London Luton)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 17:00
+Landing: 18:05
+Duration: 01:05
+From: PRG (Prague)
+To: LTN (London Luton)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 22:05
+Landing: 22:50
+Duration: 00:45
+From: PRG (Prague)
+To: LTN (London Luton)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 08:40
+Landing: 10:15
+Duration: 01:35
+From: PRG (Prague)
+To: MXP (Milan Malpensa)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 08:15
+Landing: 09:45
+Duration: 01:30
+From: PRG (Prague)
+To: VCE (Venice Marco Polo)
+Price: 259.00CZK
+
+Date: 2024-10-12
+Takeoff: 20:25
+Landing: 01:55
+Duration: 05:30
+From: KEF (Reykjavik)
+To: GDN (Gdansk)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:20
+Landing: 22:15
+Duration: 04:55
+From: RUH (Riyadh)
+To: VIE (Vienna)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 15:50
+Landing: 19:15
+Duration: 03:25
+From: CIA (Rome Ciampino)
+To: IAS (Iasi)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:20
+Landing: 11:05
+Duration: 01:45
+From: FCO (Rome Fiumicino)
+To: BUD (Budapest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 14:05
+Landing: 15:50
+Duration: 01:45
+From: FCO (Rome Fiumicino)
+To: DEB (Debrecen)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:35
+Landing: 18:50
+Duration: 03:15
+From: FCO (Rome Fiumicino)
+To: FNC (Funchal (Madeira))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:05
+Landing: 17:15
+Duration: 02:10
+From: FCO (Rome Fiumicino)
+To: KRK (Kraków)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 18:10
+Landing: 20:40
+Duration: 02:30
+From: FCO (Rome Fiumicino)
+To: RAK (Marrakesh)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:30
+Landing: 22:50
+Duration: 01:20
+From: FCO (Rome Fiumicino)
+To: NCE (Nice)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 07:25
+Landing: 09:45
+Duration: 02:20
+From: FCO (Rome Fiumicino)
+To: POZ (Poznan)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:50
+Duration: 02:50
+From: FCO (Rome Fiumicino)
+To: SVQ (Seville)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:20
+Landing: 22:10
+Duration: 02:50
+From: FCO (Rome Fiumicino)
+To: SVQ (Seville)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:50
+Landing: 18:25
+Duration: 01:35
+From: FCO (Rome Fiumicino)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:30
+Landing: 08:15
+Duration: 01:45
+From: FCO (Rome Fiumicino)
+To: VIE (Vienna)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:40
+Duration: 02:40
+From: FCO (Rome Fiumicino)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:45
+Landing: 18:55
+Duration: 02:10
+From: RZE (Rzeszów)
+To: MXP (Milan Malpensa)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:00
+Landing: 13:25
+Duration: 02:25
+From: SKD (Samarkand)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 10:10
+Landing: 12:10
+Duration: 02:00
+From: SJJ (Sarajevo)
+To: LTN (London Luton)
+Price: 20.00BAM
+
+Date: 2024-10-12
+Takeoff: 22:45
+Landing: 01:25
+Duration: 02:40
+From: SVQ (Seville)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:05
+Landing: 22:55
+Duration: 03:50
+From: SVQ (Seville)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:55
+Landing: 01:30
+Duration: 03:35
+From: SSH (Sharm El Sheikh)
+To: MXP (Milan Malpensa)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 11:35
+Landing: 14:30
+Duration: 02:55
+From: SSH (Sharm El Sheikh)
+To: FCO (Rome Fiumicino)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 20:45
+Landing: 22:55
+Duration: 02:10
+From: SKP (Skopje)
+To: MXP (Milan Malpensa)
+Price: 630.00MKD
+
+Date: 2024-10-12
+Takeoff: 19:45
+Landing: 20:15
+Duration: 00:30
+From: SOF (Sofia)
+To: BRI (Bari)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 06:10
+Landing: 07:45
+Duration: 01:35
+From: SOF (Sofia)
+To: GVA (Geneva)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 06:00
+Landing: 08:10
+Duration: 02:10
+From: SOF (Sofia)
+To: LCA (Larnaca)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 15:10
+Landing: 15:55
+Duration: 00:45
+From: SOF (Sofia)
+To: NAP (Naples)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 12:45
+Landing: 16:25
+Duration: 03:40
+From: SOF (Sofia)
+To: EVN (Yerevan)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 09:55
+Landing: 14:25
+Duration: 04:30
+From: HMB (Sohag)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 22:10
+Landing: 23:55
+Duration: 01:45
+From: SPU (Split)
+To: LTN (London Luton)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:30
+Landing: 11:10
+Duration: 01:40
+From: SVG (Stavanger)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 21:30
+Landing: 23:10
+Duration: 01:40
+From: SVG (Stavanger)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 09:15
+Landing: 11:30
+Duration: 02:15
+From: SVG (Stavanger)
+To: KRK (Kraków)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 22:10
+Landing: 00:35
+Duration: 02:25
+From: ARN (Stockholm Arlanda)
+To: BUD (Budapest)
+Price: 119.00SEK
+
+Date: 2024-10-12
+Takeoff: 08:00
+Landing: 09:25
+Duration: 01:25
+From: ARN (Stockholm Arlanda)
+To: GDN (Gdansk)
+Price: 119.00SEK
+
+Date: 2024-10-12
+Takeoff: 18:30
+Landing: 01:10
+Duration: 06:40
+From: TFS (Tenerife (Canary Islands))
+To: GDN (Gdansk)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:00
+Landing: 00:10
+Duration: 05:10
+From: TFS (Tenerife (Canary Islands))
+To: MXP (Milan Malpensa)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 10:35
+Landing: 15:55
+Duration: 05:20
+From: TFS (Tenerife (Canary Islands))
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:45
+Landing: 01:05
+Duration: 05:20
+From: TFS (Tenerife (Canary Islands))
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 19:55
+Landing: 01:25
+Duration: 05:30
+From: TFS (Tenerife (Canary Islands))
+To: VCE (Venice Marco Polo)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:20
+Landing: 00:35
+Duration: 01:15
+From: SKG (Thessaloniki)
+To: OTP (Bucharest)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 21:05
+Landing: 21:55
+Duration: 00:50
+From: TSR (Timisoara)
+To: BGY (Milan Bergamo)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 11:15
+Landing: 11:50
+Duration: 00:35
+From: TSR (Timisoara)
+To: TSF (Venice Treviso)
+Price: 51.99RON
+
+Date: 2024-10-12
+Takeoff: 21:35
+Landing: 23:05
+Duration: 01:30
+From: TIA (Tirana)
+To: BUD (Budapest)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 23:50
+Landing: 01:25
+Duration: 01:35
+From: TIA (Tirana)
+To: CTA (Catania (Sicily))
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 06:05
+Landing: 08:45
+Duration: 02:40
+From: TIA (Tirana)
+To: DTM (Dortmund)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 16:15
+Landing: 18:10
+Duration: 01:55
+From: TIA (Tirana)
+To: KRK (Kraków)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 18:10
+Landing: 19:50
+Duration: 01:40
+From: TIA (Tirana)
+To: FCO (Rome Fiumicino)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 06:55
+Landing: 09:10
+Duration: 02:15
+From: TIA (Tirana)
+To: TRN (Turin)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 20:10
+Landing: 23:05
+Duration: 02:55
+From: TIA (Tirana)
+To: VLC (Valencia)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 21:10
+Landing: 22:55
+Duration: 01:45
+From: TIA (Tirana)
+To: VRN (Verona)
+Price: 1,010.00ALL
+
+Date: 2024-10-12
+Takeoff: 22:25
+Landing: 01:10
+Duration: 02:45
+From: TOS (Tromso)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 14:15
+Landing: 16:10
+Duration: 01:55
+From: TRD (Trondheim)
+To: GDN (Gdansk)
+Price: 125.00NOK
+
+Date: 2024-10-12
+Takeoff: 13:55
+Landing: 17:15
+Duration: 03:20
+From: HSA (Turkistan)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 22:45
+Landing: 00:55
+Duration: 02:10
+From: VLC (Valencia)
+To: FCO (Rome Fiumicino)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:45
+Landing: 03:45
+Duration: 04:00
+From: VLC (Valencia)
+To: TSR (Timisoara)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:45
+Landing: 02:30
+Duration: 02:45
+From: VLC (Valencia)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 05:40
+Landing: 07:35
+Duration: 01:55
+From: VAR (Varna (Black Sea))
+To: DTM (Dortmund)
+Price: 20.00BGN
+
+Date: 2024-10-12
+Takeoff: 06:10
+Landing: 07:35
+Duration: 01:25
+From: VCE (Venice Marco Polo)
+To: PRG (Prague)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 08:45
+Landing: 10:25
+Duration: 01:40
+From: VCE (Venice Marco Polo)
+To: WAW (Warsaw Chopin)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:25
+Landing: 14:50
+Duration: 02:25
+From: TSF (Venice Treviso)
+To: TSR (Timisoara)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 23:30
+Landing: 01:10
+Duration: 01:40
+From: VRN (Verona)
+To: TIA (Tirana)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 11:05
+Landing: 13:30
+Duration: 02:25
+From: VIE (Vienna)
+To: BCN (Barcelona El Prat)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 16:00
+Landing: 18:25
+Duration: 02:25
+From: VIE (Vienna)
+To: BCN (Barcelona El Prat)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 10:15
+Duration: 03:55
+From: VIE (Vienna)
+To: FNC (Funchal (Madeira))
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 09:00
+Landing: 10:20
+Duration: 01:20
+From: VIE (Vienna)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 15:00
+Landing: 16:25
+Duration: 01:25
+From: VIE (Vienna)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 17:20
+Landing: 18:45
+Duration: 01:25
+From: VIE (Vienna)
+To: LGW (London Gatwick)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:30
+Landing: 08:10
+Duration: 01:40
+From: VIE (Vienna)
+To: NAP (Naples)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 06:05
+Landing: 08:00
+Duration: 01:55
+From: VIE (Vienna)
+To: NCE (Nice)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 22:25
+Landing: 03:50
+Duration: 05:25
+From: VIE (Vienna)
+To: EVN (Yerevan)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 13:30
+Landing: 14:45
+Duration: 01:15
+From: VNO (Vilnius)
+To: DTM (Dortmund)
+Price: 9.99EUR
+
+Date: 2024-10-12
+Takeoff: 12:30
+Landing: 14:35
+Duration: 02:05
+From: WAW (Warsaw Chopin)
+To: BRI (Bari)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 06:20
+Landing: 08:25
+Duration: 02:05
+From: WAW (Warsaw Chopin)
+To: BSL (Basel-Mulhouse-Freiburg)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 07:20
+Landing: 10:40
+Duration: 03:20
+From: WAW (Warsaw Chopin)
+To: BIO (Bilbao)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 12:45
+Landing: 14:50
+Duration: 02:05
+From: WAW (Warsaw Chopin)
+To: EIN (Eindhoven)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 11:30
+Landing: 16:00
+Duration: 04:30
+From: WAW (Warsaw Chopin)
+To: FNC (Funchal (Madeira))
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 14:55
+Landing: 18:45
+Duration: 03:50
+From: WAW (Warsaw Chopin)
+To: MAD (Madrid)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 17:55
+Landing: 20:30
+Duration: 02:35
+From: WAW (Warsaw Chopin)
+To: NCE (Nice)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 15:15
+Landing: 18:30
+Duration: 03:15
+From: WAW (Warsaw Chopin)
+To: PMI (Palma de Mallorca)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 05:45
+Landing: 08:45
+Duration: 03:00
+From: WAW (Warsaw Chopin)
+To: OPO (Porto)
+Price: 44.99PLN
+
+Date: 2024-10-12
+Takeoff: 21:20
+Landing: 00:35
+Duration: 03:15
+From: EVN (Yerevan)
+To: AUH (Abu Dhabi)
+Price: 11.49USD
+
+Date: 2024-10-12
+Takeoff: 23:35
+Landing: 01:30
+Duration: 01:55
+From: EVN (Yerevan)
+To: SOF (Sofia)
 Price: 11.49USD
 ------------------------------------------------------
