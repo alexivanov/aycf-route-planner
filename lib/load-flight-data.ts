@@ -1,6 +1,5 @@
-import path from "path";
-import { promises as fs } from "fs";
 import { Airport, Flight, Price } from "./types";
+import { loadFlightDataFromDb } from "@/lib/database-queries";
 
 const landsNextDay = (
   date: string,
@@ -34,11 +33,15 @@ const parseDurationMinutes = (duration: string): number => {
 };
 
 // AUH (Abu Dhabi)
-const parseAirport = (airport: string): Airport => {
+export const parseAirport = (airport: string): Airport => {
   const code = airport.slice(0, 3);
   const name = airport.slice(5, -1);
 
   return { code, name };
+};
+
+export const toDbAirportName = (airport: Airport): string => {
+  return `${airport.code} (${airport.name})`;
 };
 
 // Price: 42.00AED
@@ -49,19 +52,11 @@ const parsePrice = (price: string): Price => {
 };
 
 export const loadFlightData = async (): Promise<Flight[]> => {
-  const filePath = path.join(process.cwd(), "data/flight-data.txt");
-  try {
-    const data = await fs.readFile(filePath, "utf8");
-
-    return parseFlights(data);
-  } catch (error) {
-    console.error("Error reading flight data file:", error);
-    throw new Error("Failed to load flight data");
-  }
+  return await loadFlightDataFromDb();
 };
 
-const parseFlights = (data: string): Flight[] => {
-  const flights: Flight[] = [];
+export const parseFlights = (data: string): Omit<Flight, "createdAt">[] => {
+  const flights: Omit<Flight, "createdAt">[] = [];
   const alLines = data.split("\n").map((line) => line.trim());
 
   // Find the first line of flight data, it will start with 'Date:'
@@ -98,6 +93,22 @@ const parseFlights = (data: string): Flight[] => {
     } else {
       console.error("Invalid flight data format");
     }
+  }
+
+  const flightsFoundLine = alLines.find((line) =>
+    line.startsWith("Flights found:"),
+  );
+
+  if (!flightsFoundLine) {
+    throw new Error("Invalid flight data format");
+  }
+
+  const flightsFound = parseInt(flightsFoundLine.split(": ")[1], 10);
+
+  if (flightsFound !== flights.length) {
+    throw new Error(
+      `Invalid flight data format. Expected ${flightsFound} flights, got ${flights.length}`,
+    );
   }
 
   return flights;
