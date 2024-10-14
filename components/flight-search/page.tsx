@@ -30,9 +30,10 @@ import { Airport, Connection, ConnectionApiResult } from "@/lib/types";
 import { ConnectionCard } from "@/components/ui/connection";
 import { parseApiConnectionData } from "@/lib/parse-api-connection-data";
 
-const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
-  airports,
-}) => {
+const FlightSearchPage: FunctionComponent<{
+  airports: Airport[];
+  latestDataUpdateTime: Date | null;
+}> = ({ airports, latestDataUpdateTime }) => {
   const [from, setFrom] = useState<Airport | null>(null);
   const [to, setTo] = useState<Airport | null>(null);
   const [date, setDate] = useState("");
@@ -87,9 +88,12 @@ const FlightSearchPage: FunctionComponent<{ airports: Airport[] }> = ({
               accurate but double check with the Multipass site. 🤷‍♂️
             </div>
 
-            <div className="font-bold">
-              Last availability data update: 12/07/2024 ~08:00 CET
-            </div>
+            {latestDataUpdateTime && (
+              <div className="font-bold">
+                Last availability data update:{" "}
+                {latestDataUpdateTime.toUTCString()}
+              </div>
+            )}
 
             <div className="mt-3 font-bold">
               Also don&apos;t book flights with &lt;3 hour layover. You will
