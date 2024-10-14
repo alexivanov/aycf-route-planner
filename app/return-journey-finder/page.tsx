@@ -1,21 +1,15 @@
-import { loadFlightData } from "@/lib/load-flight-data";
 import { Airport } from "@/lib/types";
 import { ReturnJourneyFinder } from "@/components/return-journey-finder/page";
 
 const Page = async () => {
-  const flights = await loadFlightData();
+  const HOST = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : "http://localhost:3000";
 
-  const allAirports = flights
-    .reduce<Airport[]>((acc, flight) => {
-      if (!acc.find((airport) => airport.code === flight.from.code)) {
-        acc.push(flight.from);
-      }
-      if (!acc.find((airport) => airport.code === flight.to.code)) {
-        acc.push(flight.to);
-      }
-      return acc;
-    }, [])
-    .sort((a, b) => a.code.localeCompare(b.code));
+  const allAirports : Airport[] = await fetch(`${HOST}/api/all-airports`, {
+      cache: "no-store",
+    })
+    .then((res) => res.json());
   return <ReturnJourneyFinder airports={allAirports} />;
 };
 

@@ -76,3 +76,11 @@ export const saveNewFlightsData = async (
     data: newActiveFlights,
   });
 };
+
+export const getLatestFlightDataUpdateTime = async (): Promise<Date | null> => {
+  const latestFlight = await prisma.activeFlight.findFirst({
+    orderBy: { createdAt: "desc" },
+  });
+
+  return latestFlight?.createdAt ?? null;
+};
