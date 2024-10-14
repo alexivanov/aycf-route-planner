@@ -1,24 +1,22 @@
-import { loadFlightData } from "@/lib/load-flight-data";
 import { Airport } from "@/lib/types";
 import FlightSearchPage from "@/components/flight-search/page";
 
-const flights = await loadFlightData();
+const HOST = process.env.VERCEL_URL
+  ? `https://${process.env.VERCEL_URL}`
+  : "http://localhost:3000";
 
-const latestDataUpdateTime = flights
-  ? new Date(Math.max(...flights.map((flight) => flight.createdAt.getTime())))
-  : null;
+const latestUpdateTimeData = await fetch(
+  `${HOST}/api/latest-data-update-time`,
+  {
+    cache: "no-store",
+  },
+).then((res) => res.json());
 
-const allAirports = flights
-  .reduce<Airport[]>((acc, flight) => {
-    if (!acc.find((airport) => airport.code === flight.from.code)) {
-      acc.push(flight.from);
-    }
-    if (!acc.find((airport) => airport.code === flight.to.code)) {
-      acc.push(flight.to);
-    }
-    return acc;
-  }, [])
-  .sort((a, b) => a.code.localeCompare(b.code));
+const latestDataUpdateTime = new Date(latestUpdateTimeData);
+
+const allAirports: Airport[] = await fetch(`${HOST}/api/all-airports`, {
+  cache: "no-store",
+}).then((res) => res.json());
 
 const Page = () => {
   return (
