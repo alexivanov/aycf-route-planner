@@ -8,7 +8,8 @@
     "format": "prettier --write .",
     "start": "next start",
     "lint": "next lint",
-    "dev:prismadb": "dotenv -e .env.development.local prisma"
+    "dev:prismadb": "dotenv -e .env.development.local prisma",
+    "postinstall": "prisma generate"
   },
   "dependencies": {
     "@prisma/client": "5.20.0",
