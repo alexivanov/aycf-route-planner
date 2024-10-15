@@ -1,5 +1,6 @@
 import { saveNewFlightsData } from "@/lib/database-queries";
 import { parseFlights } from "@/lib/load-flight-data";
+import { revalidateTag } from "next/cache";
 import { NextResponse } from "next/server";
 
 export async function POST(request: Request) {
@@ -42,6 +43,9 @@ export async function POST(request: Request) {
   await saveNewFlightsData(flights);
 
   console.log(`Found ${flights.length} flights in the updated data`);
+
+  revalidateTag("all-airports");
+  revalidateTag("latest-data-update-time");
 
   return NextResponse.json({ success: true });
 }

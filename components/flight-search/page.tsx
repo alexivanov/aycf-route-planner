@@ -32,7 +32,7 @@ import { parseApiConnectionData } from "@/lib/parse-api-connection-data";
 
 const FlightSearchPage: FunctionComponent<{
   airports: Airport[];
-  latestDataUpdateTime: Date | null;
+  latestDataUpdateTime: number | null;
 }> = ({ airports, latestDataUpdateTime }) => {
   const [from, setFrom] = useState<Airport | null>(null);
   const [to, setTo] = useState<Airport | null>(null);
@@ -91,7 +91,7 @@ const FlightSearchPage: FunctionComponent<{
             {latestDataUpdateTime && (
               <div className="font-bold">
                 Last availability data update:{" "}
-                {latestDataUpdateTime.toUTCString()}
+                {new Date(latestDataUpdateTime).toUTCString()}
               </div>
             )}
 
