@@ -4,6 +4,8 @@ import {
   getCachedLatestDataUpdateTime,
 } from "@/lib/server-side-cached-props";
 
+export const dynamic = "force-dynamic";
+
 const Page = async () => {
   const allAirports = await getCachedAllAirports();
   const latestDataUpdateTime = await getCachedLatestDataUpdateTime();
