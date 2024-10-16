@@ -44,8 +44,7 @@ export async function POST(request: Request) {
 
   console.log(`Found ${flights.length} flights in the updated data`);
 
-  revalidateTag("all-airports");
-  revalidateTag("latest-data-update-time");
+  revalidateTag("flight-data");
 
   return NextResponse.json({ success: true });
 }
