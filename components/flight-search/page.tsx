@@ -91,7 +91,7 @@ const FlightSearchPage: FunctionComponent<{
             {latestDataUpdateTime && (
               <div className="font-bold">
                 Last availability data update:{" "}
-                {new Date(latestDataUpdateTime).toUTCString()}
+                {new Date(latestDataUpdateTime).toString()}
               </div>
             )}
 

@@ -16,7 +16,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "AYCF Route Planner",
+  title: { default: "AYCF Route Planner", template: "%s | AYCF Route Planner" },
   description: "Plan your route with AYCF",
 };
 
@@ -47,6 +47,9 @@ export default function RootLayout({
                   className="hover:text-gray-300"
                 >
                   Return Journey Finder
+                </Link>
+                <Link href="/raw-data" className="hover:text-gray-300">
+                  Raw Data
                 </Link>
               </div>
             </div>

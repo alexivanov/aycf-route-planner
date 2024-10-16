@@ -30,3 +30,21 @@ export const getCachedLatestDataUpdateTime = unstable_cache(
   ["latest-data-update-time"],
   { tags: ["flight-data"] },
 );
+
+export const getCachedAllFlights = unstable_cache(
+  async () => {
+    const flightData = await loadFlightData();
+
+    return flightData.map((flight) => ({
+      departure: flight.departure.toISOString(),
+      arrival: flight.arrival.toISOString(),
+      durationMinutes: flight.durationMinutes,
+      from: flight.from,
+      to: flight.to,
+      price: flight.price,
+      createdAt: flight.createdAt.toISOString(),
+    }));
+  },
+  ["all-flights"],
+  { tags: ["flight-data"] },
+);

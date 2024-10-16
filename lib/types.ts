@@ -15,6 +15,8 @@ export interface FlightApiResult
   extends Omit<Flight, "departure" | "arrival" | "createdAt"> {
   departure: string;
   arrival: string;
+
+  createdAt: string;
 }
 
 export interface Airport {

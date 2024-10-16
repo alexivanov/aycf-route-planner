@@ -3,7 +3,9 @@ import prisma from "@/lib/db";
 import { parseAirport, toDbAirportName } from "./load-flight-data";
 
 export const loadFlightDataFromDb = async (): Promise<Flight[]> => {
-  const flightsData = await prisma.activeFlight.findMany();
+  const flightsData = await prisma.activeFlight.findMany({
+    orderBy: [{ createdAt: "asc" }, { from: "asc" }, { departure: "asc" }],
+  });
 
   return flightsData.map((flightData) => ({
     departure: flightData.departure,
