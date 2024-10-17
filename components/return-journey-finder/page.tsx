@@ -190,7 +190,12 @@ export const ReturnJourneyFinder: FunctionComponent<{
                                   <p className="font-semibold">
                                     {flightIndex == 0 ? "Outbound" : "Return"}
                                   </p>
-                                  <p>Date: {flight.departure.toDateString()}</p>
+                                  <p>
+                                    Date:{" "}
+                                    {flight.departure
+                                      .toUTCString()
+                                      .substring(0, 16)}
+                                  </p>
                                   <p>
                                     From: {getFullAirportName(flight.from)} to{" "}
                                     {getFullAirportName(flight.to)}

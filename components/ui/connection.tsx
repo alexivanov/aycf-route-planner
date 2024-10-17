@@ -26,7 +26,7 @@ export const ConnectionCard: FunctionComponent<{
         {connection.flights.map((flight, flightIndex) => (
           <div key={flightIndex} className="mb-4 rounded-md bg-gray-50 p-4">
             <p className="font-semibold">Flight {flightIndex + 1}:</p>
-            <p>Date: {flight.departure.toDateString()}</p>
+            <p>Date: {flight.departure.toUTCString().substring(0, 16)}</p>
             <p>
               From: {getFullAirportName(flight.from)} to{" "}
               {getFullAirportName(flight.to)}
