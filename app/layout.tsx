@@ -3,6 +3,7 @@ import localFont from "next/font/local";
 import "./globals.css";
 import { Analytics } from "@vercel/analytics/next";
 import Link from "next/link";
+import Script from "next/script";
 
 const geistSans = localFont({
   src: "./fonts/GeistVF.woff",
@@ -57,6 +58,22 @@ export default function RootLayout({
         </nav>
         <main className="container mx-auto px-4 py-8">{children}</main>
         <Analytics />
+        <Script id="tomorrow-weather-scripts">
+          {`(function(d, s, id) {
+          if (d.getElementById(id)) {
+          if (window.__TOMORROW__) {
+          window.__TOMORROW__.renderWidget();
+        }
+          return;
+        }
+          const fjs = d.getElementsByTagName(s)[0];
+          const js = d.createElement(s);
+          js.id = id;
+          js.src = "https://www.tomorrow.io/v1/widget/sdk/sdk.bundle.min.js";
+
+          fjs.parentNode.insertBefore(js, fjs);
+        })(document, 'script', 'tomorrow-sdk');`}
+        </Script>
       </body>
     </html>
   );
