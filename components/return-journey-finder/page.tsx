@@ -22,7 +22,6 @@ import {
   AccordionItem,
   AccordionTrigger,
 } from "../ui/accordion";
-import Script from "next/script";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { WeatherWidget } from "@/components/weather-widget/weather-widget";
 
