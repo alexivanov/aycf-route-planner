@@ -2,12 +2,14 @@ import { NextResponse } from "next/server";
 import { parse } from "csv-parse";
 import * as fs from "node:fs";
 import { AirportLocationData } from "@/lib/types";
+import path from "node:path";
 
 const AIRPORT_LOCATION_DATA_PATH = "data/airport-location-data.csv";
 
 const loadAirportLocationData = async () => {
   // Read from CSV file, and return it as an array of objects
-  const text = fs.readFileSync(AIRPORT_LOCATION_DATA_PATH, "utf-8");
+  const filePath = path.join(process.cwd(), AIRPORT_LOCATION_DATA_PATH);
+  const text = fs.readFileSync(filePath, "utf-8");
   return await new Promise<AirportLocationData[]>((resolve, reject) => {
     parse(text, { columns: true }, (err, records: AirportLocationData[]) => {
       if (err) {

@@ -14,6 +14,11 @@ export const WeatherWidget: FunctionComponent<{
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
+  const viewPortClasses = {
+    "md:hidden": viewport === "mobile",
+    "hidden md:block": viewport === "desktop",
+  };
+
   // Fetch airport location data
   useEffect(() => {
     const fetchLocationData = async () => {
@@ -53,19 +58,24 @@ export const WeatherWidget: FunctionComponent<{
     (window as any).__TOMORROW__.renderWidget();
   }
   if (loading) {
-    return <div>Loading airport location data...</div>;
+    return (
+      <div className={cx(viewPortClasses)}>
+        Loading airport location data...
+      </div>
+    );
   }
 
   if (error || !locationData) {
-    return <div className="text-red-500">Error loading weather data</div>;
+    return (
+      <div className={cx("text-red-500", viewPortClasses)}>
+        Error loading weather data
+      </div>
+    );
   }
 
   return (
     <div
-      className={cx("tomorrow pb-6 max-w[70%]", {
-        "md:hidden": viewport === "mobile",
-        "hidden md:block": viewport === "desktop",
-      })}
+      className={cx("tomorrow pb-6 max-w[70%]", viewPortClasses)}
       data-language="EN"
       data-latitude={locationData.latitude}
       data-longitude={locationData.longitude}
