@@ -32,6 +32,7 @@ export function MultiSelect({
   placeholder,
 }: MultiSelectProps) {
   const [open, setOpen] = React.useState(false);
+  const [search, setSearch] = React.useState("");
 
   return (
     <Popover open={open} onOpenChange={setOpen}>
@@ -50,7 +51,11 @@ export function MultiSelect({
       </PopoverTrigger>
       <PopoverContent className="w-full p-0">
         <Command>
-          <CommandInput placeholder="Search options..." />
+          <CommandInput
+            placeholder="Search options..."
+            value={search}
+            onValueChange={setSearch}
+          />
           <CommandList>
             <CommandEmpty>No option found.</CommandEmpty>
             <CommandGroup>
@@ -64,7 +69,9 @@ export function MultiSelect({
                         : [...selected, option],
                     );
                     setOpen(true);
+                    setSearch("");
                   }}
+                  keywords={[option.name]}
                 >
                   <Check
                     className={cn(

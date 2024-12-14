@@ -150,6 +150,7 @@ const FlightSearchPage: FunctionComponent<{
                                 setFrom(airport);
                                 setOpenFrom(false);
                               }}
+                              keywords={[airport.name]}
                             >
                               <Check
                                 className={cn(
@@ -197,6 +198,7 @@ const FlightSearchPage: FunctionComponent<{
                                   setTo(airport);
                                   setOpenTo(false);
                                 }}
+                                keywords={[airport.name]}
                               >
                                 <Check
                                   className={cn(
