@@ -24,6 +24,7 @@ import {
 } from "../ui/accordion";
 import { usePathname, useRouter, useSearchParams } from "next/navigation";
 import { WeatherWidget } from "@/components/weather-widget/weather-widget";
+import { sendGTMEvent } from "@next/third-parties/google";
 
 export const ReturnJourneyFinder: FunctionComponent<{
   airports: Airport[];
@@ -130,6 +131,14 @@ export const ReturnJourneyFinder: FunctionComponent<{
       const origins = state.selectedAirports
         .map((airport) => airport.code)
         .join(",");
+
+      sendGTMEvent({
+        event: "returnFlightSearch",
+        origins,
+        startDate: state.startDate,
+        endDate: state.endDate,
+      });
+
       const response = await fetch(
         `/api/return-journeys?origins=${origins}&startDate=${state.startDate}&endDate=${state.endDate}`,
       );

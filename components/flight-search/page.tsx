@@ -29,6 +29,7 @@ import { cn } from "@/lib/utils";
 import { Airport, Connection, ConnectionApiResult } from "@/lib/types";
 import { ConnectionCard } from "@/components/ui/connection";
 import { parseApiConnectionData } from "@/lib/parse-api-connection-data";
+import { sendGTMEvent } from "@next/third-parties/google";
 
 const FlightSearchPage: FunctionComponent<{
   airports: Airport[];
@@ -51,6 +52,13 @@ const FlightSearchPage: FunctionComponent<{
     }
     setLoading(true);
     setError(null);
+
+    sendGTMEvent({
+      event: "flightSearch",
+      from: from.code,
+      to: to.code,
+      date: date,
+    });
 
     try {
       const response = await fetch(
