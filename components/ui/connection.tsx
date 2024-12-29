@@ -40,7 +40,10 @@ export const ConnectionCard: FunctionComponent<{
   return (
     <Card className="mb-4">
       <CardHeader>
-        <CardTitle>Connection {id}</CardTitle>
+        <CardTitle>
+          {connection.flights.length == 1 ? "Direct connection" : "Connection"}{" "}
+          {id}
+        </CardTitle>
         <CardDescription>
           Total Duration: {formatDuration(connection.totalDuration)}
         </CardDescription>

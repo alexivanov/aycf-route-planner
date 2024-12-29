@@ -21,6 +21,21 @@ export async function GET(request: Request) {
 
   // Sort connections by arrival time, keeping in mind that some flights may arrive the next day
   connections.sort((a, b) => {
+    if (a.flights.length == 1) {
+      if (b.flights.length == 1) {
+        return (
+          a.flights[a.flights.length - 1].arrival.getTime() -
+          b.flights[b.flights.length - 1].arrival.getTime()
+        );
+      }
+
+      return -1;
+    }
+
+    if (b.flights.length == 1) {
+      return 1;
+    }
+
     return (
       a.flights[a.flights.length - 1].arrival.getTime() -
       b.flights[b.flights.length - 1].arrival.getTime()
