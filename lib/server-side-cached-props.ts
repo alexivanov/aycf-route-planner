@@ -1,5 +1,5 @@
 import { unstable_cache } from "next/cache";
-import { loadFlightData } from "@/lib/load-flight-data";
+import { loadFlightData } from "@/lib/data/load-flight-data";
 import { Airport } from "@/lib/types";
 import { getLatestFlightDataUpdateTime } from "@/lib/database-queries";
 

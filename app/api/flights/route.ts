@@ -1,4 +1,4 @@
-import { loadFlightData } from "@/lib/load-flight-data";
+import { loadFlightData } from "@/lib/data/load-flight-data";
 import { NextResponse } from "next/server";
 import { findConnections } from "@/lib/find-connections";
 
@@ -17,7 +17,7 @@ export async function GET(request: Request) {
 
   const flights = await loadFlightData();
 
-  const connections = findConnections(flights, from, to, date);
+  const connections = await findConnections(flights, from, to, date);
 
   // Sort connections by arrival time, keeping in mind that some flights may arrive the next day
   connections.sort((a, b) => {

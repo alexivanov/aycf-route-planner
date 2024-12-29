@@ -32,8 +32,24 @@ export interface Price {
 export interface Connection {
   flights: Omit<Flight, "createdAt">[];
   totalDuration: number;
-  layovers: { airport: Airport; duration: number }[];
+  layovers: Layover[];
+  hasAirportChangeLayover: boolean;
 }
+
+export interface SameAirportLayover {
+  isSameAirport: true;
+  airport: Airport;
+  duration: number;
+}
+
+export interface AirportChangeLayover {
+  isSameAirport: false;
+  arrivalAirport: Airport;
+  departureAirport: Airport;
+  duration: number;
+}
+
+export type Layover = SameAirportLayover | AirportChangeLayover;
 
 export interface ConnectionApiResult extends Omit<Connection, "flights"> {
   flights: FlightApiResult[];

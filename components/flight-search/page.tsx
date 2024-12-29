@@ -1,6 +1,6 @@
 "use client";
 
-import { FunctionComponent, useState } from "react";
+import { FunctionComponent, useMemo, useState } from "react";
 import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
@@ -44,6 +44,17 @@ const FlightSearchPage: FunctionComponent<{
   const [openFrom, setOpenFrom] = useState(false);
   const [openTo, setOpenTo] = useState(false);
 
+  const [requestedData, setRequestedData] = useState<{
+    from: Airport;
+    to: Airport;
+  } | null>(null);
+
+  const numConnectionWithAirportChange = useMemo(() => {
+    return connections.filter(
+      (connection) => connection.hasAirportChangeLayover,
+    ).length;
+  }, [connections]);
+
   const handleSearch = async (e: React.FormEvent) => {
     e.preventDefault();
     if (!from || !to) {
@@ -68,6 +79,7 @@ const FlightSearchPage: FunctionComponent<{
         throw new Error(`HTTP error! status: ${response.status}`);
       }
       const data = (await response.json()) as ConnectionApiResult[];
+      setRequestedData({ from, to });
       setConnections(data.map(parseApiConnectionData));
       if (data.length === 0) {
         setError("No flights found for the given route and date.");
@@ -257,16 +269,19 @@ const FlightSearchPage: FunctionComponent<{
         </div>
       )}
 
-      {connections.length > 0 && (
+      {connections.length > 0 && requestedData && (
         <div className="mt-8">
           <h2 className="mb-4 text-2xl font-semibold">
-            Available Connections (max 2 stop-overs) ({connections.length})
+            Available Connections (max 2 stop-overs) ({connections.length},{" "}
+            {numConnectionWithAirportChange} with airport change)
           </h2>
           {connections.map((connection, index) => (
             <ConnectionCard
               key={index}
               id={(index + 1).toString()}
               connection={connection}
+              from={requestedData.from}
+              to={requestedData.to}
             />
           ))}
         </div>
