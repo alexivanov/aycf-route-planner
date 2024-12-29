@@ -267,8 +267,11 @@ const FlightSearchPage: FunctionComponent<{
       {connections.length > 0 && requestedData && (
         <div className="mt-8">
           <h2 className="mb-4 text-2xl font-semibold">
-            Available Connections (max 2 stop-overs) ({connections.length},{" "}
-            {numConnectionWithAirportChange} with airport change)
+            Available Connections (max 2 stop-overs) ({connections.length}
+            {numConnectionWithAirportChange > 0
+              ? `, ${numConnectionWithAirportChange} with airport change`
+              : ""}
+            )
           </h2>
           {connections.map((connection, index) => (
             <ConnectionCard

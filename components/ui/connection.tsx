@@ -61,8 +61,15 @@ export const ConnectionCard: FunctionComponent<{
                     flight.to.code != to.code),
               })}
             >
-              From: {getFullAirportName(flight.from)} to{" "}
-              {getFullAirportName(flight.to)}
+              From: {getFullAirportName(flight.from)}
+              {flightIndex == 0 && flight.from.code != from.code
+                ? "(!)"
+                : ""}{" "}
+              to {getFullAirportName(flight.to)}
+              {flightIndex == connection.flights.length - 1 &&
+              flight.to.code != to.code
+                ? "(!)"
+                : ""}
             </p>
             <p>
               Takeoff: {formatFlightTime(flight.departure)} | Landing:{" "}
