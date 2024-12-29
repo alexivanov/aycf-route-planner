@@ -100,12 +100,8 @@ const FlightSearchPage: FunctionComponent<{
           <CardTitle>Disclaimer</CardTitle>
           <CardDescription className="max-w-2xl">
             <div>
-              This is very experimental and data is manually updated from
-              external sources.{" "}
-            </div>
-            <div>
-              95% percent of this website was AI generated. It should be
-              accurate but double check with the Multipass site. 🤷‍♂️
+              This is experimental and data is often, at least daily, updated
+              from external sources.{" "}
             </div>
 
             {latestDataUpdateTime && (
@@ -114,10 +110,9 @@ const FlightSearchPage: FunctionComponent<{
                 {new Date(latestDataUpdateTime).toString()}
               </div>
             )}
-
             <div className="mt-3 font-bold">
-              Also don&apos;t book flights with &lt;3 hour layover. You will
-              miss your flight.
+              Also don&apos;t book multi-leg trips with &lt;3 hour layover. You
+              will miss your flight.
             </div>
             <div className="mt-3">
               Known issues:
