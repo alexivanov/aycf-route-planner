@@ -1,4 +1,4 @@
-import { loadFlightData } from "@/lib/load-flight-data";
+import { loadFlightData } from "@/lib/data/load-flight-data";
 import { NextResponse } from "next/server";
 
 export async function GET() {
