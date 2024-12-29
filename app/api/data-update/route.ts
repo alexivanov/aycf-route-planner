@@ -1,5 +1,5 @@
 import { saveNewFlightsData } from "@/lib/database-queries";
-import { parseFlights } from "@/lib/load-flight-data";
+import { parseFlights } from "@/lib/data/load-flight-data";
 import { revalidateTag } from "next/cache";
 import { NextResponse } from "next/server";
 

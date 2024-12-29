@@ -1,6 +1,6 @@
 import { Flight } from "@/lib/types";
 import prisma from "@/lib/db";
-import { parseAirport, toDbAirportName } from "./load-flight-data";
+import { parseAirport, toDbAirportName } from "./data/load-flight-data";
 
 export const loadFlightDataFromDb = async (): Promise<Flight[]> => {
   const flightsData = await prisma.activeFlight.findMany({

@@ -1,4 +1,4 @@
-import { loadFlightData } from "@/lib/load-flight-data";
+import { loadFlightData } from "@/lib/data/load-flight-data";
 import { NextResponse } from "next/server";
 import { Airport, Connection, Destination, Flight } from "@/lib/types";
 
@@ -127,8 +127,10 @@ export async function GET(request: Request) {
                     departureFlight.arrival.getTime()) /
                   1000 /
                   60,
+                isSameAirport: true,
               },
             ],
+            hasAirportChangeLayover: false,
           });
         }
       }

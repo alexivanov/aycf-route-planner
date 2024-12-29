@@ -1,25 +1,5 @@
 import { NextResponse } from "next/server";
-import { parse } from "csv-parse";
-import * as fs from "node:fs";
-import { AirportLocationData } from "@/lib/types";
-import path from "node:path";
-
-const AIRPORT_LOCATION_DATA_PATH = "data/airport-location-data.csv";
-
-const loadAirportLocationData = async () => {
-  // Read from CSV file, and return it as an array of objects
-  const filePath = path.join(process.cwd(), AIRPORT_LOCATION_DATA_PATH);
-  const text = fs.readFileSync(filePath, "utf-8");
-  return await new Promise<AirportLocationData[]>((resolve, reject) => {
-    parse(text, { columns: true }, (err, records: AirportLocationData[]) => {
-      if (err) {
-        reject(err);
-      } else {
-        resolve(records);
-      }
-    });
-  });
-};
+import { getAirportLocation } from "@/lib/get-airport-location";
 
 export async function GET(request: Request) {
   const { searchParams } = new URL(request.url);
@@ -32,12 +12,11 @@ export async function GET(request: Request) {
     );
   }
 
-  const airportLocationData = await loadAirportLocationData();
-  const data = airportLocationData.find((item) => item.iata === iataCode);
+  const location = await getAirportLocation(iataCode);
 
-  if (!data) {
+  if (!location) {
     return NextResponse.json({ error: "Airport not found" }, { status: 404 });
   }
 
-  return NextResponse.json(data);
+  return NextResponse.json(location);
 }

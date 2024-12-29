@@ -1,4 +1,4 @@
-import { Airport, Flight, Price } from "./types";
+import { Airport, Flight, Price } from "../types";
 import { loadFlightDataFromDb } from "@/lib/database-queries";
 
 const landsNextDay = (
