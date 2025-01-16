@@ -51,9 +51,6 @@ export default function RootLayout({
                 >
                   Return Journey Finder
                 </Link>
-                <Link href="/raw-data" className="hover:text-gray-300">
-                  Raw Data
-                </Link>
               </div>
             </div>
           </div>
